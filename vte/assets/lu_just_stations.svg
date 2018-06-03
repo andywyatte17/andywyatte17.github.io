@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2500" height="1320" viewBox="-40.5 -120.5 2500 1320">
+<style type="text/css">
+text {font-family:Arimo,Liberation Sans,HammersmithOne,Helvetica,Arial,sans-serif}
+/* #stname_Bakerloo_line { fill:brown } */
+#stname_interchanges {
+  fill: rebeccapurple;
+}
+#stname_Bakerloo_line  {
+   fill: #963;
+}
+#stname_Central_line  {
+   fill: #c33;
+}
+#stname_Jubilee_line  {
+   fill: #889;
+}
+/*
+#stname_Hammersmith-city_line  {
+   fill: #c99;
+}
+*/
+#stname_District_line_and_Hammersmith_And_City_line  {
+   fill: #063;
+}
+#stname_Metropolitan_line  {
+   fill: #a06;
+}
+#stname_Piccadilly_line  {
+   fill: #048;
+}
+#stname_Circle_line  {
+   fill: #fc0;
+    color: #333;
+}
+#stname_Victoria_line  {
+   fill: #09c;
+}
+</style>
+<g class="st" id="stname" opacity="1" transform="translate(0,4)">
+ <g class="b" id="stname_interchanges">
+  <text class="end" x="436" y="781">
+   Acton
+   <tspan dy="13" x="436">
+    Town
+   </tspan>
+  </text>
+  <text class="end" x="1591.5" y="541.5">
+   Aldgate
+  </text>
+  <text class="mid" x="1653" y="528">
+   Aldgate
+   <tspan dy="0" x="1683">
+   </tspan>
+   <tspan dy="13" x="1653">
+    East
+   </tspan>
+  </text>
+  <text class="end" x="1062" y="169.5">
+   Archway
+  </text>
+  <text x="1053" y="528">
+   Baker
+   <tspan dy="13" x="1062">
+    Street
+   </tspan>
+  </text>
+  <text class="end" x="1465" y="555">
+   Bank
+  </text>
+  <text class="mid" x="1444" y="477">
+   Barbican
+  </text>
+  <text x="2173" y="364">
+   Barking
+  </text>
+  <text class="end" x="1362" y="630">
+   Blackfriars
+  </text>
+  <text class="mid" x="1602" y="88">
+   Blackhorse
+   <tspan dy="0" x="1645">
+   </tspan>
+   <tspan dy="13" x="1602">
+    Road
+   </tspan>
+  </text>
+  <text class="end" x="1095" y="607">
+   Bond Street
+  </text>
+  <text class="end" x="1893" y="449">
+   Bow
+   <tspan dy="13" x="1893">
+    Road
+   </tspan>
+  </text>
+  <text x="1910" y="418">
+   Bow Church
+  </text>
+  <text x="1195" y="256.5">
+   Camden
+   <tspan dy="13" x="1215">
+    Road
+   </tspan>
+  </text>
+  <text class="end" x="1180" y="298">
+   <title>
+    Occasionally exit-only when the station is overcrowded, which usually occurs on Sundays.
+   </title>
+   <tspan class="ul">
+    Camden
+   </tspan>
+   <tspan dy="13" x="1180">
+    <tspan class="ul">
+     Town
+    </tspan>
+   </tspan>
+  </text>
+  <text class="end" x="1694" y="689">
+   Canada
+   <tspan dy="13" x="1694">
+    Water
+   </tspan>
+  </text>
+  <text class="end ul" x="1870" y="635">
+   <title>
+    DLR trains from Stratford terminate here, except during peak hours trains continue to Lewisham.
+   </title>
+   Canary Wharf
+  </text>
+  <text class="x" x="1901" y="633">
+   Canary Wharf
+  </text>
+  <text x="1901" y="660">
+   Canary
+   <tspan dy="15" x="1901">
+    Wharf
+   </tspan>
+  </text>
+  <text x="2046" y="556">
+   Canning
+   <tspan dy="13" x="2046">
+    Town
+   </tspan>
+  </text>
+  <text class="end" x="1426" y="568">
+   Cannon
+   <tspan dy="13" x="1426">
+    Street
+   </tspan>
+  </text>
+  <text class="end" x="1277" y="677">
+   Charing Cross
+  </text>
+  <text class="end" x="1265" y="915">
+   Clapham
+   <tspan dy="15" x="1265">
+    High Street
+   </tspan>
+  </text>
+  <text x="1244.5" y="977">
+   Clapham North
+  </text>
+  <text class="end" x="2210" y="607">
+   Custom House
+   <tspan dy="13" x="2210">
+    for ExCeL
+   </tspan>
+  </text>
+  <text class="mid" x="1583" y="265">
+   Dalston
+   <tspan x="1613">
+   </tspan>
+   <tspan dy="13" x="1583">
+    Kingsland
+   </tspan>
+  </text>
+  <text class="end" x="1569" y="353.5">
+   Dalston Junction
+  </text>
+  <text class="mid" x="340" y="692">
+   Ealing
+   <tspan dy="0" x="365">
+   </tspan>
+   <tspan dy="13" x="340">
+    Broadway
+   </tspan>
+  </text>
+  <text class="end" x="395" y="749">
+   Ealing
+   <tspan dy="13" x="395">
+    Common
+   </tspan>
+  </text>
+  <text class="mid" x="871" y="886.4">
+   Earl's
+   <tspan dy="0" x="892">
+   </tspan>
+   <tspan dy="13" x="871">
+    Court
+   </tspan>
+  </text>
+  <text class="end" x="961" y="536">
+   Edgware Road
+  </text>
+  <text x="1490" y="768">
+   Elephant &amp; Castle
+  </text>
+  <text class="end" x="1282" y="695">
+   Embankment
+  </text>
+  <text x="1215" y="362">
+   Euston
+  </text>
+  <text x="1211" y="417">
+   Euston
+   <tspan dy="13" x="1211">
+    Square
+   </tspan>
+  </text>
+  <text x="1396" y="452">
+   Farringdon
+  </text>
+  <!--Crossrail-->
+  <text class="end x" x="1376" y="493">
+   Farringdon
+  </text>
+  <text x="957" y="368">
+   Finchley
+   <tspan dy="13" x="963">
+    Road
+   </tspan>
+  </text>
+  <text x="958" y="338">
+   Finchley Road &amp; Frognal
+  </text>
+  <text class="end" x="1375" y="183">
+   Finsbury Park
+  </text>
+  <text x="2050" y="287">
+   Forest
+   <tspan dy="13" x="2050">
+    Gate
+   </tspan>
+  </text>
+  <text class="end" x="1142" y="670">
+   Green Park
+  </text>
+  <text class="mid" x="1020.3" y="884">
+   Gloucester
+   <tspan dy="0" x="1062">
+   </tspan>
+   <tspan dy="13" x="1020.3">
+    Road
+   </tspan>
+  </text>
+  <text class="end" x="439" y="828">
+   Gunnersbury
+  </text>
+  <text x="647" y="843">
+   Hammersmith
+  </text>
+  <text x="543.5" y="236">
+   Harrow &amp;
+   <tspan dy="13" x="543.5">
+    Wealdstone
+   </tspan>
+  </text>
+  <text x="115" y="999">
+   Heathrow Terminal 4
+  </text>
+  <text x="1426" y="318">
+   Highbury
+   <tspan dy="15" x="1426">
+    &amp; Islington
+   </tspan>
+  </text>
+  <text class="end" x="1284" y="510">
+   Holborn
+  </text>
+  <text class="end" x="818" y="806">
+   Kensington
+   <tspan dy="15" x="818">
+    (Olympia)
+   </tspan>
+  </text>
+  <text x="1140" y="210">
+   Kentish Town
+  </text>
+  <text class="end" x="1133" y="242">
+   Kentish Town
+   <tspan dy="13" x="1133">
+    West
+   </tspan>
+  </text>
+  <text x="543.5" y="274">
+   Kenton
+  </text>
+  <text class="end" x="521.5" y="311">
+   Northwick
+   <tspan dy="13" x="521.5">
+    Park
+   </tspan>
+  </text>
+  <text x="1295" y="349">
+   King's Cross
+   <tspan dy="15" x="1295">
+    St. Pancras
+   </tspan>
+  </text>
+  <text x="1269" y="595">
+   Leicester
+   <tspan dy="13" x="1273">
+    Square
+   </tspan>
+  </text>
+  <text x="1935" y="160">
+   Leytonstone
+  </text>
+  <text x="1956" y="180">
+   Leytonstone
+   <tspan dy="15" x="1956">
+    High Road
+   </tspan>
+  </text>
+  <text class="mid" x="1564" y="452">
+   Liverpool
+   <tspan dy="0" x="1601">
+   </tspan>
+   <tspan dy="13" x="1564">
+    Street
+   </tspan>
+  </text>
+  <!--Crossrail-->
+  <g class="end x" transform="translate(1535,530)">
+   <text class="textbg" x="0" y="0">
+    Liverpool Street
+   </text>
+   <text x="0" y="0">
+    Liverpool Street
+   </text>
+  </g>
+  <text x="1485" y="689">
+   London
+   <tspan dy="13" x="1485">
+    Bridge
+   </tspan>
+  </text>
+  <text x="2102" y="244">
+   Manor Park
+  </text>
+  <text x="1816" y="459.5">
+   Mile
+   <tspan dy="13" x="1816">
+    End
+   </tspan>
+  </text>
+  <g transform="translate(1459,602)">
+   <text class="textbg" x="0" y="0">
+    Monument
+   </text>
+   <text x="0" y="0">
+    Monument
+   </text>
+  </g>
+  <text x="1484" y="483">
+   Moorgate
+  </text>
+  <text class="end" x="869" y="700.5">
+   Notting
+   <tspan dy="13" x="869">
+    Hill Gate
+   </tspan>
+  </text>
+  <text x="1164" y="574">
+   Oxford
+   <tspan dy="13" x="1170">
+    Circus
+   </tspan>
+  </text>
+  <text class="end" x="950" y="557">
+   Paddington
+  </text>
+  <text x="1213" y="637">
+   Piccadilly
+   <tspan dy="13" x="1218">
+    Circus
+   </tspan>
+  </text>
+  <text class="end" x="754" y="527">
+   Queen's Park
+  </text>
+  <text class="mid" x="300" y="266.5">
+   Rayners
+   <tspan dy="0" x="333">
+   </tspan>
+   <tspan dy="13" x="300">
+    Lane
+   </tspan>
+  </text>
+  <text x="371" y="913.9">
+   Richmond
+  </text>
+  <text x="1417" y="98">
+   Seven Sisters
+  </text>
+  <text class="end" x="1693" y="575">
+   Shadwell
+  </text>
+  <text x="713" y="699">
+   Shepherd's
+   <tspan dy="15" x="735">
+    Bush
+   </tspan>
+  </text>
+  <text x="1408" y="155">
+   South
+   <tspan dy="13" x="1408">
+    Tottenham
+   </tspan>
+  </text>
+  <text x="1296" y="933">
+   Stockwell
+  </text>
+  <text class="end" x="1962" y="318">
+   Stratford
+  </text>
+  <text class="end" x="1085" y="813">
+   South
+   <tspan dy="13" x="1085">
+    Kensington
+   </tspan>
+  </text>
+  <text x="1187" y="469">
+   Tottenham
+   <tspan dy="13" x="1187">
+    Court
+    <tspan dy="13" x="1187">
+     Road
+    </tspan>
+   </tspan>
+  </text>
+  <text x="1595" y="602">
+   Tower
+   <tspan dy="13" x="1595">
+    Gateway
+   </tspan>
+  </text>
+  <text class="mid" x="1563" y="602">
+   Tower
+   <tspan dy="0" x="1586">
+   </tspan>
+   <tspan dy="13" x="1563">
+    Hill
+   </tspan>
+  </text>
+  <text x="1121" y="169.5">
+   Upper Holloway
+  </text>
+  <text x="1188" y="793">
+   Victoria
+  </text>
+  <text x="1694" y="113">
+   Walthamstow
+   <tspan dy="13" x="1736">
+    Central
+   </tspan>
+  </text>
+  <text x="1694.75" y="155">
+   Walthamstow
+   <tspan dy="13" x="1694.75">
+    Queen's Road
+   </tspan>
+  </text>
+  <text class="mid" x="2041" y="230">
+   Wanstead
+   <tspan dy="0" x="2078">
+   </tspan>
+   <tspan dy="13" x="2041">
+    Park
+   </tspan>
+  </text>
+  <text class="end" x="1148" y="404">
+   Warren Street
+  </text>
+  <text x="1347" y="737">
+   Waterloo
+  </text>
+  <text class="end" x="595" y="409">
+   Wembley Central
+  </text>
+  <text x="656" y="282">
+   Wembley Park
+  </text>
+  <text class="end" x="816.5" y="920">
+   West Brompton
+  </text>
+  <text x="2043" y="450">
+   West
+   <tspan dy="13" x="2043">
+    Ham
+   </tspan>
+  </text>
+  <text class="end" x="914" y="366">
+   West
+   <tspan dy="13" x="914">
+    Hampstead
+   </tspan>
+  </text>
+  <text x="1243" y="754">
+   Westminster
+  </text>
+  <text class="end" x="683" y="466.5">
+   Willesden Junction
+  </text>
+  <text x="1716" y="536">
+   Whitechapel
+  </text>
+  <text x="648" y="744">
+   Wood Lane
+  </text>
+  <text x="2102" y="267">
+   Woodgrange Park
+  </text>
+  <text x="2330.67" y="671">
+   Woolwich
+  </text>
+  <text class="mid" x="2286.29" y="721">
+   Woolwich
+   <tspan dy="0" x="2323">
+   </tspan>
+   <tspan dy="13" x="2286.29">
+    Arsenal
+   </tspan>
+  </text>
+ </g>
+ <g id="stname_Bakerloo_line">
+  <g class="end">
+   <text x="537" y="365.5">
+    South Kenton
+   </text>
+   <text x="565" y="386.5">
+    North Wembley
+   </text>
+   <text x="621" y="428.5">
+    Stonebridge Park
+   </text>
+   <text x="649" y="449.5">
+    Harlesden
+   </text>
+   <text x="715" y="496">
+    Kensal
+    <tspan dy="13" x="715">
+     Green
+    </tspan>
+   </text>
+   <text x="779" y="547">
+    Kilburn Park
+   </text>
+   <text x="805" y="566.5">
+    Maida Vale
+   </text>
+   <text x="831" y="586">
+    Warwick Avenue
+   </text>
+   <text x="991" y="513.5">
+    Marylebone
+   </text>
+  </g>
+  <text x="1088" y="502">
+   Regent's
+   <tspan dy="13" x="1114">
+    Park
+   </tspan>
+  </text>
+  <text class="mid" x="1420" y="785">
+   Lambeth
+   <tspan dy="0" x="1452">
+   </tspan>
+   <tspan dy="13" x="1420">
+    North
+   </tspan>
+  </text>
+ </g>
+ <g id="stname_Central_line">
+  <text class="b mid" x="142" y="247.5">
+   West
+   <tspan dy="0" x="164">
+   </tspan>
+   <tspan dy="13" x="142">
+    Ruislip
+   </tspan>
+  </text>
+  <g class="end">
+   <text x="130" y="344">
+    Ruislip Gardens
+   </text>
+   <text x="130" y="394">
+    South Ruislip
+   </text>
+   <text x="148" y="468.4">
+    Northolt
+   </text>
+   <text class="b" x="214" y="517.9">
+    Greenford
+   </text>
+   <text x="294" y="577.9">
+    Perivale
+   </text>
+   <text class="b" x="360" y="620.4">
+    Hanger Lane
+   </text>
+  </g>
+  <text x="418" y="700">
+   West
+   <tspan dy="13" x="418">
+    Acton
+   </tspan>
+  </text>
+  <text x="491" y="678">
+   North
+   <tspan dy="13" x="491">
+    Acton
+   </tspan>
+  </text>
+  <g class="mid">
+   <text x="580" y="693.9">
+    East
+    <tspan dy="0" x="597">
+    </tspan>
+    <tspan dy="13" x="580">
+     Acton
+    </tspan>
+   </text>
+  </g>
+  <text class="end b" x="624" y="737">
+   White
+   <tspan dy="13" x="624">
+    City
+   </tspan>
+  </text>
+  <text class="mid" x="806" y="741">
+   Holland Park
+  </text>
+  <text class="mid" x="930" y="740.9">
+   Queensway
+  </text>
+  <g class="end">
+   <text x="986" y="669.5">
+    Lancaster
+    <tspan dy="13" x="986">
+     Gate
+    </tspan>
+   </text>
+   <text x="1038" y="643.5">
+    Marble Arch
+   </text>
+  </g>
+  <text class="mid" x="1330" y="535">
+   Chancery
+   <tspan dy="0" x="1364">
+   </tspan>
+   <tspan dy="13" x="1330">
+    Lane
+   </tspan>
+  </text>
+  <text class="end" x="1400" y="540">
+   St.
+   <tspan dy="13" x="1400">
+    Paul's
+   </tspan>
+  </text>
+  <text x="1655" y="435">
+   Bethnal Green
+  </text>
+  <text class="end" x="1937" y="222.5">
+   Leyton
+  </text>
+  <g class="end">
+   <text x="1914" y="106">
+    Snaresbrook
+   </text>
+   <text x="1914" y="76">
+    South Woodford
+   </text>
+   <text class="b" x="1914" y="46">
+    Woodford
+   </text>
+   <text x="1914" y="16">
+    Buckhurst Hill
+   </text>
+   <text x="1914" y="-14">
+    Loughton
+   </text>
+   <text x="1914" y="-44">
+    Debden
+   </text>
+   <text x="1914" y="-74">
+    Theydon Bois
+   </text>
+   <text x="1914" y="-104">
+    Epping
+   </text>
+  </g>
+  <g class="mid">
+   <text x="1996" y="103">
+    Redbridge
+   </text>
+   <text x="2076" y="90">
+    Newbury
+    <tspan dy="0" x="2106">
+    </tspan>
+    <tspan dy="13" x="2076">
+     Park
+    </tspan>
+   </text>
+  </g>
+  <text x="2031" y="137">
+   Gants Hill
+  </text>
+  <text x="1940" y="137">
+   Wanstead
+  </text>
+  <text x="2123" y="90">
+   Barkingside
+  </text>
+  <text x="2123" y="66">
+   Fairlop
+  </text>
+  <text x="2123" y="42">
+   Hainault
+  </text>
+  <text x="2071" y="-7">
+   Grange Hill
+  </text>
+  <g class="mid">
+   <text x="2026" y="-7">
+    Chigwell
+   </text>
+  </g>
+ </g>
+ <g id="stname_Circle_line">
+  <text class="end" x="875" y="660">
+   Bayswater
+  </text>
+  <text x="918" y="789.5">
+   High Street
+   <tspan dy="13" x="918">
+    Kensington
+   </tspan>
+  </text>
+  <text x="1138" y="835">
+   Sloane
+   <tspan dy="13" x="1138">
+    Square
+   </tspan>
+  </text>
+  <text x="1220" y="772">
+   St. James's Park
+  </text>
+  <g class="end">
+   <text x="1336" y="648">
+    Temple
+   </text>
+   <text x="1402" y="598">
+    Mansion
+    <tspan dy="13" x="1390">
+     House
+    </tspan>
+   </text>
+   <text x="1101" y="443">
+    Great Portland
+    <tspan dy="13" x="1101">
+     Street
+    </tspan>
+   </text>
+   <text x="732.5" y="619.5">
+    Westbourne
+    <tspan dy="13" x="712.5">
+     Park
+    </tspan>
+   </text>
+   <text x="642.5" y="672">
+    Latimer
+    <tspan dy="13" x="642.5">
+     Road
+    </tspan>
+   </text>
+  </g>
+  <text class="mid" x="800" y="637">
+   Royal Oak
+  </text>
+  <text x="699.5" y="680.5">
+   Ladbroke Grove
+  </text>
+  <text x="651.5" y="767.9">
+   Shepherd's
+   <tspan dy="15" x="651.5">
+    Bush Market
+   </tspan>
+  </text>
+  <text x="651.5" y="804.9">
+   Goldhawk
+   <tspan dy="13" x="651.5">
+    Road
+   </tspan>
+  </text>
+ </g>
+ <g id="stname_District_line_and_Hammersmith_And_City_line">
+  <text class="end" x="465" y="810">
+   Chiswick Park
+  </text>
+  <text x="540" y="814.5">
+   <title>
+    Trains of Piccadilly line stop at Turnham Green only during late nights (weekend Night Tube), early mornings (until 06:25am/07:45am Sundays) and evenings (after 10:30pm).
+   </title>
+   <tspan class="ul">
+    Turnham
+   </tspan>
+   <tspan class="ul" dy="13" x="550">
+    Green
+   </tspan>
+  </text>
+  <text class="end" x="535" y="855.5">
+   Stamford
+   <tspan dy="13" x="535">
+    Brook
+   </tspan>
+  </text>
+  <g class="mid">
+   <text x="587" y="886.4">
+    Ravenscourt
+    <tspan dy="0" x="630">
+    </tspan>
+    <tspan dy="13" x="587">
+     Park
+    </tspan>
+   </text>
+   <text x="705" y="886.4">
+    Barons
+    <tspan dy="0" x="731">
+    </tspan>
+    <tspan dy="13" x="705">
+     Court
+    </tspan>
+   </text>
+   <text x="780" y="886.4">
+    West
+    <tspan dy="0" x="800">
+    </tspan>
+    <tspan dy="13" x="780">
+     Kensington
+    </tspan>
+   </text>
+   <text x="1963" y="453.5">
+    Bromley-by-Bow
+   </text>
+  </g>
+  <text x="1765.5" y="496.5">
+   Stepney
+   <tspan dy="13" x="1765.5">
+    Green
+   </tspan>
+  </text>
+  <text x="2081" y="435">
+   Plaistow
+  </text>
+  <text x="2111" y="412.5">
+   Upton Park
+  </text>
+  <text x="2141" y="384">
+   East
+   <tspan dy="13" x="2141">
+    Ham
+   </tspan>
+  </text>
+  <text x="2201" y="345">
+   Upney
+  </text>
+  <text x="2231" y="322.5">
+   Becontree
+  </text>
+  <text x="2261" y="300">
+   Dagenham Heathway
+  </text>
+  <text x="2291" y="277.5">
+   Dagenham East
+  </text>
+  <text x="2321" y="255">
+   Elm Park
+  </text>
+  <g class="end">
+   <text x="2331" y="215.5">
+    Hornchurch
+   </text>
+   <text x="2361" y="193">
+    Upminster Bridge
+   </text>
+  </g>
+  <text class="mid b" x="2401" y="162">
+   Upminster
+  </text>
+  <g class="end">
+   <text x="819" y="960">
+    Fulham Broadway
+   </text>
+   <text x="830" y="996">
+    Parsons Green
+   </text>
+   <text x="851" y="1024">
+    Putney Bridge
+   </text>
+   <text x="872" y="1052">
+    East Putney
+   </text>
+   <text x="890" y="1076">
+    Southfields
+   </text>
+   <text x="908" y="1100">
+    Wimbledon Park
+   </text>
+   <text class="b" x="927" y="1128">
+    Wimbledon
+   </text>
+  </g>
+ </g>
+ <g id="stname_Jubilee_line">
+  <text x="663" y="162">
+   Stanmore
+  </text>
+  <text x="663" y="192">
+   Canons Park
+  </text>
+  <text x="663" y="222">
+   Queensbury
+  </text>
+  <text x="663" y="252">
+   Kingsbury
+  </text>
+  <g class="mid">
+   <text x="681" y="326">
+    Neasden
+   </text>
+   <text x="741" y="326">
+    Dollis
+    <tspan dy="0" x="762">
+    </tspan>
+    <tspan dy="13" x="741">
+     Hill
+    </tspan>
+   </text>
+   <text x="798" y="326">
+    Willesden
+    <tspan dy="0" x="835">
+    </tspan>
+    <tspan dy="13" x="798">
+     Green
+    </tspan>
+   </text>
+   <text class="b" x="861" y="326">
+    <title>
+     Free out-of-station interchange to Brondesbury Underground station within 20 minutes. 0.2-mile walking distance.
+    </title>
+    Kilburn
+   </text>
+  </g>
+  <text class="end" x="947.5" y="419.5">
+   Swiss Cottage
+  </text>
+  <text class="end" x="985" y="469.5">
+   St. John's
+   <tspan dy="13" x="985">
+    Wood
+   </tspan>
+  </text>
+  <text x="1390" y="708">
+   Southwark
+  </text>
+  <text class="mid" x="1590" y="692">
+   Bermondsey
+  </text>
+  <text class="mid" x="2000" y="665">
+   North
+   <tspan dy="0" x="2020">
+   </tspan>
+   <tspan dy="13" x="2000">
+    Greenwich
+   </tspan>
+  </text>
+ </g>
+ <g id="stname_Metropolitan_line">
+  <text x="136" y="38">
+   Chesham
+  </text>
+  <text class="end" x="90" y="68.5">
+   Amersham
+  </text>
+  <text class="end" x="131.5" y="100">
+   Chalfont &amp; Latimer
+  </text>
+  <text class="end" x="161.5" y="122.5">
+   Chorleywood
+  </text>
+  <text class="end" x="191.5" y="145">
+   Rickmansworth
+  </text>
+  <text x="234" y="130">
+   Croxley
+  </text>
+  <text class="mid x" x="323" y="107">
+   Cassiobridge
+  </text>
+  <text class="mid x" x="423" y="60">
+   Watford
+   <tspan dy="0" x="451">
+   </tspan>
+   <tspan dy="13" x="423">
+    Vicarage Road
+   </tspan>
+  </text>
+  <text x="249" y="156">
+   Moor Park
+  </text>
+  <text x="279" y="178.5">
+   Northwood
+  </text>
+  <text x="309" y="201">
+   Northwood Hills
+  </text>
+  <text x="339" y="223.5">
+   Pinner
+  </text>
+  <text x="369" y="246">
+   North Harrow
+  </text>
+  <text x="375" y="311">
+   West
+   <tspan dy="13" x="375">
+    Harrow
+   </tspan>
+  </text>
+  <g class="mid">
+   <text x="20" y="316">
+    Uxbridge
+   </text>
+   <text x="60" y="277">
+    Hillingdon
+   </text>
+   <text class="b" x="100" y="316">
+    Ickenham
+   </text>
+   <text x="180" y="316">
+    Ruislip
+   </text>
+   <text x="220" y="264">
+    Ruislip
+    <tspan dy="0" x="245">
+    </tspan>
+    <tspan dy="13" x="220">
+     Manor
+    </tspan>
+   </text>
+   <text x="260" y="316">
+    Eastcote
+   </text>
+   <text x="440" y="266">
+    Harrow-on-
+    <tspan dy="13" x="440">
+     the-Hill
+    </tspan>
+   </text>
+   <text x="590" y="311">
+    Preston
+    <tspan dy="0" x="618">
+    </tspan>
+    <tspan dy="13" x="590">
+     Road
+    </tspan>
+   </text>
+  </g>
+ </g>
+ <g id="stname_Northern_line">
+  <text x="718" y="118">
+   Edgware
+  </text>
+  <text x="748" y="140.5">
+   Burnt Oak
+  </text>
+  <text x="778" y="163">
+   Colindale
+  </text>
+  <text x="808" y="185.5">
+   Hendon Central
+  </text>
+  <text x="838" y="208">
+   Brent Cross
+  </text>
+  <text x="868" y="230.5">
+   Golders Green
+  </text>
+  <text x="898" y="253">
+   Hampstead
+  </text>
+  <text class="mid" x="1010" y="298">
+   Belsize
+   <tspan dy="0" x="1035">
+   </tspan>
+   <tspan dy="13" x="1010">
+    Park
+   </tspan>
+  </text>
+  <text class="mid" x="1090" y="298">
+   Chalk
+   <tspan dy="0" x="1111">
+   </tspan>
+   <tspan dy="13" x="1090">
+    Farm
+   </tspan>
+  </text>
+  <text class="mid" x="913" y="107">
+   Mill Hill East
+  </text>
+  <text x="864" y="-4">
+   High Barnet
+  </text>
+  <text x="894" y="18.5">
+   Totteridge &amp; Whetstone
+  </text>
+  <text x="924" y="41">
+   Woodside Park
+  </text>
+  <text x="954" y="63.5">
+   West Finchley
+  </text>
+  <text x="994" y="93.5">
+   Finchley Central
+  </text>
+  <text x="1024" y="116">
+   East Finchley
+  </text>
+  <text x="1054" y="138.5">
+   Highgate
+  </text>
+  <text x="1116" y="187.5">
+   Tufnell Park
+  </text>
+  <text x="1213" y="325">
+   Mornington
+   <tspan dy="13" x="1213">
+    Crescent
+   </tspan>
+  </text>
+  <text x="1175" y="450">
+   Goodge Street
+  </text>
+  <text class="end" x="1418" y="401">
+   Angel
+  </text>
+  <text class="end" x="1455" y="425">
+   Old Street
+  </text>
+  <text x="1491" y="730">
+   Borough
+  </text>
+  <text class="b" x="1394.5" y="864.5">
+   Kennington
+  </text>
+  <text x="1346.5" y="900.5">
+   Oval
+  </text>
+  <text x="1220.5" y="995">
+   Clapham Common
+  </text>
+  <text x="1190.5" y="1017.5">
+   Clapham South
+  </text>
+  <text x="1160.5" y="1040">
+   Balham
+  </text>
+  <text x="1130.5" y="1062.5">
+   Tooting Bec
+  </text>
+  <text x="1100.5" y="1085">
+   Tooting Broadway
+  </text>
+  <text x="1070.5" y="1107.5">
+   Colliers Wood
+  </text>
+  <text x="1040.5" y="1131.5">
+   South Wimbledon
+  </text>
+  <text class="end" x="990.5" y="1145.5">
+   Morden
+  </text>
+  <text class="end x" x="1194.5" y="892.5">
+   Nine Elms
+  </text>
+  <text class="end x" x="1125" y="927.25">
+   Battersea Power Station
+  </text>
+ </g>
+ <g id="stname_Piccadilly_line">
+  <g class="end">
+   <text x="372" y="370">
+    South Harrow
+   </text>
+   <text x="372" y="430">
+    Sudbury Hill
+   </text>
+   <text x="372" y="490">
+    Sudbury Town
+   </text>
+   <text x="372" y="550">
+    Alperton
+   </text>
+   <text class="b" x="372" y="643">
+    Park Royal
+   </text>
+   <text x="372" y="670">
+    North Ealing
+   </text>
+  </g>
+  <text class="mid" x="30" y="983.5">
+   Heathrow
+   <tspan dy="0" x="63">
+   </tspan>
+   <tspan dy="13" x="30">
+    Terminal 5
+   </tspan>
+  </text>
+  <text class="end" x="96" y="913">
+   Heathrow
+   <tspan dy="13" x="96">
+    Terminals
+    <tspan dy="13" x="96">
+     2 &amp; 3
+    </tspan>
+   </tspan>
+  </text>
+  <text x="170" y="956">
+   Hatton Cross
+  </text>
+  <text x="200" y="933.5">
+   Hounslow West
+  </text>
+  <text x="230" y="911">
+   Hounslow Central
+  </text>
+  <g class="end">
+   <text x="240" y="871.5">
+    Hounslow East
+   </text>
+   <text x="270" y="849">
+    Osterley
+   </text>
+   <text x="300" y="826.5">
+    Boston Manor
+   </text>
+   <text x="330" y="804">
+    Northfields
+   </text>
+   <text x="360" y="781.5">
+    South Ealing
+   </text>
+   <text x="1102.6" y="766">
+    Knightsbridge
+   </text>
+   <text x="1102.6" y="720">
+    Hyde Park
+    <tspan dy="13" x="1102.6">
+     Corner
+    </tspan>
+   </text>
+  </g>
+  <text x="1302" y="445">
+   Russell
+   <tspan dy="0" x="1289">
+   </tspan>
+   <tspan dy="13" x="1302">
+    Square
+   </tspan>
+  </text>
+  <text x="1302" y="278">
+   Caledonian Road
+  </text>
+  <g class="end">
+   <text x="1326" y="229">
+    Holloway Road
+   </text>
+   <text x="1356" y="206.5">
+    Arsenal
+   </text>
+   <text x="1370.5" y="160">
+    Manor House
+   </text>
+   <text x="1326" y="84.5">
+    Turnpike Lane
+   </text>
+   <text x="1296" y="62">
+    Wood Green
+   </text>
+   <text x="1266" y="39.5">
+    Bounds Green
+   </text>
+   <text x="1236" y="17">
+    Arnos Grove
+   </text>
+   <text x="1206" y="-5.5">
+    Southgate
+   </text>
+   <text x="1176" y="-28">
+    Oakwood
+   </text>
+   <text x="1146" y="-50.5">
+    Cockfosters
+   </text>
+  </g>
+ </g>
+ <g id="stname_Victoria_line">
+  <text class="mid" x="1530" y="129">
+   Tottenham Hale
+  </text>
+  <text x="1216" y="817.5">
+   Pimlico
+  </text>
+  <text x="1246" y="857.5">
+   Vauxhall
+  </text>
+  <text x="1317" y="958">
+   Brixton
+  </text>
+ </g>
+ <g class="small">
+  <g class="b">
+  </g>
+ </g>
+</g>
+
+</svg>
