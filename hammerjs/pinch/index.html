@@ -11,8 +11,19 @@
     </style>
     <script src="https://hammerjs.github.io/dist/hammer.js"></script>
     <script>
+        
+        function hookmouse() {
+            var elem = document.getElementById('myElement');
+            var ot2 = document.getElementById('otherThing');
+            elem.addEventListener('mousemove', function(ev) {
+                ot2.textContent = JSON.stringify(
+                    { "x": ev.clientX, "y": ev.clientY }, null, 2);
+            });
+        }
+
         function hammerIt() {
             var myElement = document.getElementById('myElement');
+
             var ot = document.getElementById('otherThing');
 
             var mc = new Hammer.Manager(myElement);
@@ -32,7 +43,7 @@
 </head>
 
 <body onload="hammerIt();">
-    <div id="myElement"></div>
+    <div id="myElement" onmousedown="hookmouse()"></div>
     <div id="otherThing" style="word-break: break-all; word-wrap: break-word;"></div>
 </body>
 
