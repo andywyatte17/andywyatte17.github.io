@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<head>
+    <style>
+        #myElement {
+            background: silver;
+            height: 300px;
+            text-align: center;
+            font: 30px/300px Helvetica, Arial, sans-serif;
+        }
+    </style>
+    <script src="https://hammerjs.github.io/dist/hammer.js"></script>
+    <script>
+        // https://gist.github.com/synthecypher/f778e4f5a559268a874e
+        function hammerIt() {
+            var image = document.getElementById('myimage');
+
+            var mc = new Hammer.Manager(image);
+
+            var pinch = new Hammer.Pinch();
+            var pan = new Hammer.Pan();
+
+            pinch.recognizeWith(pan);
+
+            mc.add([pinch, pan]);
+
+            var adjustScale = 1;
+            var adjustDeltaX = 0;
+            var adjustDeltaY = 0;
+
+            var currentScale = null;
+            var currentDeltaX = null;
+            var currentDeltaY = null;
+
+            // Prevent long press saving on mobiles.
+            webpage.addEventListener('touchstart', function (e) {
+                e.preventDefault()
+            });
+
+            // Handles pinch and pan events/transforming at the same time;
+            mc.on("pinch pan", function (ev) {
+
+                var transforms = [];
+
+                // Adjusting the current pinch/pan event properties using the previous ones set when they finished touching
+                currentScale = adjustScale * ev.scale;
+                currentDeltaX = adjustDeltaX + (ev.deltaX / currentScale);
+                currentDeltaY = adjustDeltaY + (ev.deltaY / currentScale);
+
+                // Concatinating and applying parameters.
+                transforms.push('scale({0})'.format(currentScale));
+                transforms.push('translate({0}px,{1}px)'.format(currentDeltaX, currentDeltaY));
+                webpage.style.transform = transforms.join(' ');
+
+            });
+
+
+            mc.on("panend pinchend", function (ev) {
+
+                // Saving the final transforms for adjustment next time the user interacts.
+                adjustScale = currentScale;
+                adjustDeltaX = currentDeltaX;
+                adjustDeltaY = currentDeltaY;
+
+            });
+        }
+    </script>
+</head>
+
+<body onload="hammerIt();">
+    <img id="myimage" src="http://placecage/1280/720">
+</body>
+
+</html>
