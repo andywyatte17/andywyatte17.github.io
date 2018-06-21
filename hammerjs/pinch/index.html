@@ -13,6 +13,7 @@
     <script>
         function hammerIt() {
             var myElement = document.getElementById('myElement');
+            var ot = document.getElementById('otherThing');
 
             var mc = new Hammer.Manager(myElement);
 
@@ -24,7 +25,7 @@
             mc.add([pinch]);
 
             mc.on("pinch", function (ev) {
-                myElement.textContent = JSON.stringify(ev.type, null, 2);
+                ot.textContent = JSON.stringify(ev, null, 2);
             });
         }
     </script>
@@ -32,6 +33,7 @@
 
 <body onload="hammerIt();">
     <div id="myElement"></div>
+    <div id="otherThing" style="word-break: break-all; word-wrap: break-word;"></div>
 </body>
 
 </html>
