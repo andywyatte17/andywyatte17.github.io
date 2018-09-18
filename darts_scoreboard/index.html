@@ -5,7 +5,7 @@
     <title>Darts Scoreboard</title>
     <script src="jquery-3.3.1.min.js"></script>
     <script src="processing-1.6.6.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
     <style>
         .scoreBtn button {
             min-width: 5em;
@@ -69,52 +69,52 @@
 
         var undoStack = [];
 
-        function bump()
-        {
-          var sa = $("#scores_area");
-          sa.html('<table id="scores_table"></table>');
-          var table = $('#scores_table');
-          function add_row() {
-            var row = document.createElement("tr");
-            table.append(row);
-            return row;
-          }
-          function add_table_bit(s, row) {
-            var td = document.createElement("td");
-            td.innerText = s;
-            row.appendChild(td);
-          }
-          function scoreSoFar(player, n)
-          {
-            var result = player.startScore;
-            for(var i=0; i<n && i<player.scores.length; i+=1)
-              result -= player.scores[i][0] * player.scores[i][1];
-            return result.toString();
-          }
-          var n1 = 2 + player1.scores.length/3;
-          var n2 = 2 + player2.scores.length/3;
-          var n = Math.max(n1, n2);
-          for(let i=0; i<n; i++) {
-            if(i===0) {
-              var row = add_row();
-              add_table_bit(player1.name, row);
-              add_table_bit("", row);
-              add_table_bit(player2.name, row);
-              add_table_bit("", row);
+        function bump() {
+            var sa = $("#scores_area");
+            sa.html('<table id="scores_table"></table>');
+            var table = $('#scores_table');
+
+            function add_row() {
+                var row = document.createElement("tr");
+                table.append(row);
+                return row;
             }
-            else {
-              var i1 = i - 1;
-              var row = add_row();
-              var s1 = slice(player1.scores, i1*3, i1*3+3);
-              s1 = s1.map( (v) => v[2] );
-              var s2 = slice(player2.scores, i1*3, i1*3+3);
-              s2 = s2.map( (v) => v[2] );
-              add_table_bit(scoreSoFar(player1, i1*3), row);
-              add_table_bit(s1.toString(), row);
-              add_table_bit(scoreSoFar(player2, i1*3), row);
-              add_table_bit(s2.toString(), row);
+
+            function add_table_bit(s, row) {
+                var td = document.createElement("td");
+                td.innerText = s;
+                row.appendChild(td);
             }
-          }
+
+            function scoreSoFar(player, n) {
+                var result = player.startScore;
+                for (var i = 0; i < n && i < player.scores.length; i += 1)
+                    result -= player.scores[i][0] * player.scores[i][1];
+                return result.toString();
+            }
+            var n1 = 2 + player1.scores.length / 3;
+            var n2 = 2 + player2.scores.length / 3;
+            var n = Math.max(n1, n2);
+            for (let i = 0; i < n; i++) {
+                if (i === 0) {
+                    var row = add_row();
+                    add_table_bit(player1.name, row);
+                    add_table_bit("", row);
+                    add_table_bit(player2.name, row);
+                    add_table_bit("", row);
+                } else {
+                    var i1 = i - 1;
+                    var row = add_row();
+                    var s1 = slice(player1.scores, i1 * 3, i1 * 3 + 3);
+                    s1 = s1.map((v) => v[2]);
+                    var s2 = slice(player2.scores, i1 * 3, i1 * 3 + 3);
+                    s2 = s2.map((v) => v[2]);
+                    add_table_bit(scoreSoFar(player1, i1 * 3), row);
+                    add_table_bit(s1.toString(), row);
+                    add_table_bit(scoreSoFar(player2, i1 * 3), row);
+                    add_table_bit(s2.toString(), row);
+                }
+            }
         }
 
         function addPreUndo() {
@@ -209,7 +209,7 @@
             }
 
             var amounts = ["", "single ", "double ", "treble "];
-            var nx = [1,1,2,3];
+            var nx = [1, 1, 2, 3];
 
             for (var x = 0; x < amounts.length; x += 1) {
                 let amount = amounts[x];
@@ -233,17 +233,21 @@
                     }
                 }
             }
-            commands["no score"] = MakeScoreFunction([0,0,"no score"]);
-            commands["bust"] = MakeScoreFunction([0,-1,"bust"]);
-            commands["clear scores"] = function() { clearScores(); };
-            commands["undo"] = function() { undo(); };
+            commands["no score"] = MakeScoreFunction([0, 0, "no score"]);
+            commands["bust"] = MakeScoreFunction([0, -1, "bust"]);
+            commands["clear scores"] = function() {
+                clearScores();
+            };
+            commands["undo"] = function() {
+                undo();
+            };
             commands["player one is *tag"] = function(tag) {
-              player1.name = tag;
-              bump();
+                player1.name = tag;
+                bump();
             };
             commands["player two is *tag"] = function(tag) {
-              player2.name = tag;
-              bump();
+                player2.name = tag;
+                bump();
             };
 
             console.log(commands);
