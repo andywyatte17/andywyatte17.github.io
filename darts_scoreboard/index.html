@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Darts Scoreboard</title>
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="processing-1.6.6.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+    <style>
+        .scoreBtn button {
+            min-width: 5em;
+            height: 3em;
+            margin: 0.2em;
+        }
+        
+        .scoreBtnX button {
+            min-width: 5em;
+            height: 3em;
+            margin: 0.2em;
+            background: green;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <!--  -->
+
+    <h1>Darts Scoreboard</h1>
+
+    <p>
+        <label for="player1">Player 1:&nbsp;</label><input id="player1" type="text" name="player1" onblur="setPlayerNames()">
+        <br>
+        <label for="player2">Player 2:&nbsp;</label><input id="player2" type="text" name="player2" onblur="setPlayerNames()">
+        <br>
+        <button id="player1_clear">Clear Scores</button>
+    </p>
+    <div class="scoreBtn">
+    </div>
+    <div class="scoreBtnX">
+        <button>1x</button>
+        <button>2x</button>
+        <button>3x</button> &nbsp;
+        <button style="background: lightsalmon">No Score</button>
+        <button style="background: lightsalmon">Bust</button>
+    </div>
+    <div id="scores_area">
+    </div>
+
+    <script type="application/javascript">
+        var player1 = {
+            startScore: 501,
+            scores: [],
+            name: ""
+        };
+        var player2 = {
+            startScore: 501,
+            scores: [],
+            name: ""
+        };
+
+        function slice(arr, start, end) {
+            var result = [];
+            end = Math.min(end, arr.length);
+            for (var i = start; i < end; i += 1)
+                result.push(arr[i]);
+            return result;
+        }
+
+        var undoStack = [];
+
+        function bump() {
+            var sa = $("#scores_area");
+            sa.html('<table id="scores_table"></table>');
+            var table = $('#scores_table');
+
+            function add_row() {
+                var row = document.createElement("tr");
+                table.append(row);
+                return row;
+            }
+
+            function add_table_bit(s, row) {
+                var td = document.createElement("td");
+                td.innerText = s;
+                row.appendChild(td);
+            }
+
+            function scoreSoFar(player, n) {
+                var result = player.startScore;
+                for (var i = 0; i < n && i < player.scores.length; i += 1)
+                    result -= player.scores[i][0] * player.scores[i][1];
+                return result.toString();
+            }
+            var n1 = 2 + player1.scores.length / 3;
+            var n2 = 2 + player2.scores.length / 3;
+            var n = Math.max(n1, n2);
+            for (let i = 0; i < n; i++) {
+                if (i === 0) {
+                    var row = add_row();
+                    add_table_bit(player1.name, row);
+                    add_table_bit("", row);
+                    add_table_bit(player2.name, row);
+                    add_table_bit("", row);
+                } else {
+                    var i1 = i - 1;
+                    var row = add_row();
+                    var s1 = slice(player1.scores, i1 * 3, i1 * 3 + 3);
+                    s1 = s1.map((v) => v[2]);
+                    var s2 = slice(player2.scores, i1 * 3, i1 * 3 + 3);
+                    s2 = s2.map((v) => v[2]);
+                    add_table_bit(scoreSoFar(player1, i1 * 3), row);
+                    add_table_bit(s1.toString(), row);
+                    add_table_bit(scoreSoFar(player2, i1 * 3), row);
+                    add_table_bit(s2.toString(), row);
+                }
+            }
+        }
+
+        function addPreUndo() {
+            undoStack.push({
+                player1: JSON.stringify(player1),
+                player2: JSON.stringify(player2)
+            });
+        }
+
+        function undo() {
+            try {
+                var top = undoStack[undoStack.length - 1];
+                undoStack.pop();
+                player1 = JSON.parse(top.player1);
+                player2 = JSON.parse(top.player2);
+                bump();
+            } finally {}
+        }
+
+        function setPlayerNames() {
+            player1.name = document.getElementById('player1').value;
+            player2.name = document.getElementById('player2').value;
+            bump();
+        }
+
+        function game(n) {
+            addPreUndo();
+            player1.startScore = n;
+            player2.startScore = n;
+            bump();
+        }
+
+        function clearScores() {
+            addPreUndo();
+            player1.scores = [];
+            player2.scores = [];
+            bump();
+        }
+
+        function score(n) {
+            addPreUndo();
+            var sum = player1.scores.length + player2.scores.length;
+            if ((sum % 6) >= 3)
+                player2.scores.push(n);
+            else
+                player1.scores.push(n);
+            bump();
+        }
+
+        function initUi() {
+            var numbers = $(".scoreBtn");
+            for (var i = 1; i <= 20; i += 1) {
+                var button = document.createElement("button");
+                button.innerText = i.toString();
+                button.onclick = function() {
+                    score(n.toString());
+                };
+                numbers.append(button);
+            }
+        }
+
+        $(document).ready(function() {
+            initUi();
+        });
+    </script>
+
+    <!-- -->
+
+    <script>
+        if (annyang) {
+            var MakeGameFunction = function(n) {
+                return function() {
+                    game(n);
+                };
+            };
+
+            var MakeScoreFunction = function(s) {
+                return function() {
+                    score(s);
+                };
+            };
+            var commands = {};
+
+            var vGames = [
+                ["501", 501],
+                ["301", 301],
+                ["201", 201]
+            ];
+            for (var x = 0; x < vGames.length; x += 1) {
+                var vGame = vGames[x];
+                commands[vGame[0]] = MakeGameFunction(vGame[1]);
+            }
+
+            var amounts = ["", "single ", "double ", "treble "];
+            var nx = [1, 1, 2, 3];
+
+            for (var x = 0; x < amounts.length; x += 1) {
+                let amount = amounts[x];
+                for (var y = 1; y <= 25; y += 1) {
+                    if (21 <= y && y <= 24)
+                        continue;
+                    var s = amount + y.toString();
+                    var alternatives = [];
+                    alternatives.push(s);
+                    if (s === "single 25")
+                        alternatives = ["25", "outer bull"];
+                    if (s === "double 25")
+                        alternatives = ["bull", "bulls-eye"];
+                    if (s === "triple 25")
+                        alternatives = [];
+                    for (let z = 0; z < alternatives.length; z += 1) {
+                        var s2 = y.toString();
+                        if (x === 2) s2 += "\u00b2";
+                        if (x === 3) s2 += "\u00b3";
+                        commands[alternatives[z]] = MakeScoreFunction([nx[x], y, s2]);
+                    }
+                }
+            }
+            commands["no score"] = MakeScoreFunction([0, 0, "no score"]);
+            commands["bust"] = MakeScoreFunction([0, -1, "bust"]);
+            commands["clear scores"] = function() {
+                clearScores();
+            };
+            commands["undo"] = function() {
+                undo();
+            };
+            commands["player one is *tag"] = function(tag) {
+                player1.name = tag;
+                bump();
+            };
+            commands["player two is *tag"] = function(tag) {
+                player2.name = tag;
+                bump();
+            };
+
+            console.log(commands);
+            annyang.addCommands(commands);
+
+            // Start listening. You can call this here, or attach this call to an event, button, etc.
+            annyang.start();
+        }
+    </script>
+</body>
+
+</html>
