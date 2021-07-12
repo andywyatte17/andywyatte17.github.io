@@ -1,11 +1,37 @@
 var log = "",
-    t_0 = null,
     coords = [],
     distLast = null,
     timeForNextUtterance = 0,
     running = null;
 
-var geoloc = navigator.geolocation;
+function getTimestampInMillis() {
+    return new Date() / 1.0;
+}
+
+var mock_geoloc = (function() {
+    var state = {
+        coords: {
+            latitude: 51.5883916,
+            longitude: -0.0288636,
+            accuracy: 10,
+        },
+        timestamp: getTimestampInMillis() /* some time in milliseconds */ ,
+    };
+    var geoloc = {
+        getCurrentPosition: function(success, error, options) {
+            success(state);
+            var r1 = (Math.random() - 0.5) * 0.0005;
+            var r2 = (Math.random() - 0.5) * 0.0005;
+            state.timestamp = getTimestampInMillis();
+            state.coords.latitude += r1;
+            state.coords.longitude += r2;
+        },
+    };
+    return geoloc;
+})();
+
+//var geoloc = navigator.geolocation;
+var geoloc = mock_geoloc;
 
 // window.addEventListener("load", init);
 
@@ -21,9 +47,6 @@ function seekPosition(first) {
     };
     geoloc.getCurrentPosition(
         function(position) {
-            if (first == true) {
-                t_0 = getTimeNow();
-            }
             gotPosition(position);
         },
         function() {
@@ -36,7 +59,6 @@ function seekPosition(first) {
 function restart() {
     stop();
     log = "";
-    t_0 = null;
     coords = [];
     distLast = null;
     timeForNextUtterance = 0;
@@ -68,56 +90,30 @@ function RoundToDecimalPlaces(number, decimalPlaces) {
 }
 
 function gotPosition(position) {
-    var at = position.coords,
-        off = at.accuracy,
-        z;
-    save(at, off);
+    save(position);
 }
 
 function noGeolocation(message) {
     // TODO: ...
 }
 
-function getTimeNow() {
-    return Math.round(new Date() / 1000);
-}
+function save(position) {
+    var at = position.coords;
+    var off = at.accuracy;
 
-function save(at, off) {
     if (off > 50 /* metres */ ) {
         // Not accurate enough
         return;
     }
 
-    time = getTimeNow();
-    if (t_0 == null) {
-        t_0 = time;
-        return;
-    }
-
-    var timeDelta = time - t_0;
-    if (timeDelta < 1) {
-        return;
-    }
-
-    var distNow = 0;
     var coordsThis = {
         lat: at.latitude,
         long: at.longitude,
-        timeDelta: timeDelta,
-        dist: distNow,
-        accuracy: off,
+        timestamp: position.timestamp,
+        accuracy: off
     };
 
-    if (coords.length > 1) {
-        distNow = distance(
-            coords[coords.length - 1],
-            coordsThis
-        );
-        coordsThis.dist = distNow;
-
-        var distanceTotal = 0;
-
-        if (distLast == null || timeDelta > timeForNextUtterance) {
+    /*
             timeForNextUtterance = timeDelta + 30;
 
             var s = RoundToDecimalPlaces(distanceTotal, 2).toString() + " km. ";
@@ -131,9 +127,7 @@ function save(at, off) {
             var synth = window.speechSynthesis;
             var utterThis = new SpeechSynthesisUtterance(s);
             synth.speak(utterThis);
-        }
-        distLast = distanceTotal;
-    }
+    */
 
     coords.push(coordsThis);
 
@@ -142,24 +136,41 @@ function save(at, off) {
 
     var s = "";
     var bits = coords.slice(i0);
-    for (var i = 0; i < bits.length; i++) {
-        s += [
-            bits[i].lat,
-            bits[i].long,
-            bits[i].timeDelta,
-            RoundToDecimalPlaces(bits[i].dist, 4),
-            RoundToDecimalPlaces(bits[i].accuracy, 1),
-        ];
-        s += "\n";
-    }
+    bits.forEach(
+        (bit) => {
+            s = s + JSON.stringify(bit) + "\n";
+        }
+    );
 
-    t_0 = time;
+    var ds = distanceSum(coords);
+    s = s + JSON.stringify(ds) + "\n";
+    var kmPerMilli = ds.distanceKm / ds.timesum_millis;
+    var metresPerMinute = (kmPerMilli * 1000) * (60000);
+
+    s = s + metresPerMinute + " metres per minutes\n";
 
     document.getElementById("log").innerHTML = s;
 }
 
+function distanceSum(someCoords) {
+    var distance = 0;
+    var last, count = 0,
+        timesum_millis = 0;
+    someCoords.forEach(
+        (bit, index) => {
+            if (index > 0) {
+                distance = distance + getDistance(last, bit);
+                timesum_millis += bit.timestamp - last.timestamp;
+                count += 1;
+            }
+            last = bit;
+        }
+    );
+    return { distanceKm: distance, count: count, timesum_millis: timesum_millis };
+}
+
 // Get distance in km between (coord1.lat, coord1.long) and coord2.
-function distance(coord1, coord2) {
+function getDistance(coord1, coord2) {
     var toRad = function(num) {
         return (num * Math.PI) / 180;
     };
@@ -185,4 +196,16 @@ function distance(coord1, coord2) {
     var d = R * c;
 
     return d;
+}
+
+function copy() {
+    var elem = document.getElementById("copy");
+    var arr = Array();
+    coords.forEach(
+        function(value) {
+            arr.push([value.lat, value.long, value.timestamp]);
+        });
+    elem.value = JSON.stringify(arr);
+    elem.focus();
+    elem.select();
 }

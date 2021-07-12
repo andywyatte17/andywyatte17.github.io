@@ -15,9 +15,14 @@
     <button onclick="pause()" id="btnPause" class="button">Pause</button>
     <button onclick="stop()" id="btnStop" class="button">Stop</button>
     <button onclick="restart()" id="btnRestart" class="button">Restart</button>
+    <button onclick="copy()" class="button">Copy</button>
     <div>
-        <h1>Log recent events.</h1>
+        <h2>Log</h2>
         <span><pre id="log"></pre></span>
+    </div>
+    <div>
+        <h2>Copy</h2>
+        <textarea id="copy"></textarea>
     </div>
     <script src="index.js"></script>
 </body>
