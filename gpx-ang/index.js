@@ -114,20 +114,20 @@ function save(position) {
     };
 
     /*
-              timeForNextUtterance = timeDelta + 30;
+                timeForNextUtterance = timeDelta + 30;
 
-              var s = RoundToDecimalPlaces(distanceTotal, 2).toString() + " km. ";
+                var s = RoundToDecimalPlaces(distanceTotal, 2).toString() + " km. ";
 
-              var km_per_second = distanceTotal / timeDelta;
-              var mins_per_km = 1.0 / km_per_second / 60.0;
-              mins_per_km = RoundToDecimalPlaces(mins_per_km, 1);
+                var km_per_second = distanceTotal / timeDelta;
+                var mins_per_km = 1.0 / km_per_second / 60.0;
+                mins_per_km = RoundToDecimalPlaces(mins_per_km, 1);
 
-              s += "Pace is " + mins_per_km + " minutes per km.";
+                s += "Pace is " + mins_per_km + " minutes per km.";
 
-              var synth = window.speechSynthesis;
-              var utterThis = new SpeechSynthesisUtterance(s);
-              synth.speak(utterThis);
-      */
+                var synth = window.speechSynthesis;
+                var utterThis = new SpeechSynthesisUtterance(s);
+                synth.speak(utterThis);
+        */
 
     coords.push(coordsThis);
 
@@ -301,10 +301,36 @@ function downloadGpsData() {
         },
     };
 
-    var arr = Array();
+    var start = `<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Oregon 400t" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2009-10-17T22:58:43Z</time>
+  </metadata>
+  <trk>
+    <name>Example GPX Document</name>
+    <trkseg>`;
+
+    /*
+            <trkpt lat="47.644548" lon="-122.326897">
+              <ele>4.46</ele>
+              <time>2009-10-17T18:37:26Z</time>
+            </trkpt>
+      */
+    var end = `
+    </trkseg>
+  </trk>
+</gpx>`;
+
+    var s = start;
     coords.forEach(function(value) {
-        arr.push([value.lat, value.long, value.timestamp]);
+        s = s + "\n" + '      <trkpt lat="' + value.lat + '" lon="' + value.long + '">';
+        s = s + "\n" + "      </trkpt>";
     });
-    var s = Base64.encode(JSON.stringify(arr));
-    saveContent("application/json;base64," + s, "track.gpx");
+    s = s + end;
+
+    var s = Base64.encode(s);
+    saveContent("application/xml;base64," + s, "gps-trace.xml");
 }
