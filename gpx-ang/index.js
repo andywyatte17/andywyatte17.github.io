@@ -195,17 +195,6 @@ function getDistance(coord1, coord2) {
     return d;
 }
 
-function copy() {
-    var elem = document.getElementById("copy");
-    var arr = Array();
-    coords.forEach(function(value) {
-        arr.push([value.lat, value.long, value.timestamp]);
-    });
-    elem.value = JSON.stringify(arr);
-    elem.focus();
-    elem.select();
-}
-
 function saveContent(fileContents, fileName) {
     var link = document.createElement("a");
     link.download = fileName;
