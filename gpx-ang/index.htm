@@ -11,14 +11,21 @@
 </head>
 
 <body>
-    <button onclick="start()" id="btnStart" class="button">Start</button>
-    <button onclick="pause()" id="btnPause" class="button">Pause</button>
-    <button onclick="stop()" id="btnStop" class="button">Stop</button>
-    <button onclick="restart()" id="btnRestart" class="button">Restart</button>
-    <button onclick="copy()" class="button">Copy</button>
+    <div>
+        <button onclick="start()" id="btnStart" class="button">Start</button>
+        <button onclick="pause()" id="btnPause" class="button">Pause</button>
+        <button onclick="stop()" id="btnStop" class="button">Stop</button>
+        <button onclick="restart()" id="btnRestart" class="button">Restart</button>
+        <button onclick="copy()" class="button">Copy</button>
+    </div>
+    <div>
+        <button onclick="downloadGpsData()" class="button">Download</button>
+    </div>
     <div>
         <h2>Log</h2>
-        <span><pre id="log"></pre></span>
+        <span>
+            <pre id="log"></pre>
+        </span>
     </div>
     <div>
         <h2>Copy</h2>
