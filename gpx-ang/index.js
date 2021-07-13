@@ -201,8 +201,6 @@ function saveContent(fileContents, fileName) {
     link.download = fileName;
     link.href = "data:" + fileContents;
     link.text = fileName;
-    link.click();
-
     var linkParent = document.getElementById("link");
     while (linkParent.firstChild) {
         linkParent.removeChild(linkParent.lastChild);
