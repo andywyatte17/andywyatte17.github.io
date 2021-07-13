@@ -11,22 +11,35 @@
 </head>
 
 <body>
-    <div>
+    <p>
         <button onclick="start()" id="btnStart" class="button">Start</button>
         <button onclick="pause()" id="btnPause" class="button">Pause</button>
         <button onclick="stop()" id="btnStop" class="button">Stop</button>
         <button onclick="restart()" id="btnRestart" class="button">Restart</button>
-    </div>
-    <div>
+    </p>
+    <p>
         <button onclick="downloadGpsData()" class="button">Download</button>
         <div id="link"></div>
-    </div>
-    <div>
-        <h2>Log</h2>
+    </p>
+    <p>
+        <!--
+             metres per minute / 16.667 <=> km/h
+             16.667 / mpm = hours-per-km
+             (16.667 * 60) / mpm = minutes per km
+             mpm = (16.667 * 60) / mpk
+          -->
+        <label for="speed">Speed:</label>
+        <select name="speed" id="speed">
+            <option value="150">150 metres per minute (6.66 minutes per km)</option>
+            <option value="180">180 metres per minute (5.5 minutes per km)</option>
+        </select>
+    </p>
+    <p>
+        <h3>Log</h3>
         <span>
-            <pre id="log"></pre>
-        </span>
-    </div>
+        <pre id="log"></pre>
+    </span>
+    </p>
     <script src="index.js"></script>
 </body>
 

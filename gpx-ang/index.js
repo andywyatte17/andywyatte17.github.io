@@ -1,7 +1,7 @@
 var log = "",
     coords = [],
     distLast = null,
-    timeForNextUtterance = 0,
+    timeForNextUtteranceInMilliseconds = 0,
     running = null,
     saveCounter = 1;
 
@@ -62,7 +62,7 @@ function restart() {
     log = "";
     coords = [];
     distLast = null;
-    timeForNextUtterance = 0;
+    timeForNextUtteranceInMilliseconds = 0;
     start();
 }
 
@@ -114,22 +114,6 @@ function save(position) {
         accuracy: off,
     };
 
-    /*
-                  timeForNextUtterance = timeDelta + 30;
-
-                  var s = RoundToDecimalPlaces(distanceTotal, 2).toString() + " km. ";
-
-                  var km_per_second = distanceTotal / timeDelta;
-                  var mins_per_km = 1.0 / km_per_second / 60.0;
-                  mins_per_km = RoundToDecimalPlaces(mins_per_km, 1);
-
-                  s += "Pace is " + mins_per_km + " minutes per km.";
-
-                  var synth = window.speechSynthesis;
-                  var utterThis = new SpeechSynthesisUtterance(s);
-                  synth.speak(utterThis);
-          */
-
     coords.push(coordsThis);
 
     var i1 = coords.length;
@@ -149,6 +133,36 @@ function save(position) {
     s = s + metresPerMinute + " metres per minutes\n";
 
     document.getElementById("log").innerHTML = s;
+
+    utter();
+}
+
+function utter() {
+    var after = coords.length - 5;
+    var dist = 0,
+        millisCount = 0;
+    coords.forEach(
+        function(value, index) {
+            if (index >= after && index > 0) {
+                millisCount = millisCount + value.timestamp - coords[index - 1].timestamp;
+                dist = dist + getDistance(coords[index - 1], value);
+            }
+        }
+    );
+
+    if (millisCount > 0 && getTimestampInMillis() > timeForNextUtteranceInMilliseconds) {
+        var km_per_second = dist / (millisCount / 1000.0);
+        var mins_per_km = 1.0 / km_per_second / 60.0;
+        mins_per_km = RoundToDecimalPlaces(mins_per_km, 1);
+
+        var s = mins_per_km + " minutes per km.";
+
+        var synth = window.speechSynthesis;
+        var utterThis = new SpeechSynthesisUtterance(s);
+        synth.speak(utterThis);
+
+        timeForNextUtteranceInMilliseconds = getTimestampInMillis() + 30 * 1000;
+    }
 }
 
 function distanceSum(someCoords) {
