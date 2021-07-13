@@ -34,11 +34,17 @@ var mock_geoloc = (function() {
 var geoloc = navigator.geolocation;
 //var geoloc = mock_geoloc;
 
-// window.addEventListener("load", init);
+window.addEventListener("load", init);
 
 window.onbeforeunload = function() {
     return "You have attempted to leave this page. Are you sure?";
 };
+
+function init() {
+    if (geoloc == mock_geoloc) {
+        document.getElementById("heading_log").text = "Log (mock)";
+    }
+}
 
 function seekPosition(first) {
     var opti = {
