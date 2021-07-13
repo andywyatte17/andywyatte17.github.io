@@ -209,7 +209,7 @@ function copy() {
 function saveContent(fileContents, fileName) {
     var link = document.createElement("a");
     link.download = fileName;
-    link.href = "data:," + fileContents;
+    link.href = "data:" + fileContents;
     link.click();
 }
 
