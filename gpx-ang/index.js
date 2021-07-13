@@ -31,8 +31,8 @@ var mock_geoloc = (function() {
     return geoloc;
 })();
 
-//var geoloc = navigator.geolocation;
-var geoloc = mock_geoloc;
+var geoloc = navigator.geolocation;
+//var geoloc = mock_geoloc;
 
 // window.addEventListener("load", init);
 
