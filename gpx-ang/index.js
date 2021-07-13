@@ -195,11 +195,14 @@ function getDistance(coord1, coord2) {
     return d;
 }
 
+var saveCounter = 1;
+
 function saveContent(fileContents, fileName) {
     var link = document.createElement("a");
     link.download = fileName;
     link.href = "data:" + fileContents;
-    link.text = "Download";
+    link.text = "gps-trace-" + saveCounter + ".xml";
+    saveCounter = saveCounter + 1;
     link.click();
 
     var linkParent = document.getElementById("link");
