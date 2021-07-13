@@ -311,6 +311,7 @@ function downloadGpsData() {
             return t;
         },
     };
+
     var arr = Array();
     coords.forEach(function(value) {
         arr.push([value.lat, value.long, value.timestamp]);
