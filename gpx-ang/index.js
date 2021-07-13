@@ -2,7 +2,8 @@ var log = "",
     coords = [],
     distLast = null,
     timeForNextUtterance = 0,
-    running = null;
+    running = null,
+    saveCounter = 1;
 
 function getTimestampInMillis() {
     return new Date() / 1.0;
@@ -195,14 +196,11 @@ function getDistance(coord1, coord2) {
     return d;
 }
 
-var saveCounter = 1;
-
 function saveContent(fileContents, fileName) {
     var link = document.createElement("a");
     link.download = fileName;
     link.href = "data:" + fileContents;
-    link.text = "gps-trace-" + saveCounter + ".xml";
-    saveCounter = saveCounter + 1;
+    link.text = fileName;
     link.click();
 
     var linkParent = document.getElementById("link");
@@ -349,5 +347,6 @@ function downloadGpsData() {
     s = s + end;
 
     var s = Base64.encode(s);
-    saveContent("application/xml;base64," + s, "gps-trace.xml");
+    saveContent("application/xml;base64," + s, "gps-trace-" + saveCounter + ".xml");
+    saveCounter = saveCounter + 1;
 }
