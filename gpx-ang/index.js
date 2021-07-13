@@ -207,7 +207,7 @@ function saveContent(fileContents, fileName) {
 
     var linkParent = document.getElementById("link");
     while (linkParent.firstChild) {
-        linkParent.removeChild(myNode.lastChild);
+        linkParent.removeChild(linkParent.lastChild);
     }
     linkParent.appendChild(link);
 }
