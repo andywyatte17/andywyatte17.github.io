@@ -42,9 +42,9 @@ window.onbeforeunload = function() {
 
 function init() {
     if (geoloc == mock_geoloc) {
-        document.getElementById("heading_log").text = "Log (mock)";
+        document.getElementById("heading_log").innerText = "Log (mock)";
     } else {
-        document.getElementById("heading_log").text = "Log (real)";
+        document.getElementById("heading_log").innerText = "Log (real)";
     }
 }
 
