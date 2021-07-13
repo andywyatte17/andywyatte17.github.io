@@ -114,20 +114,20 @@ function save(position) {
     };
 
     /*
-                timeForNextUtterance = timeDelta + 30;
+                  timeForNextUtterance = timeDelta + 30;
 
-                var s = RoundToDecimalPlaces(distanceTotal, 2).toString() + " km. ";
+                  var s = RoundToDecimalPlaces(distanceTotal, 2).toString() + " km. ";
 
-                var km_per_second = distanceTotal / timeDelta;
-                var mins_per_km = 1.0 / km_per_second / 60.0;
-                mins_per_km = RoundToDecimalPlaces(mins_per_km, 1);
+                  var km_per_second = distanceTotal / timeDelta;
+                  var mins_per_km = 1.0 / km_per_second / 60.0;
+                  mins_per_km = RoundToDecimalPlaces(mins_per_km, 1);
 
-                s += "Pace is " + mins_per_km + " minutes per km.";
+                  s += "Pace is " + mins_per_km + " minutes per km.";
 
-                var synth = window.speechSynthesis;
-                var utterThis = new SpeechSynthesisUtterance(s);
-                synth.speak(utterThis);
-        */
+                  var synth = window.speechSynthesis;
+                  var utterThis = new SpeechSynthesisUtterance(s);
+                  synth.speak(utterThis);
+          */
 
     coords.push(coordsThis);
 
@@ -199,7 +199,14 @@ function saveContent(fileContents, fileName) {
     var link = document.createElement("a");
     link.download = fileName;
     link.href = "data:" + fileContents;
+    link.text = "Download";
     link.click();
+
+    var linkParent = document.getElementById("link");
+    while (linkParent.firstChild) {
+        linkParent.removeChild(myNode.lastChild);
+    }
+    linkParent.appendChild(link);
 }
 
 function downloadGpsData() {
@@ -314,11 +321,11 @@ function downloadGpsData() {
     <trkseg>`;
 
     /*
-            <trkpt lat="47.644548" lon="-122.326897">
-              <ele>4.46</ele>
-              <time>2009-10-17T18:37:26Z</time>
-            </trkpt>
-      */
+              <trkpt lat="47.644548" lon="-122.326897">
+                <ele>4.46</ele>
+                <time>2009-10-17T18:37:26Z</time>
+              </trkpt>
+        */
     var end = `
     </trkseg>
   </trk>
@@ -326,7 +333,14 @@ function downloadGpsData() {
 
     var s = start;
     coords.forEach(function(value) {
-        s = s + "\n" + '      <trkpt lat="' + value.lat + '" lon="' + value.long + '">';
+        s =
+            s +
+            "\n" +
+            '      <trkpt lat="' +
+            value.lat +
+            '" lon="' +
+            value.long +
+            '">';
         s = s + "\n" + "      </trkpt>";
     });
     s = s + end;
