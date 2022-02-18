@@ -6,7 +6,8 @@ MD = "how-to-bingewatch-class-who-skipwatch.md"
 
 def check_in_andys_list(line, andysWatches):
     for aw in andysWatches:
-        if line.find(aw)>=0:
+        found = line.find(aw)
+        if found >=0:
             return True
     return False
 
@@ -32,5 +33,5 @@ if __name__=='__main__':
     main()
 
 ANDYS_WATCHES = (
-    "The War Games"
+    "The War Games",
 )
