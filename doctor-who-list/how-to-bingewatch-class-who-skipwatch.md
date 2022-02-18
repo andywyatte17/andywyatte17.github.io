@@ -227,7 +227,7 @@ An interesting episode which starts to introduce a more complex side to the Dale
 # Season 5 (Patrick Troughton)
 
 Finally, some complete Patrick Troughton episodes! Let's be honest, you probably didn't slog through the previous almost-entirely-missing season, so this season is probably your introduction to the man, the myth, the legend. He's firmly established in the character by now, with a wonderful rapport with his definitive companion, 18th Century highlander, Jamie McCrimmon. A great season, introducing a handful of new monsters, though it ends with a clunker.
- 
+
 ## The Tomb of the Cybermen - Watch
 
 <sub>Season 5 (Patrick Troughton)</sub>
