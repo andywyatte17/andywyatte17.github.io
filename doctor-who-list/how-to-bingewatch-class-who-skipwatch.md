@@ -4,19 +4,19 @@
 
 This is a show trying to find its feet. Is it an ensemble show, or is the main character the mysterious man billed in the credits (really) as "Dr. Who"? Is it an educational children's history show or a scifi horror drama? It's all of those things! So many classic moments which still work, from the first scenes in An Unearthly Child to the grim moral dilemma of The Aztecs. If you're up for it, it's also totally possible to start the show at the beginning.
 
-## An Unearthly Child - Watch
+## An Unearthly Child - Watch - AW
 
 <sub>Season 1 (William Hartnell)</sub>
 
 I’d watch the first (superb) episode of the serial - which is eerie and strange - The Twilight Zone meets Narnia, but the rest is very cheesy and painfully dated. Skip all of that and go on to good stuff.
 
-## The Daleks - Watch
+## The Daleks - Watch - AW
 
 <sub>Season 1 (William Hartnell)</sub>
 
 A decent introduction to the Doctor’s most iconic enemies. There’s a lot of filler later on though. If I were being honest, this is more of a "maybe," but from a history-of-the-show viewpoint, it is iconic. If nothing else, watch the unsettling first Dalek cliffhanger and the brutal first full appearance of the monsters.
 
-## The Edge of Destruction - Watch
+## The Edge of Destruction - Watch - AW
 
 <sub>Season 1 (William Hartnell)</sub>
 
@@ -26,19 +26,19 @@ All of this seven-episode serial is lost, which is a terrible shame - the recons
 
 Not bad - a sequence of adventures from Terry Nation - but not exactly great either. A filler episode.
 
-## The Aztecs - Watch
+## The Aztecs - Watch - AW
 
 <sub>Season 1 (William Hartnell)</sub>
 
 A really terrific, fascinating historical episode which lets the characters sink their teeth into some solid drama. Do we have a right to interfere in history? Barbara takes it on herself to try. Best of the First Doctor, in my humble opinion.
 
-## The Sensorites - Skip
+## The Sensorites - Skip - AW
 
 <sub>Season 1 (William Hartnell)</sub>
 
 A few nice moments, but it’s largely tedious and too long. Do, however, watch Susan give us our first description of the Time Lords' home planet. And here's a nice scene as the group reflect on their adventures.
 
-## The Reign of Terror (episodes 4 - 5 missing) - Maybe
+## The Reign of Terror (episodes 4 - 5 missing) - Maybe - AW
 
 <sub>Season 1 (William Hartnell)</sub>
 
@@ -48,55 +48,55 @@ If you’re willing to endure a few reconstructed episodes, this is a good, dark
 
 The second season is a bit more pedestrian, but still has fine moments. The TARDIS team have bonded and William Hartnell is much more avuncular and twinkly in the lead role.
 
-## Planet of Giants - Watch
+## Planet of Giants - Watch - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
 A fun, short (no pun intended) adventure where the team get miniaturized and has to thwart an evil plot.
 
-## The Dalek Invasion of Earth - Watch
+## The Dalek Invasion of Earth - Watch - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
 Kind of overrated, but full of iconic visuals, and the last scene is rightly considered one of the First Doctor’s best, as he delivers a speech for all time. No, I'm not going to link to it - go watch the episode.
 
-## The Rescue - Skip
+## The Rescue - Skip - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
 A middling, short story which introduces companion, Vicki. There's nothing here that's unmissable.
 
-## The Romans - Watch
+## The Romans - Watch - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
 It’s a fun, dorky historical and Ian spends a lot of time in a toga, so it comes highly recommended from me. Also the First Doctor accidentally ends up swept up on a journey that leads him to the court of Nero himself where he has to engage in "the gentle art of fisticuffs." Clearly, the Doctor is starting to take a more proactive role in the story.
 
-## The Web Planet - Skip
+## The Web Planet - Skip - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
 It’s not awful, but between some really weird stylistic choices (Vaseline on the camera lens?) and a fairly slow plot, it’s pretty skippable. I do love the weird character designs and movements, though - props for ambition, ambition for props.
 
-## The Crusade (episodes 2 & 4 missing) - Watch
+## The Crusade (episodes 2 & 4 missing) - Watch - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
 A terrific historical, which is compelling despite the two missing episodes. Julian Glover guest stars as Richard the Lionheart and Jean Marsh as his sister Joanna - the two have extraordinary chemistry. It all just works.
 
-## The Space Museum - Skip
+## The Space Museum - Skip - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
 Not super memorable. Neat idea, but it doesn't go anywhere.
 
-## The Chase - Maybe
+## The Chase - Maybe - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
 Character goodbyes probably make this adventure worth watching - farewell, Ian and Barbara...(if you skip, here's their exit, which you definitely need to see.)
 
-## The Time Meddler - Maybe
+## The Time Meddler - Maybe - AW
 
 <sub>Season 2 (William Hartnell)</sub>
 
@@ -106,61 +106,61 @@ A bit slow, but this is the first Time Lord we meet who isn’t related to the D
 
 An uneven season which grows stronger as it progresses, and shoots for the moon with the ambitious epic The Daleks' Master Plan. The Doctor really starts to contemplate his losses and the weight of his traveling. Hartnell is also much stronger here - his health is still not what it was, but he's certainly not flubbing lines as often as he was in season 2.
 
-## Galaxy 4 (episodes 1 - 2 & 4 missing) - Skip
+## Galaxy 4 (episodes 1 - 2 & 4 missing) - Skip - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 While there are some really good moments in the second and third episode (plot reversals! dramatic dream sequences!), it’s just not worth it for the long periods waiting for robots - "Chumblies" - to trundle across the ground.
 
-## Mission to the Unknown (missing) - Maybe
+## Mission to the Unknown (missing) - Maybe - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 This one filler episode was created to set up The Daleks' Master Plan and give viewers something to watch while all the main cast are on vacation. The original is missing but some fans remade it, and you can watch it here.  
 
-## The Myth Makers (all episodes missing) - Skip
+## The Myth Makers (all episodes missing) - Skip - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 Just kill me now. This story was probably pretty entertaining when it could be seen, as the Doctor gets mistaken for Zeus at the siege of Troy and that had to be fun, but it's a chore to listen to tons and tons of exposition in still pictures. The third episode picks up a bit, but it's all too brief. It also helps to be familiar with Greek mythology - or rather, Shakespeare - as it turns out (spoiler!) Cressida and Diomedes were actually Vicki and Steven. Vicki - I mean, Cressida - ends up falling for Troilus and that's how she leaves the TARDIS. Meanwhile, Trojan maid Katarina joins the TARDIS team.
 
-## The Daleks' Master Plan - (episodes 1, 3 - 4, 6 - 9, and 11 - 12 missing) - Watch
+## The Daleks' Master Plan - (episodes 1, 3 - 4, 6 - 9, and 11 - 12 missing) - Watch - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 A dark, immense tale which does what The Chase wanted to do, but better. It's a bit bloated, but it also doesn't shy away from some real consequences for the Doctor, and William Hartnell has seldom been better. A magnificent epic. Do, however, skip The Feast of Steven, which is a Christmas filler episode that my sister aptly described as "one long headache." 
 
-## The Massacre of St Bartholomew's Eve (all episodes missing) - Maybe
+## The Massacre of St Bartholomew's Eve (all episodes missing) - Maybe - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 The story’s a little bit hard to follow in a reconstruction, but the ending is serious and thoughtful, as Steven grapples with the realities of non-interference in history. If nothing else, you have to watch that ending, which is really excellent drama - and which melds into a Hartnell monologue with near David Tennant levels of Doctor Pathos. Also - hahahaha - he totally kidnaps Dodo because she reminds him of Susan. 
 
-## The Ark - Watch
+## The Ark - Watch - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 A dorky time travel adventure that originates several important scifi ideas that will pop up in the show again.
 
-## The Celestial Toymaker (episodes 1 - 3 missing) - Watch
+## The Celestial Toymaker (episodes 1 - 3 missing) - Watch - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 A gonzo ride into the mind of the Celestial Toymaker, a god who forces his captives - in this case, the Doctor, Steven, and Dodo - to play a series of nonsense games or be trapped in his universe for eternity. It's interesting and, for those days, high concept. Slightly overrated, yes (season 6's The Mind Robber is the platonic ideal of this type of tale), but it's a neat story. 
 
-## The Gunfighters - Maybe
+## The Gunfighters - Maybe - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 Here’s the thing - you get to see daffy old William Hartnell get mistaken for Doc Holliday in Tombstone. But on the other hand, it’s too long and they repeat the earworm theme song every three minutes. I don’t know, I rather liked it. It's part of the First Doctor Experience.
 
-## The Savages (all episodes missing) - Watch
+## The Savages (all episodes missing) - Watch - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
 Alas, there's nothing left of this episode, which is a shame, because it's an interesting morality tale in which the Doctor gets to be thunderingly righteous in the aid of an oppressed minority people. He even talks about human beings in terms of souls, which makes his argument all the stronger. 
 
-## The War Machines - Maybe
+## The War Machines - Maybe - AW
 
 <sub>Season 3 (William Hartnell)</sub>
 
@@ -170,55 +170,55 @@ The last complete Hartnell episode. It's an okay story, introducing new companio
 
 It's happening! William Hartnell's increasingly frail health prompts the BBC to find a way to recast the lead in their hit series. Remarkably, instead of casting a William Hartnell lookalike, they decide to go with Patrick Troughton, an impish little man with a Beatles moptop and a twinkle in his eye that may be friendly or may be cunning. He's certainly not the man we knew, and he's not interested in holding our hand through the craziness of the first regeneration.
 
-## The Smugglers (all episodes missing) - Skip
+## The Smugglers (all episodes missing) - Skip - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
 A rote historical episode in which nothing of note occurs. If you want, you can watch the first scene, where Polly and Ben realize they've accidentally ended up on an adventure through time and space (and it really was an accident, instead of the usual kidnapping! Character development!) 
 
-## The Tenth Planet (episode 4 missing) - Watch
+## The Tenth Planet (episode 4 missing) - Watch - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
 Not the most exciting plot, but it's the introduction of a key villain (man, their design here is so much better than the new series) and the occasion of the first regeneration. I'd say essential, but since it's harder to get a hold of, I guess not. Still, it's a big moment in the show's history.
 
-## The Power of the Daleks (all episodes missing) - Watch
+## The Power of the Daleks (all episodes missing) - Watch - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
 It’s worth watching a reconstruction (I always prefer the fan-made versions, cobbled together from BBC telesnaps, instead of animated versions), as this one’s a classic. Patrick Troughton is a zany, alienating, unpredictable version of the man we knew as the Doctor. He may be good, but is he safe?
 
-## The Highlanders (all episodes missing) - Skip
+## The Highlanders (all episodes missing) - Skip - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
 The Doctor is still attempting to find himself, which translates to dressing up every chance he gets, putting on silly accents, and coveting a selection of hats. The main important thing which occurs in this episode is the introduction of new companion, Jamie McCrimmon, but otherwise, it's a bit of a snoozefest.
 
-## The Underwater Menace (episodes 1 & 4 missing) - Skip
+## The Underwater Menace (episodes 1 & 4 missing) - Skip - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
 There are a few fun bits with Patrick Troughton mugging in funny hats with his recorder, but it's slow. Really slow. Check out this famously corny line delivery so you will get the memes. 
 
-## The Moonbase (episodes 1 & 3 missing) - Watch
+## The Moonbase (episodes 1 & 3 missing) - Watch - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
 A taut (and in Classic Who, that word hardly ever gets used) base-under-siege episode and one of the best episodes for this iconic villain. A fine Polly episode too. Troughton has found his Doctor. 
 
-## The Macra Terror (all episodes missing) - Skip
+## The Macra Terror (all episodes missing) - Skip - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
 The Doctor and company land in a utopian society that - you won't be shocked - turns out to be not so utopian after all. Despite all the decadence on display, there's clearly a dark secret undergirding this paradise, and the Doctor is determined to find out what it is. This is kinda quirky and intriguing, but despite the genuinely memorable monster and some cool atmosphere, it doesn't end up going anywhere.
 
-## The Faceless Ones (episodes 2, 4, 5 & 6 missing) - Maybe
+## The Faceless Ones (episodes 2, 4, 5 & 6 missing) - Maybe - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
 The Doctor investigates a murder mystery at an airport. It's fine. The aliens have an interesting motivation for stealing "faces." It's mostly notable for how it shows the developing relationship between Patrick Troughton and Frazer Hines - they make a terrific double act. But Polly and Ben barely feel involved, ironically - as it's their last episode. If nothing else, watch the final scene. 
 
-## The Evil of the Daleks (episodes 1, 3 - 7 missing) - Maybe
+## The Evil of the Daleks (episodes 1, 3 - 7 missing) - Maybe - AW
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
@@ -232,37 +232,37 @@ Finally, some complete Patrick Troughton episodes! Let's be honest, you probably
 
 A terrific Cyberman story with some truly funny and charming moments. Its only downside is an unfortunately stereotyped African strongman. Still, the first fully complete Patrick Troughton episode shows him at the height of his charms alongside his best companion, Jamie. We get a magical "bigger on the inside" scene and one of Troughton's greatest monologues. We're reminded that the Doctor is ancient and mysterious - but also relatable.
 
-## The Abominable Snowmen (Episodes 1 & 3 - 6 missing) - Watch
+## The Abominable Snowmen (Episodes 1 & 3 - 6 missing) - Watch - AW
 
 <sub>Season 5 (Patrick Troughton)</sub>
 
 A strong adventure set in the Himalayas with a well-developed supporting cast and a mysterious new villain. Victoria really starts to show some spunk here, redeeming herself after her damsel in distress act in Tomb of the Cybermen. Check out Josh Snares terrific reconstructions of episode one, three, and four. 
 
-## The Ice Warriors (Episodes 2 - 3 missing) - Skip
+## The Ice Warriors (Episodes 2 - 3 missing) - Skip - AW
 
 <sub>Season 5 (Patrick Troughton)</sub>
 
 A lot of this episode works, with Peter Sallis turning in a particularly good supporting performance. The Ice Warriors, however, are so slow and sinister that they end up becoming a bit boring, and Victoria is back to her old screamer ways (seriously, one week she's Sarah Jane, the next Mel Bush). The episode is also prone towards preaching on and on about the evils of computers - we know, we get it. 
 
-## The Enemy of the World - Watch
+## The Enemy of the World - Watch - AW
 
 <sub>Season 5 (Patrick Troughton)</sub>
 
 The Doctor meets his evil doppelganger in this spy thriller. It’s really fun and lets Patrick Troughton flex. Who does Bond. It was lost for decades, but was one of the two serials - the other is The Web of Fear - discovered in Nigeria. Pause a moment and appreciate that - after decades, a lost Doctor Who episode turned up in Africa and just happened to be a classic. Actually, both of them are classics. What a wonderful world. 
 
-## The Web of Fear (Episode 3 missing) - Watch
+## The Web of Fear (Episode 3 missing) - Watch - AW
 
 <sub>Season 5 (Patrick Troughton)</sub>
 
 A terrific episode set in the London underground - the Yeti are a bit cheesy, but features the introduction of a super-important recurring character, and it’s a great episode for atmosphere. Another great Victoria episode, too.
 
-## Fury from the Deep (All episodes missing) - Watch
+## Fury from the Deep (All episodes missing) - Watch - AW
 
 <sub>Season 5 (Patrick Troughton)</sub>
 
 This was the final serial I watched (well, "watched") and I must say, it was an excellent note to go out on. Riveting, unsettling, and quickly paced, this is the rare reconstruction which kept me on the edge of my seat throughout (I watched Loose Canon's reconstruction but I might actually look into getting the animated version). In addition to all its other charms, it has a great emotional arc for Victoria as she starts to decide she's had enough of the TARDIS life. 
 
-## The Wheel in Space (Episodes 1 - 2 & 4 - 5 missing) - Skip
+## The Wheel in Space (Episodes 1 - 2 & 4 - 5 missing) - Skip - AW
 
 <sub>Season 5 (Patrick Troughton)</sub>
 
@@ -272,43 +272,43 @@ It's the introduction of young genius companion Zoe Heriot, but there's not enou
 
 Troughton's final season is a mixed bag, but when it's great, it's incredible. Iconic moments abound and the season pushes the show's mythology towards truly incredible heights.
 
-## The Dominators - Skip
+## The Dominators - Skip - AW
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
 Meh. Truly awful costumes. Quite forgettable story. Frazer Hines and Patrick Troughton are funny, but sometimes somebody needed to remind them to take the show seriously.
 
-## The Mind Robber - Watch
+## The Mind Robber - Watch - AW
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
 My all-time favorite Classic Who episode. Very strange and meta, questioning the very fabric of the show itself. Insanely ambitious and ahead of its time - the episode tends to split audiences, but its whimsy (some may claim "silliness") is bolstered by boundless creativity and smart plotting. A true Hall of Fame episode. 
 
-## The Invasion (Episodes 1 & 4 missing) - Watch
+## The Invasion (Episodes 1 & 4 missing) - Watch - AW
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
 A fun thriller set in London - lots of important plot elements start lining up for the third Doctor’s era. Return of Alistair Lethbridge-Stewart, intro of Benton and UNIT, and the super iconic shot of Cybermen at a famous location. Not strictly essential, but there's so much here that will turn up later that you really need to watch it.
 
-## The Krotons - Skip
+## The Krotons - Skip - AW
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
 Really quite a bad episode. Dull and unmemorable.
 
-## The Seeds of Death - Maybe
+## The Seeds of Death - Maybe - AW
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
 A fun futuristic episode, introducing yet another key villain. Fantastic set design. It features what may be Patrick Troughton's most iconic line (and line reading).
 
-## The Space Pirates (Episodes 1, 3 - 6 missing) - Skip
+## The Space Pirates (Episodes 1, 3 - 6 missing) - Skip - AW
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
 Robert Holmes's second episode does not live up to the heights to which he will eventually rise as a writer. It's supposed to be about pirates! Not the boring personal drama between a man who looks like he walked right out of a TV Western and the daughter of his rival! Or something! Boring.
 
-## The War Games - Essential
+## The War Games - Essential - AW
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
@@ -318,7 +318,7 @@ The second Doctor’s swan song, an ambitious epic which sometimes feels like St
 
 The Third Doctor's first season brings Doctor Who into the marvelous world of color.  Jon Pertwee was primarily a comic actor, so it came as a surprise to everyone (including him, a bit) when he played the role " as himself," drawing on his background as a Naval Intelligence operative during the war. He's supported by a marvelous cast, including Nicholas Courtenay as Brigadier Alistair Gordon Lethbridge-Stewart (if you liked Kate Stewart in New Who, this is her dad.) While I love the gentler side he shows in later seasons, Pertwee may be at his best in his first outing, still showing the immaturity and unpredictability which characterized his predecessor's "trickster" persona.
 
-## Spearhead from Space - Essential
+## Spearhead from Space - Essential - AW
 
 <sub>Season 7 (Jon Pertwee)</sub>
 
@@ -326,19 +326,19 @@ The
  first episode, due to a strike, was shot on location and entirely on 
 film instead of tape which means it looks fantastic, even now. It's also a really great regeneration episode (topped only by The Eleventh Hour, in my opinion) which introduces the Doctor’s new milieu and sets up the supporting cast who will anchor the show for its earthbound years.
 
-## Doctor Who and the Silurians - Watch
+## Doctor Who and the Silurians - Watch - AW
 
 <sub>Season 7 (Jon Pertwee)</sub>
 
 Most people like this one - I did not. I'm giving in to peer pressure here, though, to say I'm probably wrong. Check it out, but don't blame me if it's a boring seven episodes starring ugly green aliens from the dawn of time.
 
-## The Ambassadors of Death - Maybe
+## The Ambassadors of Death - Maybe - AW
 
 <sub>Season 7 (Jon Pertwee)</sub>
 
 An okay episode with some sassy stuff from Liz Shaw, who I like.
 
-## Inferno - Watch
+## Inferno - Watch - AW
 
 <sub>Season 7 (Jon Pertwee)</sub>
 
@@ -348,31 +348,31 @@ A searingly intense ride with some great acting from the show’s regulars. The 
 
 The Third Doctor's second season isn't quite as experimental, swapping out the daring Liz Shaw for the more traditional (if adorable) Jo Grant, but it does introduce the Third Doctor's definitive villain, and there are some solid stories here. 
 
-## Terror of the Autons - Essential
+## Terror of the Autons - Essential - AW
 
 <sub>Season 8 (Jon Pertwee)</sub>
 
 Introduces two important characters: the Doctor's new companion, Jo Grant, and his arch-nemesis, the Master. The Doctor has clearly started to acclimate to his new role, though he's not happy about it.
 
-## The Mind of Evil - Watch
+## The Mind of Evil - Watch - AW
 
 <sub>Season 8 (Jon Pertwee)</sub>
 
 A solid political thriller that doesn’t entirely make sense. Just roll with it. 
 
-## The Claws of Axos - Maybe
+## The Claws of Axos - Maybe - AW
 
 <sub>Season 8 (Jon Pertwee)</sub>
 
 Not essential, but a fun story.
 
-## Colony in Space - Skip
+## Colony in Space - Skip - AW
 
 <sub>Season 8 (Jon Pertwee)</sub>
 
 A dull story which picks up just a bit near the end. This scene is the best part. 
 
-## The Dæmons - Watch
+## The Dæmons - Watch - AW
 
 <sub>Season 8 (Jon Pertwee)</sub>
 
@@ -384,25 +384,25 @@ A weaker season, though Pertwee is always charming.
 
 Day of the Daleks - Maybe  - What could have been a middling story is bumped up a bit by a startling third act twist. Pertwee has a grand old time wining and dining. It's not a classic, but it's entertaining. 
 
-## The Curse of Peladon - Skip
+## The Curse of Peladon - Skip - AW
 
 <sub>Season 9 (Jon Pertwee)</sub>
 
 Starts out weird, and Alpha Centauri is absolutely embarrassing, but it has some interesting character dynamics, and Jo gets to shine here. Its politics are really obvious - a commentary on Britain's entry into the EU. Still, I'm gonna say no.
 
-## The Sea Devils - Watch
+## The Sea Devils - Watch - AW
 
 <sub>Season 9 (Jon Pertwee)</sub>
 
 The Master and the Doctor get into a sword fight and the Doctor gets to ride around in a hovercraft. Nuff said. The plot is nothing to write home about, but Pertwee is so awesome you don't care - he gets involved in all sorts of exciting action. 
 
-## The Mutants - Skip
+## The Mutants - Skip - AW
 
 <sub>Season 9 (Jon Pertwee)</sub>
 
 Pretty boring, but the ending has some weird and striking concepts it embraces.
 
-## The Time Monster - Maybe
+## The Time Monster - Maybe - AW
 
 <sub>Season 9 (Jon Pertwee)</sub>
 
@@ -412,31 +412,31 @@ Cheesy and clunky. It’s kind of a mess. But it does have individual striking m
 
 The show arrives at its tenth anniversary, with a season more inventive than the previous one. We get our first multi-Doctor story and the show starts to gravitate back towards a more traditional travel-oriented premise. Still, the show is beginning to a feel a little comfortable with itself - the Tom Baker shot in the arm that it needs is still a season away.
 
-## The Three Doctors - Watch
+## The Three Doctors - Watch - AW
 
 <sub>Season 10 (Jon Pertwee)</sub>
 
 One should never skip multi-Doctor episodes, and this one is a delight. It’s easily my favorite multi-Doctor classic episode, and maybe my favorite overall. Pertwee and Troughton are a wonderful double act, though it's a shame William Hartnell was too ill to contribute very much.
 
-## Carnival of Monsters - Watch
+## Carnival of Monsters - Watch - AW
 
 <sub>Season 10 (Jon Pertwee)</sub>
 
 A delightfully wacky episode in which the Doctor and Jo are trapped in, basically, an ant circus for miniaturized humans.
 
-## Frontier in Space - Maybe
+## Frontier in Space - Maybe - AW
 
 <sub>Season 10 (Jon Pertwee)</sub>
 
 The first half’s rather dull, but then the Master turns up and gives an excellent, and sadly, final performance (Roger Delgado would die soon after in a car accident in Turkey). He's in league with...the Uruk Hai? Sorry, Ogrons.
 
-## Planet of the Daleks - Skip
+## Planet of the Daleks - Skip - AW
 
 <sub>Season 10 (Jon Pertwee)</sub>
 
 There are nice reflective moments here - Pertwee gives a nice speech to a side character about bravery. Jo Grant is more proactive. But too much of it is spent with the Doctor or Jo sidelined for plot reasons (he's in a coma - but when he wakes up, he takes the time to switch clothes before dealing with the immediate crisis) and the non-Dalek villains clearly suffered from a lack of budget (they're invisible). An underbaked side romance for Jo just makes the story feel all the more Who-by-the-numbers.
 
-## The Green Death - Essential
+## The Green Death - Essential - AW
 
 <sub>Season 10 (Jon Pertwee)</sub>
 
@@ -446,31 +446,31 @@ Okay, it’s cheesy and preachy and...well, the monsters are actually pretty gro
 
 A new companion! Pertwee and Elizabeth Sladen have some great moments in this season (The Time Warrior is one for the ages), but it's clear the UNIT years have run out of steam. Behind the scenes, Pertwee had decided that he didn't want to go on without Delgado or Katy Manning, so this season feels a bit like it's treading water before an inevitable exit.
 
-## The Time Warrior - Watch
+## The Time Warrior - Watch - AW
 
 <sub>Season 11 (Jon Pertwee)</sub>
 
 Introduction of Everybody's Favorite Companion™ Sarah Jane Smith and a near-perfect adventure story, combining an iconic new monster with a fun historical setting and sizzling dialogue. My platonic ideal for a Doctor Who episode.
 
-## Invasion of the Dinosaurs - Watch
+## Invasion of the Dinosaurs - Watch - AW
 
 <sub>Season 11 (Jon Pertwee)</sub>
 
 A fun, plot-heavy episode with some big implications for the UNIT fam and some very poorly realized dinosaurs. I understand some lame people don't like this episode because Jon Pertwee fends off an obviously fake pterodactyl with a mop. Clearly you just don't like fun. Possibly my favorite Doctor Who meme resulted from this episode.
 
-## Death to the Daleks - Skip
+## Death to the Daleks - Skip - AW
 
 <sub>Season 11 (Jon Pertwee)</sub>
 
 Nothing much happens in this one. Kind of forgettable.
 
-## The Monster of Peladon - Skip
+## The Monster of Peladon - Skip - AW
 
 <sub>Season 11 (Jon Pertwee)</sub>
 
 A cheesier, more plodding sequel to Curse of Peladon. Sarah Jane has a few fun girl power lines, but it's very skippable. 
 
-## Planet of the Spiders - Maybe
+## Planet of the Spiders - Maybe - AW
 
 <sub>Season 11 (Jon Pertwee)</sub>
 
@@ -481,31 +481,31 @@ Some really cringey character and design moments in this, but it’s a regenerat
 
 Tom Baker arrives in a blaze of glory. He has great companions, great writing, an incredible wardrobe, charisma out the wazoo - Baker really had all the luck. It's for those reasons that I often suggest starting with Baker, because this was the golden moment when the show was firing on all cylinders (much as I love other eras).
 
-## Robot - Watch
+## Robot - Watch - AW
 
 <sub>Season 12 (Tom Baker)</sub>
 
 While this serial isn’t ideally suited to Tom Baker (it's written like a Pertwee episode), it’s not bad, plus, there are some classic moments from the new Fourth Doctor. If this is your jumping-in point, realize that the robot itself is extremely clunky and unimpressive, even by Classic Who's standards.
 
-## The Ark in Space - Maybe
+## The Ark in Space - Maybe - AW
 
 <sub>Season 12 (Tom Baker)</sub>
 
 I find this one overrated. Coupled with a painfully dated monster makes this one that I wouldn’t recommend to new Classic viewers. Maybe save for later?
 
-## The Sontaran Experiment - Maybe
+## The Sontaran Experiment - Maybe - AW
 
 <sub>Season 12 (Tom Baker)</sub>
 
 Short and sweet, but nothing really special.
 
-## Genesis of the Daleks - Watch
+## Genesis of the Daleks - Watch - AW
 
 <sub>Season 12 (Tom Baker)</sub>
 
 A truly great episode. Space Nazis and the first appearance of Davros in this moody and atmospheric "morality of time travel" adventure.
 
-## Revenge of the Cybermen - Maybe
+## Revenge of the Cybermen - Maybe - AW
 
 <sub>Season 12 (Tom Baker)</sub>
 
@@ -515,37 +515,37 @@ Baker’s first encounter with the Doctor's other most iconic robot foes is pret
 
 Tom Baker and Sarah Jane return for a second season. Harry Sullivan, alas, doesn't make it beyond episode one, as they'd realized that with a young Doctor they didn't need an athletic male companion to do the derring do anymore (I think Harry should have been kept for other reasons, but anyway.)
 
-## Terror of the Zygons - Skip
+## Terror of the Zygons - Skip - AW
 
 <sub>Season 13 (Tom Baker)</sub>
 
 A Scottish doppelganger thriller with a poorly realized Loch Ness monster.
 
-## Planet of Evil - Skip
+## Planet of Evil - Skip - AW
 
 <sub>Season 13 (Tom Baker)</sub>
 
 Dull.
 
-## Pyramids of Mars - Watch
+## Pyramids of Mars - Watch - AW
 
 <sub>Season 13 (Tom Baker)</sub>
 
 Terrific. Evil mummies, British manor houses, Doctor having a midlife crisis? Yes, please. This is always the one I point new viewers towards. Sarah Jane is clearly becoming more proactive, the Doctor has some real complexity and darkness to struggle with, and while the mummy henchmen are a little corny, the big bad is amazing.
 
-## The Android Invasion - Maybe
+## The Android Invasion - Maybe - AW
 
 <sub>Season 13 (Tom Baker)</sub>
 
 Doctor and Sarah return to a Pertwee format. It’s fun. Doppelgangers abound.
 
-## The Brain of Morbius - Watch
+## The Brain of Morbius - Watch - AW
 
 <sub>Season 13 (Tom Baker)</sub>
 
 Weird, wacky Gothic Frankenstein story. Mad scientist Solon makes this one. Accidentally foreshadows an important twist in the new show.
 
-## The Seeds of Doom - Watch
+## The Seeds of Doom - Watch - AW
 
 <sub>Season 13 (Tom Baker)</sub>
 
@@ -555,37 +555,37 @@ A fun thriller which is like Bond meets The Thing. I don't think the author got 
 
 While this season starts off weakly, it goes on to be one of the strongest the show ever did. Experimental, confident, intense, and funny, the show wasn't missing a beat.
 
-## The Masque of Mandragora - Skip
+## The Masque of Mandragora - Skip - AW
 
 <sub>Season 14 (Tom Baker)</sub>
 
 A middle of the road historical story. Nothing special. The Doctor makes a heroic escape on a horse after tripping a guard with his scarf? Eh.
 
-## The Hand of Fear - Watch
+## The Hand of Fear - Watch - AW
 
 <sub>Season 14 (Tom Baker)</sub>
 
 Sarah Jane’s exit is quite sweet, though the story's nothing special. Pay attention for Tom Baker's subtle, unspoken disquiet throughout the tale, as he begins to realize Sarah Jane has become as reckless as he is (real echoes of this story show up in Face the Raven). 
 
-## The Deadly Assassin - Watch
+## The Deadly Assassin - Watch - AW
 
 <sub>Season 14 (Tom Baker)</sub>
 
 A fun, super-dark story in which the Doctor’s caught up in political intrigues on Gallifrey. Feels like the Classic analog to Heaven Sent.
 
-## The Face of Evil - Watch
+## The Face of Evil - Watch - AW
 
 <sub>Season 14 (Tom Baker)</sub>
 
 A strange story about superstition and technology. Introduces new companion Leela, and gives Tom Baker some great moments. That first cliffhanger! 
 
-## The Robots of Death - Watch
+## The Robots of Death - Watch - AW
 
 <sub>Season 14 (Tom Baker)</sub>
 
 A stylish mystery story. I watched a horribly mangled version of this episode, so I'm probably not the best authority on it. Most people like this one a lot.
 
-## The Talons of Weng-Chiang - Watch
+## The Talons of Weng-Chiang - Watch - AW
 
 <sub>Season 14 (Tom Baker)</sub>
 
@@ -596,37 +596,37 @@ While overrated, there are some brilliant inventions here. The Doctor goes toe-t
 
 Producer Philip Hinchcliffe leaves (alas), and with his departure the show starts to transition to a more PG approach. Not everybody likes the robot dog (Tom Baker certainly didn't!) but there's still a lot of good to be found in this era.
 
-## Horror of Fang Rock - Watch
+## Horror of Fang Rock - Watch - AW
 
 <sub>Season 15 (Tom Baker)</sub>
 
 The last of the great hammer horror inspired stories finds the Doctor and Leela trapped in a lighthouse battling a murderous (and a bit poor realized) monster.
 
-## The Invisible Enemy - Maybe
+## The Invisible Enemy - Maybe - AW
 
 <sub>Season 15 (Tom Baker)</sub>
 
 Introduction of a surprisingly fun new companion: K-9. Not the world’s greatest episode otherwise.
 
-## Image of the Fendahl - Skip
+## Image of the Fendahl - Skip - AW
 
 <sub>Season 15 (Tom Baker)</sub>
 
 Wacky episode set in a village with a few scientists and an evil alien skull. Nothing notable except a supporting role from Wanda Ventham, but she'd already turned up in The Faceless Ones.
 
-## The Sun Makers - Watch
+## The Sun Makers - Watch - AW
 
 <sub>Season 15 (Tom Baker)</sub>
 
 The Doctor takes on a slightly cartoonish but entertaining dystopian regime. K-9 is a badass. I like this one. It’s Robert Holmes, so check it out.
 
-## Underworld - Skip
+## Underworld - Skip - AW
 
 <sub>Season 15 (Tom Baker)</sub>
 
 Pretty unimpressive.
 
-## The Invasion of Time - Watch
+## The Invasion of Time - Watch - AW
 
 <sub>Season 15 (Tom Baker)</sub>
 
@@ -636,37 +636,37 @@ Important plot stuff. Leela departs.
 
 With Leela departed, it's time for yet another companion - and the first season to try serialization, as Romana and the Doctor search for the "key of time." As an experiment, it's just okay, but while it's not up to the earlier heights of the Tom Baker era, this is a solid collection of episodes. 
 
-## The Ribos Operation - Watch
+## The Ribos Operation - Watch - AW
 
 <sub>Season 16 (Tom Baker)</sub>
 
 It’s not the best episode (a bit too much sitting around talking Plot Details for my liking), but there’s important set up for the season, and as it's a Robert Holmes-penned episode it's certainly watchable. Besides: new companion! 
 
-## The Pirate Planet - Maybe
+## The Pirate Planet - Maybe - AW
 
 <sub>Season 16 (Tom Baker)</sub>
 
 A Douglas Adams-penned episode. It’s just okay. Why is it that Doctor Who just can't do pirates well?
 
-## The Stones of Blood - Maybe
+## The Stones of Blood - Maybe - AW
 
 <sub>Season 16 (Tom Baker)</sub>
 
 This faux-Gothic adventure has its charms - nothing special about the story, but it’s quippy and Beatrix Lehmann is delightful as an elderly professor who should’ve become a full-time companion.
 
-## The Androids of Tara - Watch
+## The Androids of Tara - Watch - AW
 
 <sub>Season 16 (Tom Baker)</sub>
 
 Great fun. The Doctor and Romana end up in a world with knights in armor and androids and a delightful mixture of time periods. 
 
-## The Power of Kroll - Maybe
+## The Power of Kroll - Maybe - AW
 
 <sub>Season 16 (Tom Baker)</sub>
 
 A strange, atmospheric episode by Robert Holmes. Kind of trippy. The Doctor reveals a hilariously unexpected new skill.
 
-## The Armageddon Factor - Maybe
+## The Armageddon Factor - Maybe - AW
 
 <sub>Season 16 (Tom Baker)</sub>
 
@@ -676,37 +676,37 @@ Probably? Another season finale with a lot of plot stuff going on. Tom Baker is 
 
 A...sort of new...companion. Unfortunately a pretty uneven season with one classic.
 
-## Destiny of the Daleks - Maybe
+## Destiny of the Daleks - Maybe - AW
 
 <sub>Season 17 (Tom Baker)</sub>
 
 A rather unmemorable first episode for Romana II.
 
-## City of Death - Watch
+## City of Death - Watch - AW
 
 <sub>Season 17 (Tom Baker)</sub>
 
 A great episode with a big budget, penned by Douglas Adams. Almost always in top 5 lists.
 
-## The Creature from the Pit - Skip
+## The Creature from the Pit - Skip - AW
 
 <sub>Season 17 (Tom Baker)</sub>
 
 Unremarkable episode except for an unfortunately designed monster (even more unfortunately named: Erato). To be avoided.
 
-## Nightmare of Eden - Maybe
+## Nightmare of Eden - Maybe - AW
 
 <sub>Season 17 (Tom Baker)</sub>
 
 Some interesting scifi concepts and a bit of heavy handed moralizing. It’s okay.
 
-## The Horns of Nimon - Skip
+## The Horns of Nimon - Skip - AW
 
 <sub>Season 17 (Tom Baker)</sub>
 
 Camp classic. I love Romana’s pink riding outfit and Graham Crowden’s hamminess, but there’s just not enough here to call it good. On the other hand, its ham is beloved by the fans and there are hysterical video parodies that you won’t fully appreciate without seeing the episode...
 
-## Shada - Maybe
+## Shada - Maybe - AW
 
 <sub>Season 17 (Tom Baker)</sub>
 
@@ -716,37 +716,37 @@ It’s unfinished, but I liked this one. Probably not worth forging through, but
 
 Tom Baker's final season regains a sense of purpose and weight as the dread of his regeneration grows. No more of that "oh, by the way, it's a regeneration episode" randomness of previous Doctors. Everybody knew what was coming here.
 
-## The Leisure Hive - Skip
+## The Leisure Hive - Skip - AW
 
 <sub>Season 18 (Tom Baker)</sub>
 
 Pretty cheesy, though it does have Tom Baker in old age makeup, which is fun. 
 
-## Meglos - Maybe
+## Meglos - Maybe - AW
 
 <sub>Season 18 (Tom Baker)</sub>
 
 A kind of fun Doctor doppelganger story.
 
-## Full Circle - Maybe
+## Full Circle - Maybe - AW
 
 <sub>Season 18 (Tom Baker)</sub>
 
 Introduction of new companion, Adric. Not a great episode, but it explains why Adric is always going on about getting back to "e space." 
 
-## State of Decay - Skip
+## State of Decay - Skip - AW
 
 <sub>Season 18 (Tom Baker)</sub>
 
 Evil vampires. Adric being an idiot.
 
-## Warriors' Gate - Watch
+## Warriors' Gate - Watch - AW
 
 <sub>Season 18 (Tom Baker)</sub>
 
 A great episode, and the exit for Romana. 
 
-## The Keeper of Traken/Logopolis - Essential
+## The Keeper of Traken/Logopolis - Essential - AW
 
 <sub>Season 18 (Tom Baker)</sub>
 
@@ -756,43 +756,43 @@ Tom Baker's final bow, and the introduction of two new companions.
 
 Peter Davison had the unenviable task of following the wildly popular Tom Baker. He does so admirably, with a fey and amiable lightness of touch dramatically at odds with Baker's vain showboating. Unfortunately, the writers don't always know what to do with Davison's new approach, but when the episode gives him the opportunity, he can be great.
 
-## Castrovalva - Watch
+## Castrovalva - Watch - AW
 
 <sub>Season 19 (Peter Davison)</sub>
 
 Essential, a new type of regeneration story. It’s easy to see the influence in New Who. I love the high concept set design, and the throwbacks are nice. 
 
-## Four to Doomsday - Skip
+## Four to Doomsday - Skip - AW
 
 <sub>Season 19 (Peter Davison)</sub>
 
 Nothing happens in this one.
 
-## Kinda - Maybe
+## Kinda - Maybe - AW
 
 <sub>Season 19 (Peter Davison)</sub>
 
 A weird hallucinogenic adventure. Pretty well-regarded, but I wasn't crazy about it.
 
-## The Visitation - Watch
+## The Visitation - Watch - AW
 
 <sub>Season 19 (Peter Davison)</sub>
 
 A solid historical with some great Davison Doctor moments. I know this one isn't widely loved but I enjoyed it. 
 
-## Black Orchid - Maybe
+## Black Orchid - Maybe - AW
 
 <sub>Season 19 (Peter Davison)</sub>
 
 It’s lightweight, but fun. The Doctor and co. visit the 1920s.
 
-## Earthshock - Essential
+## Earthshock - Essential - AW
 
 <sub>Season 19 (Peter Davison)</sub>
 
 You'll see why when you've finished. A really serious twist makes the show's stakes really matter again. And Adric is even kind of...likable in this? Davison gets some great moments too.
 
-## Time-Flight - Skip
+## Time-Flight - Skip - AW
 
 <sub>Season 19 (Peter Davison)</sub>
 
@@ -802,43 +802,43 @@ Deathly dull. Read the summary to figure out the one important plot development,
 
 An odd season, but one which features a fantastic arc with new companion, Turlough. There's fan service, but it's understated, and it's not afraid to push the limits of what's possible. 
 
-## Arc of Infinity - Skip
+## Arc of Infinity - Skip - AW
 
 <sub>Season 20 (Peter Davison)</sub>
 
 A weird Time Lord adventure in which we see the return of an old villain. They're on location in Amsterdam, which is neat, and a plot point from Time-Flight is undone, but if neither of those things is all that important to you, skip it. 
 
-## Snakedance - Maybe
+## Snakedance - Maybe - AW
 
 <sub>Season 20 (Peter Davison)</sub>
 
 Very weird, in the same way as Kinda. 
 
-## Mawdryn Undead - Watch
+## Mawdryn Undead - Watch - AW
 
 <sub>Season 20 (Peter Davison)</sub>
 
 It’s a bit slow, but it features the return of the Brigadier, so it’s unmissable. It begins the Black Guardian trilogy, which focuses on new companion, Turlough.
 
-## Terminus - Skip
+## Terminus - Skip - AW
 
 <sub>Season 20 (Peter Davison)</sub>
 
 A dull middle episode in the Black Guardian trilogy. Though one important thing happens.
 
-## Enlightenment - Watch
+## Enlightenment - Watch - AW
 
 <sub>Season 20 (Peter Davison)</sub>
 
 A really terrific conclusion to the trilogy. Strikingly realized art direction and good pacing make this one of the Fifth Doctor’s best episodes.
 
-## The King's Demons - Skip
+## The King's Demons - Skip - AW
 
 <sub>Season 20 (Peter Davison)</sub>
 
 A rather mediocre historical featuring The Mastahhhh. It explains the origin of Kamelion, but do you really need to know that? Nope. 
 
-## The Five Doctors - Maybe
+## The Five Doctors - Maybe - AW
 
 <sub>Season 20 (Peter Davison)</sub>
 
@@ -848,13 +848,13 @@ It’s the return of some familiar faces, but it’s really uneventful and not a
 
  Peter Davison's final season grows stronger as it goes, though it's off to a rough start.
 
-## Warriors of the Deep - Skip
+## Warriors of the Deep - Skip - AW
 
 <sub>Season 21 (Peter Davison)</sub>
 
 A famously awful monster and a mess of a plot. Solid ending scene though.
 
-## The Awakening - Skip
+## The Awakening - Skip - AW
 
 <sub>Season 21 (Peter Davison)</sub>
 
@@ -862,25 +862,25 @@ I remember nothing about this one.
 
 Frontios - Maybe - The Doctor and company visit a planet where the human population is just holding onto survival. The plot is nothing to write home about, but some of the Fifth Doctor's best lines appear here. "Tell them I came and went like a summer cloud."
 
-## Resurrection of the Daleks - Maybe
+## Resurrection of the Daleks - Maybe - AW
 
 <sub>Season 21 (Peter Davison)</sub>
 
 On the one hand, it's got some cool moments but all in all, it just doesn't amount to much except a lot of death. It's so violent, in fact, that it results in this final scene, which you should watch. As companion exits go, it's not bad. 
 
-## Planet of Fire - Watch
+## Planet of Fire - Watch - AW
 
 <sub>Season 21 (Peter Davison)</sub>
 
 The end of Turlough’s story, the intro of a new companion, and a pretty good episode.
 
-## The Caves of Androzani - Essential
+## The Caves of Androzani - Essential - AW
 
 <sub>Season 21 (Peter Davison)</sub>
 
 Essential, also a highly respected, ghoulishly dark episode ending Peter Davison’s tenure in the TARDIS. There are parts of it that don't work for me (some of the fourth-wall-breaking is kinda cringe and I'd give a lot to have literally any other companion accompany the Fifth Doctor to his doom), but the iconography of the ending is extraordinary.
 
-## Twin Dilemma - Skip
+## Twin Dilemma - Skip - AW
 
 <sub>Season 21 (Peter Davison)</sub>
 
@@ -890,37 +890,37 @@ A truly dreadful opening episode for Colin Baker's benighted TV run as the Docto
 
 All right, we need to talk about the Sixth Doctor. He's flamboyant and arrogant and unlike any other Doctor and I love him. His tenure on the show featured a dreadful run of episodes, and he starts off with the worst companion of all time, bumbling "American" Peri Brown. But he manages to thoroughly redeem himself in the audio world of Big Finish. I'll return to that at the end of this section.
 
-## Attack of the Cybermen - Maybe
+## Attack of the Cybermen - Maybe - AW
 
 <sub>Season 22 (Colin Baker)</sub>
 
 Less painful than some Baker stories, but not terribly inventive. A ton of throwbacks, which are kind of random but fun. There is an intensity here that might make it worth watching, and the Doctor fixes the chameleon circuit! 
 
-## Vengeance on Varos - Maybe
+## Vengeance on Varos - Maybe - AW
 
 <sub>Season 22 (Colin Baker)</sub>
 
 If you want to see at least one Colin Baker story, this one is an interesting and grim satire of reality TV that, if not great, is at least a good episode in the era’s style. Doctor Who does The Hunger Games, sorta? But even grimmer. I enjoyed the story, even if I think its sensibilities are not really Doctor Who-ish. 
 
-## The Mark of the Rani - Skip
+## The Mark of the Rani - Skip - AW
 
 <sub>Season 22 (Colin Baker)</sub>
 
 This has nice bits - it has some good locations and gets Colin out of the rainbow suit, which is nice. It brings back the Master and introduces a new female villain: the Rani. But it's mostly forgettable.
 
-## The Two Doctors - Skip
+## The Two Doctors - Skip - AW
 
 <sub>Season 22 (Colin Baker)</sub>
 
 Oh dear, where to start? It’s horrifying watching poor whimsical Patrick Troughton forced into the grimdark circus that is the Colin Baker years, but at the same time, it’s Patrick Troughton. He’s back! With Jamie! Which is delightful! But what a waste!
 
-## Timelash - Skip
+## Timelash - Skip - AW
 
 <sub>Season 22 (Colin Baker)</sub>
 
 Widely considered the worst Who story of all time….an opinion with which I disagree, (I tend to prefer bad to boring) but it is, of course, absolutely dreadful.
 
-## Revelation of the Daleks - Skip
+## Revelation of the Daleks - Skip - AW
 
 <sub>Season 22 (Colin Baker)</sub>
 
@@ -942,25 +942,25 @@ Colin's final story is The Last Adventure, in which he battles the Valeyard. On 
 
 Sylvester McCoy starts off with an absolute dump of a season. You can probably skip to the next season safely, but check out the final scene of Dragonfire, below.
 
-## Time and the Rani - Skip
+## Time and the Rani - Skip - AW
 
 <sub>Season 24 (Sylvester McCoy)</sub>
 
 An embarrassment of an introductory episode. The best part is Sylvester McCoy playing spoons, if that tells you anything.
 
-## Paradise Towers - Skip
+## Paradise Towers - Skip - AW
 
 <sub>Season 24 (Sylvester McCoy)</sub>
 
 I like parts of this. There are weird friendly cannibal ladies. And a Tom Hiddleston lookalike. Oddly enough, it was based on a story which was later remade as a film starring...Tom Hiddleston. The premise is okay. But it's all drenched in that terrible 80's Who dreck and over-acting.
 
-## Delta and the Bannermen - Maybe
+## Delta and the Bannermen - Maybe - AW
 
 <sub>Season 24 (Sylvester McCoy)</sub>
 
 Soooo this one is really weird and probably an episode most people dislike, but I think it's fun. The Doctor and Mel think they're going to 1950s Disneyland, but they end up at a Welsh hotel which is the center of a drama featuring several extraterrestrial visitors. It's possible that I liked it was because the rest of this season is dreadful, but it's the best of the early McCoy panto period for sure. 
 
-## Dragonfire - Skip
+## Dragonfire - Skip - AW
 
 <sub>Season 24 (Sylvester McCoy)</sub>
 
@@ -970,25 +970,25 @@ The main reason to watch this is that it's the exit for Mel and the entry point 
 
 Finally! The downward trend begins to reverse itself. The Seventh Doctor has a great new companion and a show which seems to remember its history and its dignity. No more panto. Mostly. 
 
-## Remembrance of the Daleks - Watch
+## Remembrance of the Daleks - Watch - AW
 
 <sub>Season 25 (Sylvester McCoy)</sub>
 
 The show reinvents itself. We have a new companion, a new tone, and we might as well have a new Doctor, as Sylvester McCoy reveals the Doctor's dark side. Sylvester McCoy said at a convention I attended that he based this shift in portrayal on his grandmother who lived to over 100 - that "weariness" and age is something he tries to convey - and succeeds beautifully.
 
-## The Happiness Patrol - Watch
+## The Happiness Patrol - Watch - AW
 
 <sub>Season 25 (Sylvester McCoy)</sub>
 
 I once saw a clip from this episode and was utterly horrified at the depths of camp to which 80's Doctor Who had sunk. But when I actually got around to watching it...it's good. The story is set in a futuristic, fascist society where no one is allowed to be sad. There's also...the Kandy Man, who looks like a children's show character, but who is, with his high reedy voice and horrifying ways of killing people, an unexpected success as a villain. So is Helen A. - the society's dictator (based on Margaret Thatcher, but that wasn't obvious to me as a modern American viewer) played by a mustache-twirly Sheila Hancock.
 
-## Silver Nemesis - Maybe
+## Silver Nemesis - Maybe - AW
 
 <sub>Season 25 (Sylvester McCoy)</sub>
 
 Corny, uneven, heavily incorporating elements of Arthurian legend which will be important to the Seventh Doctor's mythos. 
 
-## The Greatest Show in the Galaxy - Watch
+## The Greatest Show in the Galaxy - Watch - AW
 
 <sub>Season 25 (Sylvester McCoy)</sub>
 
@@ -998,7 +998,7 @@ Most of this is really good, though some late Sylvester clowning nearly sinks th
 
 The final season of the series has its ups and downs, but continues the trend of pushing the story in interesting directions. You can definitely see concepts that will be picked up again in the revived show, over a decade later.
 
-## Battlefield - Maybe
+## Battlefield - Maybe - AW
 
 <sub>Season 26 (Sylvester McCoy)</sub>
 
@@ -1008,7 +1008,7 @@ Ghost Light - Watch  - A strange, incomprehensible Victorian tale which reveals 
 
 The Curse of Fenric - Watch  - Zombies and Vikings and paradoxes, oh my! This is a startling, dark story which continues the thread begun in Ghost Light. Some excellent acting from McCoy, and Ace gets to show some range.
 
-## Survival - Maybe
+## Survival - Maybe - AW
 
 <sub>Season 26 (Sylvester McCoy)</sub>
 
