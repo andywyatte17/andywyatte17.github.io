@@ -228,7 +228,9 @@ An interesting episode which starts to introduce a more complex side to the Dale
 
 Finally, some complete Patrick Troughton episodes! Let's be honest, you probably didn't slog through the previous almost-entirely-missing season, so this season is probably your introduction to the man, the myth, the legend. He's firmly established in the character by now, with a wonderful rapport with his definitive companion, 18th Century highlander, Jamie McCrimmon. A great season, introducing a handful of new monsters, though it ends with a clunker.
  
-# The Tomb of the Cybermen - Watch
+## The Tomb of the Cybermen - Watch
+
+<sub>Season 5 (Patrick Troughton)</sub>
 
 A terrific Cyberman story with some truly funny and charming moments. Its only downside is an unfortunately stereotyped African strongman. Still, the first fully complete Patrick Troughton episode shows him at the height of his charms alongside his best companion, Jamie. We get a magical "bigger on the inside" scene and one of Troughton's greatest monologues. We're reminded that the Doctor is ancient and mysterious - but also relatable.
 
