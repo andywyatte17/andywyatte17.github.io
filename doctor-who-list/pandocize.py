@@ -4,7 +4,7 @@ Make index.html from how-to-bingewatch-class-who-skipwatch.md using
   pandoc => presentation.
 
 Usage:
-  py pandocize.py s5 | slidy | slideous
+  py pandocize.py s5 | slidy | dzslides
 '''
 
 import sys, os
