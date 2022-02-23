@@ -426,7 +426,7 @@ The
  first episode, due to a strike, was shot on location and entirely on 
 film instead of tape which means it looks fantastic, even now. It's also a really great regeneration episode (topped only by The Eleventh Hour, in my opinion) which introduces the Doctor’s new milieu and sets up the supporting cast who will anchor the show for its earthbound years.
 
-Story 160; 1 episodes
+Story 52; 7 episodes
 
 ## Doctor Who and the Silurians - Watch
 
