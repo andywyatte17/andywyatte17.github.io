@@ -4,7 +4,7 @@ Make index.html from how-to-bingewatch-class-who-skipwatch.md using
   pandoc => presentation.
 
 Usage:
-  py pandocize.py s5 | slidy | dzslides | revealjs
+  py pandocize.py s5 | slidy | slideous | dzslides | revealjs | all
 '''
 
 import sys, os
@@ -15,12 +15,19 @@ os.environ["PATH"] = os.environ["PATH"] + os.pathsep + \
 
 # "--self-contained"
 
-subprocess.check_call( \
-    [ "pandoc", "-t", sys.argv[1],
-      "--slide-level", "2",
-      "-s", "how-to-bingewatch-class-who-skipwatch.md",
-      "-o", "index-{}.html".format(sys.argv[1]) ],
-    shell=True)
+args = [x for x in sys.argv[1:]]
+if "all" in args:
+    args = ["s5", "slidy", "slideous", "dzslides", "revealjs"]
+
+for arg in args:
+    target = "index-{}.html".format(arg)
+    print("Processing - {} to {}".format(arg, target))
+    subprocess.check_call( \
+        [ "pandoc", "-t", arg,
+          "--slide-level", "2",
+          "-s", "how-to-bingewatch-class-who-skipwatch.md",
+          "-o", target ],
+        shell=True)
 
 R"""<!DOCTYPE html>
 <html>
