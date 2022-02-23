@@ -16,10 +16,13 @@ def check_in_andys_list(line, andysWatches):
     return False
 
 def ClosestMatch(episode, JS):
+    ix = episode.find("(")
+    if ix>=0: episode = episode[0:ix]
     total = [(x["Title"], x) for x in JS]
     total = [(Levenshtein.distance(episode, x), y) for x, y in total]
     total = sorted(total, key=lambda x: x[0])
     x = total[0][1]
+    if total[0][0] > 5: print(episode, total[0])
     return "Story {}; {} episodes".format(x["Story"], x["Episodes"])
 
 def main():

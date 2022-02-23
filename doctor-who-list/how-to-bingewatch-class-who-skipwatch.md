@@ -100,7 +100,7 @@ Story 13; 6 episodes
 
 It’s not awful, but between some really weird stylistic choices (Vaseline on the camera lens?) and a fairly slow plot, it’s pretty skippable. I do love the weird character designs and movements, though - props for ambition, ambition for props.
 
-Story 88; 4 episodes
+Story 14; 4 episodes
 
 ## The Crusade (episodes 2 & 4 missing) - Watch
 
@@ -200,7 +200,7 @@ Story 25; 4 episodes
 
 Here’s the thing - you get to see daffy old William Hartnell get mistaken for Doc Holliday in Tombstone. But on the other hand, it’s too long and they repeat the earworm theme song every three minutes. I don’t know, I rather liked it. It's part of the First Doctor Experience.
 
-Story 88; 4 episodes
+Story 26; 4 episodes
 
 ## The Savages (all episodes missing) - Watch
 
@@ -220,7 +220,7 @@ The last complete Hartnell episode. It's an okay story, introducing new companio
 
 It's happening! William Hartnell's increasingly frail health prompts the BBC to find a way to recast the lead in their hit series. Remarkably, instead of casting a William Hartnell lookalike, they decide to go with Patrick Troughton, an impish little man with a Beatles moptop and a twinkle in his eye that may be friendly or may be cunning. He's certainly not the man we knew, and he's not interested in holding our hand through the craziness of the first regeneration.
 
-Story 21; 12 episodes
+Story 28; 4 episodes
 
 ## The Smugglers (all episodes missing) - Skip
 
@@ -372,7 +372,7 @@ Story 45; 5 episodes
 
 My all-time favorite Classic Who episode. Very strange and meta, questioning the very fabric of the show itself. Insanely ambitious and ahead of its time - the episode tends to split audiences, but its whimsy (some may claim "silliness") is bolstered by boundless creativity and smart plotting. A true Hall of Fame episode. 
 
-Story 97; 6 episodes
+Story 46; 8 episodes
 
 ## The Invasion (Episodes 1 & 4 missing) - Watch
 
