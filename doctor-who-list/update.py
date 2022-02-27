@@ -42,6 +42,8 @@ def main():
         lines = f.read().decode('cp1252').splitlines()
 
     def EndLast(last_info, fw):
+        if last_info==None:
+            return None
         print(last_info, file=fw)
         print('', file=fw)
         return None
