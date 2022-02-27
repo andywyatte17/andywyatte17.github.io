@@ -1,5 +1,13 @@
 #/usr/bin/env python3
 
+'''
+Update the how-to-bingewatch-class-who-skipwatch.md script and then
+run pandoc to create all of the index-...html files.
+
+Usage:
+    python3 update.py
+'''
+
 import io
 import json
 import sys
@@ -27,7 +35,7 @@ def ClosestMatch(episode, JS):
     return "Story {}; {} episodes - {}".format(x["Story"], x["Episodes"], x["Title"])
 
 def main():
-    from update_md import ANDYS_WATCHES    
+    from update import ANDYS_WATCHES    
 
     with open(MD + ".base", "rb") as f:
         lines = f.read().decode('utf-8').splitlines()
@@ -70,6 +78,8 @@ def main():
 
 if __name__=='__main__':
     main()
+    import pandocize
+    pandocize.main(sys.argv[0:1] + ["all"])
 
 ANDYS_WATCHES = (
     "The War Games",
