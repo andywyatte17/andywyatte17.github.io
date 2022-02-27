@@ -38,7 +38,8 @@ def main():
     from update import ANDYS_WATCHES    
 
     with open(MD + ".base", "rb") as f:
-        lines = f.read().decode('utf-8').splitlines()
+        #lines = f.read().decode('cp1252', errors='backslashreplace').splitlines()
+        lines = f.read().decode('cp1252').splitlines()
 
     def EndLast(last_info, fw):
         print(last_info, file=fw)

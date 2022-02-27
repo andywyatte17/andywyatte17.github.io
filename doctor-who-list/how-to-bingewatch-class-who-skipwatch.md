@@ -12,7 +12,7 @@ None
 
 <sub>Season 1 (William Hartnell)</sub>
 
-I’d watch the first (superb) episode of the serial - which is eerie and strange - The Twilight Zone meets Narnia, but the rest is very cheesy and painfully dated. Skip all of that and go on to good stuff.
+I'd watch the first (superb) episode of the serial - which is eerie and strange - The Twilight Zone meets Narnia, but the rest is very cheesy and painfully dated. Skip all of that and go on to good stuff.
 
 Story 1; 4 episodes - An Unearthly Child
 
@@ -20,7 +20,7 @@ Story 1; 4 episodes - An Unearthly Child
 
 <sub>Season 1 (William Hartnell)</sub>
 
-A decent introduction to the Doctor’s most iconic enemies. There’s a lot of filler later on though. If I were being honest, this is more of a "maybe," but from a history-of-the-show viewpoint, it is iconic. If nothing else, watch the unsettling first Dalek cliffhanger and the brutal first full appearance of the monsters.
+A decent introduction to the Doctor's most iconic enemies. There's a lot of filler later on though. If I were being honest, this is more of a "maybe," but from a history-of-the-show viewpoint, it is iconic. If nothing else, watch the unsettling first Dalek cliffhanger and the brutal first full appearance of the monsters.
 
 Story 2; 7 episodes - The Daleks
 
@@ -48,7 +48,7 @@ Story 6; 4 episodes - The Aztecs
 
 <sub>Season 1 (William Hartnell)</sub>
 
-A few nice moments, but it’s largely tedious and too long. Do, however, watch Susan give us our first description of the Time Lords' home planet. And here's a nice scene as the group reflect on their adventures.
+A few nice moments, but it's largely tedious and too long. Do, however, watch Susan give us our first description of the Time Lords' home planet. And here's a nice scene as the group reflect on their adventures.
 
 Story 7; 6 episodes - The Sensorites
 
@@ -56,7 +56,7 @@ Story 7; 6 episodes - The Sensorites
 
 <sub>Season 1 (William Hartnell)</sub>
 
-If you’re willing to endure a few reconstructed episodes, this is a good, dark serial where our heroes have to stay alive in the French Revolution. The Doctor ponces about in a plumed hat, which is worth the price of admission. It inspired this tweet, which I'm proud of.
+If you're willing to endure a few reconstructed episodes, this is a good, dark serial where our heroes have to stay alive in the French Revolution. The Doctor ponces about in a plumed hat, which is worth the price of admission. It inspired this tweet, which I'm proud of.
 
 Story 8; 6 episodes - The Reign of Terror
 
@@ -78,7 +78,7 @@ Story 9; 3 episodes - Planet of Giants
 
 <sub>Season 2 (William Hartnell)</sub>
 
-Kind of overrated, but full of iconic visuals, and the last scene is rightly considered one of the First Doctor’s best, as he delivers a speech for all time. No, I'm not going to link to it - go watch the episode.
+Kind of overrated, but full of iconic visuals, and the last scene is rightly considered one of the First Doctor's best, as he delivers a speech for all time. No, I'm not going to link to it - go watch the episode.
 
 Story 10; 6 episodes - The Dalek Invasion of Earth
 
@@ -94,7 +94,7 @@ Story 11; 2 episodes - The Rescue
 
 <sub>Season 2 (William Hartnell)</sub>
 
-It’s a fun, dorky historical and Ian spends a lot of time in a toga, so it comes highly recommended from me. Also the First Doctor accidentally ends up swept up on a journey that leads him to the court of Nero himself where he has to engage in "the gentle art of fisticuffs." Clearly, the Doctor is starting to take a more proactive role in the story.
+It's a fun, dorky historical and Ian spends a lot of time in a toga, so it comes highly recommended from me. Also the First Doctor accidentally ends up swept up on a journey that leads him to the court of Nero himself where he has to engage in "the gentle art of fisticuffs." Clearly, the Doctor is starting to take a more proactive role in the story.
 
 Story 12; 4 episodes - The Romans
 
@@ -102,7 +102,7 @@ Story 12; 4 episodes - The Romans
 
 <sub>Season 2 (William Hartnell)</sub>
 
-It’s not awful, but between some really weird stylistic choices (Vaseline on the camera lens?) and a fairly slow plot, it’s pretty skippable. I do love the weird character designs and movements, though - props for ambition, ambition for props.
+It's not awful, but between some really weird stylistic choices (Vaseline on the camera lens?) and a fairly slow plot, it's pretty skippable. I do love the weird character designs and movements, though - props for ambition, ambition for props.
 
 Story 13; 6 episodes - The Web Planet
 
@@ -134,7 +134,7 @@ Story 16; 6 episodes - The Chase
 
 <sub>Season 2 (William Hartnell)</sub>
 
-A bit slow, but this is the first Time Lord we meet who isn’t related to the Doctor (and with his own TARDIS), so that’s pretty cool. It's a neat medieval milieu as well. 
+A bit slow, but this is the first Time Lord we meet who isn't related to the Doctor (and with his own TARDIS), so that's pretty cool. It's a neat medieval milieu as well. 
 
 Story 17; 4 episodes - The Time Meddler
 
@@ -148,7 +148,7 @@ None
 
 <sub>Season 3 (William Hartnell)</sub>
 
-While there are some really good moments in the second and third episode (plot reversals! dramatic dream sequences!), it’s just not worth it for the long periods waiting for robots - "Chumblies" - to trundle across the ground.
+While there are some really good moments in the second and third episode (plot reversals! dramatic dream sequences!), it's just not worth it for the long periods waiting for robots - "Chumblies" - to trundle across the ground.
 
 Story 18; 4 episodes - Galaxy 4
 
@@ -156,7 +156,7 @@ Story 18; 4 episodes - Galaxy 4
 
 <sub>Season 3 (William Hartnell)</sub>
 
-This one filler episode was created to set up The Daleks' Master Plan and give viewers something to watch while all the main cast are on vacation. The original is missing but some fans remade it, and you can watch it here.  
+This one filler episode was created to set up The Daleks' Master Plan and give viewers something to watch while all the main cast are on vacation. The original is missing but some fans remade it, and you can watch it here.
 
 Story 19; 1 episodes - Mission to the Unknown
 
@@ -180,7 +180,7 @@ Story 21; 12 episodes - The Daleks Master Plan
 
 <sub>Season 3 (William Hartnell)</sub>
 
-The story’s a little bit hard to follow in a reconstruction, but the ending is serious and thoughtful, as Steven grapples with the realities of non-interference in history. If nothing else, you have to watch that ending, which is really excellent drama - and which melds into a Hartnell monologue with near David Tennant levels of Doctor Pathos. Also - hahahaha - he totally kidnaps Dodo because she reminds him of Susan. 
+The story's a little bit hard to follow in a reconstruction, but the ending is serious and thoughtful, as Steven grapples with the realities of non-interference in history. If nothing else, you have to watch that ending, which is really excellent drama - and which melds into a Hartnell monologue with near David Tennant levels of Doctor Pathos. Also - hahahaha - he totally kidnaps Dodo because she reminds him of Susan. 
 
 Story 22; 4 episodes - The Massacre of St Bartholomews Eve
 
@@ -204,7 +204,7 @@ Story 24; 4 episodes - The Celestial Toymaker
 
 <sub>Season 3 (William Hartnell)</sub>
 
-Here’s the thing - you get to see daffy old William Hartnell get mistaken for Doc Holliday in Tombstone. But on the other hand, it’s too long and they repeat the earworm theme song every three minutes. I don’t know, I rather liked it. It's part of the First Doctor Experience.
+Here's the thing - you get to see daffy old William Hartnell get mistaken for Doc Holliday in Tombstone. But on the other hand, it's too long and they repeat the earworm theme song every three minutes. I don't know, I rather liked it. It's part of the First Doctor Experience.
 
 Story 25; 4 episodes - The Gunfighters
 
@@ -250,7 +250,7 @@ Story 29; 4 episodes - The Tenth Planet
 
 <sub>Season 4 (William Hartnell and Patrick Troughton)</sub>
 
-It’s worth watching a reconstruction (I always prefer the fan-made versions, cobbled together from BBC telesnaps, instead of animated versions), as this one’s a classic. Patrick Troughton is a zany, alienating, unpredictable version of the man we knew as the Doctor. He may be good, but is he safe?
+It's worth watching a reconstruction (I always prefer the fan-made versions, cobbled together from BBC telesnaps, instead of animated versions), as this one's a classic. Patrick Troughton is a zany, alienating, unpredictable version of the man we knew as the Doctor. He may be good, but is he safe?
 
 Story 30; 6 episodes - The Power of the Daleks
 
@@ -336,7 +336,7 @@ Story 39; 6 episodes - The Ice Warriors
 
 <sub>Season 5 (Patrick Troughton)</sub>
 
-The Doctor meets his evil doppelganger in this spy thriller. It’s really fun and lets Patrick Troughton flex. Who does Bond. It was lost for decades, but was one of the two serials - the other is The Web of Fear - discovered in Nigeria. Pause a moment and appreciate that - after decades, a lost Doctor Who episode turned up in Africa and just happened to be a classic. Actually, both of them are classics. What a wonderful world. 
+The Doctor meets his evil doppelganger in this spy thriller. It's really fun and lets Patrick Troughton flex. Who does Bond. It was lost for decades, but was one of the two serials - the other is The Web of Fear - discovered in Nigeria. Pause a moment and appreciate that - after decades, a lost Doctor Who episode turned up in Africa and just happened to be a classic. Actually, both of them are classics. What a wonderful world. 
 
 Story 40; 6 episodes - The Enemy of the World
 
@@ -344,7 +344,7 @@ Story 40; 6 episodes - The Enemy of the World
 
 <sub>Season 5 (Patrick Troughton)</sub>
 
-A terrific episode set in the London underground - the Yeti are a bit cheesy, but features the introduction of a super-important recurring character, and it’s a great episode for atmosphere. Another great Victoria episode, too.
+A terrific episode set in the London underground - the Yeti are a bit cheesy, but features the introduction of a super-important recurring character, and it's a great episode for atmosphere. Another great Victoria episode, too.
 
 Story 41; 6 episodes - The Web of Fear
 
@@ -390,7 +390,7 @@ Story 45; 5 episodes - The Mind Robber
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
-A fun thriller set in London - lots of important plot elements start lining up for the third Doctor’s era. Return of Alistair Lethbridge-Stewart, intro of Benton and UNIT, and the super iconic shot of Cybermen at a famous location. Not strictly essential, but there's so much here that will turn up later that you really need to watch it.
+A fun thriller set in London - lots of important plot elements start lining up for the third Doctor's era. Return of Alistair Lethbridge-Stewart, intro of Benton and UNIT, and the super iconic shot of Cybermen at a famous location. Not strictly essential, but there's so much here that will turn up later that you really need to watch it.
 
 Story 46; 8 episodes - The Invasion
 
@@ -422,13 +422,13 @@ Story 49; 6 episodes - The Space Pirates
 
 <sub>Season 6 (Patrick Troughton)</sub>
 
-The second Doctor’s swan song, an ambitious epic which sometimes feels like Stanley Kubrick's Paths of Glory (I'm not kidding - and in fact, to my delight, I once observed as much to Frazer Hines). Overlong, but packs a real emotional punch, and introduces a ton of the show’s mythology. Patrick Troughton has never been better. 
+The second Doctor's swan song, an ambitious epic which sometimes feels like Stanley Kubrick's Paths of Glory (I'm not kidding - and in fact, to my delight, I once observed as much to Frazer Hines). Overlong, but packs a real emotional punch, and introduces a ton of the show's mythology. Patrick Troughton has never been better. 
 
 Story 50; 10 episodes - The War Games
 
 # Season 7 (Jon Pertwee)
 
-The Third Doctor's first season brings Doctor Who into the marvelous world of color.  Jon Pertwee was primarily a comic actor, so it came as a surprise to everyone (including him, a bit) when he played the role " as himself," drawing on his background as a Naval Intelligence operative during the war. He's supported by a marvelous cast, including Nicholas Courtenay as Brigadier Alistair Gordon Lethbridge-Stewart (if you liked Kate Stewart in New Who, this is her dad.) While I love the gentler side he shows in later seasons, Pertwee may be at his best in his first outing, still showing the immaturity and unpredictability which characterized his predecessor's "trickster" persona.
+The Third Doctor's first season brings Doctor Who into the marvelous world of color. Jon Pertwee was primarily a comic actor, so it came as a surprise to everyone (including him, a bit) when he played the role " as himself," drawing on his background as a Naval Intelligence operative during the war. He's supported by a marvelous cast, including Nicholas Courtenay as Brigadier Alistair Gordon Lethbridge-Stewart (if you liked Kate Stewart in New Who, this is her dad.) While I love the gentler side he shows in later seasons, Pertwee may be at his best in his first outing, still showing the immaturity and unpredictability which characterized his predecessor's "trickster" persona.
 
 None
 
@@ -438,7 +438,7 @@ None
 
 The
  first episode, due to a strike, was shot on location and entirely on 
-film instead of tape which means it looks fantastic, even now. It's also a really great regeneration episode (topped only by The Eleventh Hour, in my opinion) which introduces the Doctor’s new milieu and sets up the supporting cast who will anchor the show for its earthbound years.
+film instead of tape which means it looks fantastic, even now. It's also a really great regeneration episode (topped only by The Eleventh Hour, in my opinion) which introduces the Doctor's new milieu and sets up the supporting cast who will anchor the show for its earthbound years.
 
 Story 51; 4 episodes - Spearhead from Space
 
@@ -462,13 +462,13 @@ Story 53; 7 episodes - The Ambassadors of Death
 
 <sub>Season 7 (Jon Pertwee)</sub>
 
-A searingly intense ride with some great acting from the show’s regulars. The classic show sometimes struggles to have emotional stakes, but certainly not here.
+A searingly intense ride with some great acting from the show's regulars. The classic show sometimes struggles to have emotional stakes, but certainly not here.
 
 Story 54; 7 episodes - Inferno
 
 # Season 8 (Jon Pertwee)
 
-The Third Doctor's second season isn't quite as experimental, swapping out the daring Liz Shaw for the more traditional (if adorable) Jo Grant, but it does introduce the Third Doctor's definitive villain, and there are some solid stories here. 
+The Third Doctor's second season isn't quite as experimental, swapping out the daring Liz Shaw for the more traditional (if adorable) Jo Grant, but it does introduce the Third Doctor's definitive villain, and there are some solid stories here.
 
 None
 
@@ -484,7 +484,7 @@ Story 55; 4 episodes - Terror of the Autons
 
 <sub>Season 8 (Jon Pertwee)</sub>
 
-A solid political thriller that doesn’t entirely make sense. Just roll with it. 
+A solid political thriller that doesn't entirely make sense. Just roll with it. 
 
 Story 56; 6 episodes - The Mind of Evil
 
@@ -504,7 +504,7 @@ A dull story which picks up just a bit near the end. This scene is the best part
 
 Story 58; 6 episodes - Colony in Space
 
-## The Dæmons - Watch
+## The DÃ¦mons - Watch
 
 <sub>Season 8 (Jon Pertwee)</sub>
 
@@ -548,7 +548,7 @@ Story 63; 6 episodes - The Mutants
 
 <sub>Season 9 (Jon Pertwee)</sub>
 
-Cheesy and clunky. It’s kind of a mess. But it does have individual striking moments - a sweet scene between the Doctor and Jo (aww), what happens to Benton (LOL), the conversations between the Master and Jo (what the heck). I rather love this one. "So Bad It's Good" category.
+Cheesy and clunky. It's kind of a mess. But it does have individual striking moments - a sweet scene between the Doctor and Jo (aww), what happens to Benton (LOL), the conversations between the Master and Jo (what the heck). I rather love this one. "So Bad It's Good" category.
 
 Story 64; 6 episodes - The Time Monster
 
@@ -562,7 +562,7 @@ None
 
 <sub>Season 10 (Jon Pertwee)</sub>
 
-One should never skip multi-Doctor episodes, and this one is a delight. It’s easily my favorite multi-Doctor classic episode, and maybe my favorite overall. Pertwee and Troughton are a wonderful double act, though it's a shame William Hartnell was too ill to contribute very much.
+One should never skip multi-Doctor episodes, and this one is a delight. It's easily my favorite multi-Doctor classic episode, and maybe my favorite overall. Pertwee and Troughton are a wonderful double act, though it's a shame William Hartnell was too ill to contribute very much.
 
 Story 65; 4 episodes - The Three Doctors
 
@@ -578,7 +578,7 @@ Story 66; 4 episodes - Carnival of Monsters
 
 <sub>Season 10 (Jon Pertwee)</sub>
 
-The first half’s rather dull, but then the Master turns up and gives an excellent, and sadly, final performance (Roger Delgado would die soon after in a car accident in Turkey). He's in league with...the Uruk Hai? Sorry, Ogrons.
+The first half's rather dull, but then the Master turns up and gives an excellent, and sadly, final performance (Roger Delgado would die soon after in a car accident in Turkey). He's in league with...the Uruk Hai? Sorry, Ogrons.
 
 Story 67; 6 episodes - Frontier in Space
 
@@ -594,7 +594,7 @@ Story 68; 6 episodes - Planet of the Daleks
 
 <sub>Season 10 (Jon Pertwee)</sub>
 
-Okay, it’s cheesy and preachy and...well, the monsters are actually pretty gross...but you have to see Jo Grant’s exit. It has real pathos, and has one of the best performances Pertwee ever gave.
+Okay, it's cheesy and preachy and...well, the monsters are actually pretty gross...but you have to see Jo Grant's exit. It has real pathos, and has one of the best performances Pertwee ever gave.
 
 Story 69; 6 episodes - The Green Death
 
@@ -608,7 +608,7 @@ None
 
 <sub>Season 11 (Jon Pertwee)</sub>
 
-Introduction of Everybody's Favorite Companion™ Sarah Jane Smith and a near-perfect adventure story, combining an iconic new monster with a fun historical setting and sizzling dialogue. My platonic ideal for a Doctor Who episode.
+Introduction of Everybody's Favorite Companionâ„¢ Sarah Jane Smith and a near-perfect adventure story, combining an iconic new monster with a fun historical setting and sizzling dialogue. My platonic ideal for a Doctor Who episode.
 
 Story 70; 4 episodes - The Time Warrior
 
@@ -640,8 +640,8 @@ Story 73; 6 episodes - The Monster of Peladon
 
 <sub>Season 11 (Jon Pertwee)</sub>
 
-Some really cringey character and design moments in this, but it’s a regeneration story, so you kind of have to watch it (I'm just so annoyed by the cringey stuff that I don't have it as "watch.") Pertwee's final moments are touching. We get a little more closure for Mike Yates.
- 
+Some really cringey character and design moments in this, but it's a regeneration story, so you kind of have to watch it (I'm just so annoyed by the cringey stuff that I don't have it as "watch.") Pertwee's final moments are touching. We get a little more closure for Mike Yates.
+
 
 Story 74; 6 episodes - Planet of the Spiders
 
@@ -655,7 +655,7 @@ None
 
 <sub>Season 12 (Tom Baker)</sub>
 
-While this serial isn’t ideally suited to Tom Baker (it's written like a Pertwee episode), it’s not bad, plus, there are some classic moments from the new Fourth Doctor. If this is your jumping-in point, realize that the robot itself is extremely clunky and unimpressive, even by Classic Who's standards.
+While this serial isn't ideally suited to Tom Baker (it's written like a Pertwee episode), it's not bad, plus, there are some classic moments from the new Fourth Doctor. If this is your jumping-in point, realize that the robot itself is extremely clunky and unimpressive, even by Classic Who's standards.
 
 Story 75; 4 episodes - Robot
 
@@ -663,7 +663,7 @@ Story 75; 4 episodes - Robot
 
 <sub>Season 12 (Tom Baker)</sub>
 
-I find this one overrated. Coupled with a painfully dated monster makes this one that I wouldn’t recommend to new Classic viewers. Maybe save for later?
+I find this one overrated. Coupled with a painfully dated monster makes this one that I wouldn't recommend to new Classic viewers. Maybe save for later?
 
 Story 76; 4 episodes - The Ark in Space
 
@@ -687,7 +687,7 @@ Story 78; 6 episodes - Genesis of the Daleks
 
 <sub>Season 12 (Tom Baker)</sub>
 
-Baker’s first encounter with the Doctor's other most iconic robot foes is pretty forgettable. 
+Baker's first encounter with the Doctor's other most iconic robot foes is pretty forgettable. 
 
 Story 79; 4 episodes - Revenge of the Cybermen
 
@@ -725,7 +725,7 @@ Story 82; 4 episodes - Pyramids of Mars
 
 <sub>Season 13 (Tom Baker)</sub>
 
-Doctor and Sarah return to a Pertwee format. It’s fun. Doppelgangers abound.
+Doctor and Sarah return to a Pertwee format. It's fun. Doppelgangers abound.
 
 Story 83; 4 episodes - The Android Invasion
 
@@ -763,7 +763,7 @@ Story 86; 4 episodes - The Masque of Mandragora
 
 <sub>Season 14 (Tom Baker)</sub>
 
-Sarah Jane’s exit is quite sweet, though the story's nothing special. Pay attention for Tom Baker's subtle, unspoken disquiet throughout the tale, as he begins to realize Sarah Jane has become as reckless as he is (real echoes of this story show up in Face the Raven). 
+Sarah Jane's exit is quite sweet, though the story's nothing special. Pay attention for Tom Baker's subtle, unspoken disquiet throughout the tale, as he begins to realize Sarah Jane has become as reckless as he is (real echoes of this story show up in Face the Raven). 
 
 Story 87; 4 episodes - The Hand of Fear
 
@@ -771,7 +771,7 @@ Story 87; 4 episodes - The Hand of Fear
 
 <sub>Season 14 (Tom Baker)</sub>
 
-A fun, super-dark story in which the Doctor’s caught up in political intrigues on Gallifrey. Feels like the Classic analog to Heaven Sent.
+A fun, super-dark story in which the Doctor's caught up in political intrigues on Gallifrey. Feels like the Classic analog to Heaven Sent.
 
 Story 88; 4 episodes - The Deadly Assassin
 
@@ -800,7 +800,6 @@ While overrated, there are some brilliant inventions here. The Doctor goes toe-t
 Story 91; 6 episodes - The Talons of Weng Chiang
 
 # Season 15 (Tom Baker)
-  
 
 Producer Philip Hinchcliffe leaves (alas), and with his departure the show starts to transition to a more PG approach. Not everybody likes the robot dog (Tom Baker certainly didn't!) but there's still a lot of good to be found in this era.
 
@@ -818,7 +817,7 @@ Story 92; 4 episodes - Horror of Fang Rock
 
 <sub>Season 15 (Tom Baker)</sub>
 
-Introduction of a surprisingly fun new companion: K-9. Not the world’s greatest episode otherwise.
+Introduction of a surprisingly fun new companion: K-9. Not the world's greatest episode otherwise.
 
 Story 93; 4 episodes - The Invisible Enemy
 
@@ -834,7 +833,7 @@ Story 94; 4 episodes - Image of the Fendahl
 
 <sub>Season 15 (Tom Baker)</sub>
 
-The Doctor takes on a slightly cartoonish but entertaining dystopian regime. K-9 is a badass. I like this one. It’s Robert Holmes, so check it out.
+The Doctor takes on a slightly cartoonish but entertaining dystopian regime. K-9 is a badass. I like this one. It's Robert Holmes, so check it out.
 
 Story 95; 4 episodes - The Sun Makers
 
@@ -864,7 +863,7 @@ None
 
 <sub>Season 16 (Tom Baker)</sub>
 
-It’s not the best episode (a bit too much sitting around talking Plot Details for my liking), but there’s important set up for the season, and as it's a Robert Holmes-penned episode it's certainly watchable. Besides: new companion! 
+It's not the best episode (a bit too much sitting around talking Plot Details for my liking), but there's important set up for the season, and as it's a Robert Holmes-penned episode it's certainly watchable. Besides: new companion! 
 
 Story 98; 4 episodes - The Ribos Operation
 
@@ -872,7 +871,7 @@ Story 98; 4 episodes - The Ribos Operation
 
 <sub>Season 16 (Tom Baker)</sub>
 
-A Douglas Adams-penned episode. It’s just okay. Why is it that Doctor Who just can't do pirates well?
+A Douglas Adams-penned episode. It's just okay. Why is it that Doctor Who just can't do pirates well?
 
 Story 99; 4 episodes - The Pirate Planet
 
@@ -880,7 +879,7 @@ Story 99; 4 episodes - The Pirate Planet
 
 <sub>Season 16 (Tom Baker)</sub>
 
-This faux-Gothic adventure has its charms - nothing special about the story, but it’s quippy and Beatrix Lehmann is delightful as an elderly professor who should’ve become a full-time companion.
+This faux-Gothic adventure has its charms - nothing special about the story, but it's quippy and Beatrix Lehmann is delightful as an elderly professor who should've become a full-time companion.
 
 Story 100; 4 episodes - The Stones of Blood
 
@@ -942,7 +941,7 @@ Story 106; 4 episodes - The Creature from the Pit
 
 <sub>Season 17 (Tom Baker)</sub>
 
-Some interesting scifi concepts and a bit of heavy handed moralizing. It’s okay.
+Some interesting scifi concepts and a bit of heavy handed moralizing. It's okay.
 
 Story 107; 4 episodes - Nightmare of Eden
 
@@ -950,7 +949,7 @@ Story 107; 4 episodes - Nightmare of Eden
 
 <sub>Season 17 (Tom Baker)</sub>
 
-Camp classic. I love Romana’s pink riding outfit and Graham Crowden’s hamminess, but there’s just not enough here to call it good. On the other hand, its ham is beloved by the fans and there are hysterical video parodies that you won’t fully appreciate without seeing the episode...
+Camp classic. I love Romana's pink riding outfit and Graham Crowden's hamminess, but there's just not enough here to call it good. On the other hand, its ham is beloved by the fans and there are hysterical video parodies that you won't fully appreciate without seeing the episode...
 
 Story 108; 4 episodes - The Horns of Nimon
 
@@ -958,7 +957,7 @@ Story 108; 4 episodes - The Horns of Nimon
 
 <sub>Season 17 (Tom Baker)</sub>
 
-It’s unfinished, but I liked this one. Probably not worth forging through, but some excellent moments and concepts - a shame it was never completed.
+It's unfinished, but I liked this one. Probably not worth forging through, but some excellent moments and concepts - a shame it was never completed.
 
 Story 109; 0 episodes - Shada
 
@@ -972,7 +971,7 @@ None
 
 <sub>Season 18 (Tom Baker)</sub>
 
-Pretty cheesy, though it does have Tom Baker in old age makeup, which is fun. 
+Pretty cheesy, though it does have Tom Baker in old age makeup, which is fun.
 
 Story 110; 4 episodes - The Leisure Hive
 
@@ -1026,7 +1025,7 @@ None
 
 <sub>Season 19 (Peter Davison)</sub>
 
-Essential, a new type of regeneration story. It’s easy to see the influence in New Who. I love the high concept set design, and the throwbacks are nice. 
+Essential, a new type of regeneration story. It's easy to see the influence in New Who. I love the high concept set design, and the throwbacks are nice. 
 
 Story 117; 4 episodes - Castrovalva
 
@@ -1058,7 +1057,7 @@ Story 120; 4 episodes - The Visitation
 
 <sub>Season 19 (Peter Davison)</sub>
 
-It’s lightweight, but fun. The Doctor and co. visit the 1920s.
+It's lightweight, but fun. The Doctor and co. visit the 1920s.
 
 Story 121; 2 episodes - Black Orchid
 
@@ -1088,7 +1087,7 @@ None
 
 <sub>Season 20 (Peter Davison)</sub>
 
-A weird Time Lord adventure in which we see the return of an old villain. They're on location in Amsterdam, which is neat, and a plot point from Time-Flight is undone, but if neither of those things is all that important to you, skip it. 
+A weird Time Lord adventure in which we see the return of an old villain. They're on location in Amsterdam, which is neat, and a plot point from Time-Flight is undone, but if neither of those things is all that important to you, skip it.
 
 Story 124; 4 episodes - Arc of Infinity
 
@@ -1104,7 +1103,7 @@ Story 125; 4 episodes - Snakedance
 
 <sub>Season 20 (Peter Davison)</sub>
 
-It’s a bit slow, but it features the return of the Brigadier, so it’s unmissable. It begins the Black Guardian trilogy, which focuses on new companion, Turlough.
+It's a bit slow, but it features the return of the Brigadier, so it's unmissable. It begins the Black Guardian trilogy, which focuses on new companion, Turlough.
 
 Story 126; 4 episodes - Mawdryn Undead
 
@@ -1120,7 +1119,7 @@ Story 127; 4 episodes - Terminus
 
 <sub>Season 20 (Peter Davison)</sub>
 
-A really terrific conclusion to the trilogy. Strikingly realized art direction and good pacing make this one of the Fifth Doctor’s best episodes.
+A really terrific conclusion to the trilogy. Strikingly realized art direction and good pacing make this one of the Fifth Doctor's best episodes.
 
 Story 128; 4 episodes - Enlightenment
 
@@ -1136,7 +1135,7 @@ Story 129; 2 episodes - The King's Demons
 
 <sub>Season 20 (Peter Davison)</sub>
 
-It’s the return of some familiar faces, but it’s really uneventful and not as good as The Three Doctors.
+It's the return of some familiar faces, but it's really uneventful and not as good as The Three Doctors.
 
 Story 130; 1 episodes - The Five Doctors
 
@@ -1160,9 +1159,15 @@ Story 131; 4 episodes - Warriors of the Deep
 
 I remember nothing about this one.
 
-Frontios - Maybe - The Doctor and company visit a planet where the human population is just holding onto survival. The plot is nothing to write home about, but some of the Fifth Doctor's best lines appear here. "Tell them I came and went like a summer cloud."
-
 Story 132; 2 episodes - The Awakening
+
+## Frontios - Maybe
+
+<sub>Season 21 (Peter Davison)</sub>
+
+The Doctor and company visit a planet where the human population is just holding onto survival. The plot is nothing to write home about, but some of the Fifth Doctor's best lines appear here. "Tell them I came and went like a summer cloud."
+
+Story 133; 4 episodes - Frontios
 
 ## Resurrection of the Daleks - Maybe
 
@@ -1176,7 +1181,7 @@ Story 134; 2 episodes - Resurrection of the Daleks
 
 <sub>Season 21 (Peter Davison)</sub>
 
-The end of Turlough’s story, the intro of a new companion, and a pretty good episode.
+The end of Turlough's story, the intro of a new companion, and a pretty good episode.
 
 Story 135; 4 episodes - Planet of Fire
 
@@ -1184,7 +1189,7 @@ Story 135; 4 episodes - Planet of Fire
 
 <sub>Season 21 (Peter Davison)</sub>
 
-Essential, also a highly respected, ghoulishly dark episode ending Peter Davison’s tenure in the TARDIS. There are parts of it that don't work for me (some of the fourth-wall-breaking is kinda cringe and I'd give a lot to have literally any other companion accompany the Fifth Doctor to his doom), but the iconography of the ending is extraordinary.
+Essential, also a highly respected, ghoulishly dark episode ending Peter Davison's tenure in the TARDIS. There are parts of it that don't work for me (some of the fourth-wall-breaking is kinda cringe and I'd give a lot to have literally any other companion accompany the Fifth Doctor to his doom), but the iconography of the ending is extraordinary.
 
 Story 136; 4 episodes - The Caves of Androzani
 
@@ -1214,7 +1219,7 @@ Story 138; 2 episodes - Attack of the Cybermen
 
 <sub>Season 22 (Colin Baker)</sub>
 
-If you want to see at least one Colin Baker story, this one is an interesting and grim satire of reality TV that, if not great, is at least a good episode in the era’s style. Doctor Who does The Hunger Games, sorta? But even grimmer. I enjoyed the story, even if I think its sensibilities are not really Doctor Who-ish. 
+If you want to see at least one Colin Baker story, this one is an interesting and grim satire of reality TV that, if not great, is at least a good episode in the era's style. Doctor Who does The Hunger Games, sorta? But even grimmer. I enjoyed the story, even if I think its sensibilities are not really Doctor Who-ish. 
 
 Story 139; 2 episodes - Vengeance on Varos
 
@@ -1230,7 +1235,7 @@ Story 140; 2 episodes - The Mark of the Rani
 
 <sub>Season 22 (Colin Baker)</sub>
 
-Oh dear, where to start? It’s horrifying watching poor whimsical Patrick Troughton forced into the grimdark circus that is the Colin Baker years, but at the same time, it’s Patrick Troughton. He’s back! With Jamie! Which is delightful! But what a waste!
+Oh dear, where to start? It's horrifying watching poor whimsical Patrick Troughton forced into the grimdark circus that is the Colin Baker years, but at the same time, it's Patrick Troughton. He's back! With Jamie! Which is delightful! But what a waste!
 
 Story 141; 3 episodes - The Two Doctors
 
@@ -1238,7 +1243,7 @@ Story 141; 3 episodes - The Two Doctors
 
 <sub>Season 22 (Colin Baker)</sub>
 
-Widely considered the worst Who story of all time….an opinion with which I disagree, (I tend to prefer bad to boring) but it is, of course, absolutely dreadful.
+Widely considered the worst Who story of all timeâ€¦ an opinion with which I disagree, (I tend to prefer bad to boring) but it is, of course, absolutely dreadful.
 
 Story 142; 2 episodes - Timelash
 
@@ -1246,15 +1251,15 @@ Story 142; 2 episodes - Timelash
 
 <sub>Season 22 (Colin Baker)</sub>
 
-I almost went with "maybe" for this one. The plot is not that great, but it looks fantastic. Classic Who's best director, Graeme Harper, returns with moving cameras and pleasing color and mise en scène. But the first episode sidelines the Doctor and Peri for so long that the story seems like it takes forever to get anywhere. Colin Baker's Doctor is gentler here. Still, is it worth it? Probably not. 
+I almost went with "maybe" for this one. The plot is not that great, but it looks fantastic. Classic Who's best director, Graeme Harper, returns with moving cameras and pleasing color and mise en scÃ¨ne. But the first episode sidelines the Doctor and Peri for so long that the story seems like it takes forever to get anywhere. Colin Baker's Doctor is gentler here. Still, is it worth it? Probably not. 
 
- Season 23 (Colin Baker)
+Season 23 (Colin Baker)
 
 For Colin Baker's second season, the writers decided to try for an extremely experimental approach: one massive story framed by a trial. The Doctor is on trial before the Time Lords, accused of genocide - the first three episode are retrospective pieces of evidence presented by the prosecution. All in all, the four episodes are known as Trial of a Timelord: 
 
 The Mysterious Planet, Mindwarp, Terror of the Vervoids, and The Ultimate Foe.
 
-Skip, Watch, or Maybe? This is tough. It's a weird and high concept series that still has some but not all of the problems of the previous season. The Doctor is kinder. It's an interesting, twisty plot - but it does still have a lot of the same pitfalls, and I don't point to any part of it as definitively great. I'm gonna go with Maybe.  
+Skip, Watch, or Maybe? This is tough. It's a weird and high concept series that still has some but not all of the problems of the previous season. The Doctor is kinder. It's an interesting, twisty plot - but it does still have a lot of the same pitfalls, and I don't point to any part of it as definitively great. I'm gonna go with Maybe.
 
 Here's where I'm going to stop you and explain why I love the Sixth Doctor so much. After the show was cancelled, a group of fans formed Big Finish, a company which produced audio dramas set in the world of Doctor Who. They turned in some of the most wonderful story-telling the show's world has received, and much of it influenced (and is still referenced in) the revived show (remember the Eighth Doctor listing his companions? That was Big Finish.) I recommend you head over to Spotify now and start with The Marian Conspiracy, a wonderful introduction to his most wonderful of companions, elderly history teacher Evelyn Smythe. 
 
@@ -1350,7 +1355,7 @@ None
 
 Cons: It's got a cheesy plot and villain. Pros: It's the return of the Brig. Do you need another pro? 
 
-Ghost Light - Watch  - A strange, incomprehensible Victorian tale which reveals important details about Ace's past and clearly foreshadows a more New Who-style companion arc. I'm probably not selling it well, but it's entertaining! 
+Ghost Light - Watch  - A strange, incomprehensible Victorian tale which reveals important details about Ace's past and clearly foreshadows a more New Who-style companion arc. I'm probably not selling it well, but it's entertaining!
 
 The Curse of Fenric - Watch  - Zombies and Vikings and paradoxes, oh my! This is a startling, dark story which continues the thread begun in Ghost Light. Some excellent acting from McCoy, and Ace gets to show some range.
 
@@ -1360,6 +1365,6 @@ Story 156; 4 episodes - Battlefield
 
 <sub>Season 26 (Sylvester McCoy)</sub>
 
-The final episode of the show is nothing special. Something about mutant animals and ancient instincts and blah, blah, blah - but it does have a beautiful ending scene. 
+The final episode of the show is nothing special. Something about mutant animals and ancient instincts and blah, blah, blah - but it does have a beautiful ending scene.
 Story 159; 3 episodes - Survival
 
