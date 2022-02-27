@@ -2,7 +2,7 @@
 
 # Season 1 (William Hartnell)
 
----
+## Summary - Season 1 (William Hartnell)
 
 This is a show trying to find its feet. Is it an ensemble show, or is the main character the mysterious man billed in the credits (really) as "Dr. Who"? Is it an educational children's history show or a scifi horror drama? It's all of those things! So many classic moments which still work, from the first scenes in An Unearthly Child to the grim moral dilemma of The Aztecs. If you're up for it, it's also totally possible to start the show at the beginning.
 
@@ -60,7 +60,7 @@ Story 8; 6 episodes - The Reign of Terror
 
 # Season 2 (William Hartnell)
 
----
+## Summary - Season 2 (William Hartnell)
 
 The second season is a bit more pedestrian, but still has fine moments. The TARDIS team have bonded and William Hartnell is much more avuncular and twinkly in the lead role.
 
@@ -138,7 +138,7 @@ Story 17; 4 episodes - The Time Meddler
 
 # Season 3 (William Hartnell)
 
----
+## Summary - Season 3 (William Hartnell)
 
 An uneven season which grows stronger as it progresses, and shoots for the moon with the ambitious epic The Daleks' Master Plan. The Doctor really starts to contemplate his losses and the weight of his traveling. Hartnell is also much stronger here - his health is still not what it was, but he's certainly not flubbing lines as often as he was in season 2.
 
@@ -224,7 +224,7 @@ Story 27; 4 episodes - The War Machines
 
 # Season 4 (William Hartnell and Patrick Troughton)
 
----
+## Summary - Season 4 (William Hartnell and Patrick Troughton)
 
 It's happening! William Hartnell's increasingly frail health prompts the BBC to find a way to recast the lead in their hit series. Remarkably, instead of casting a William Hartnell lookalike, they decide to go with Patrick Troughton, an impish little man with a Beatles moptop and a twinkle in his eye that may be friendly or may be cunning. He's certainly not the man we knew, and he's not interested in holding our hand through the craziness of the first regeneration.
 
@@ -302,7 +302,7 @@ Story 36; 7 episodes - The Evil of the Daleks
 
 # Season 5 (Patrick Troughton)
 
----
+## Summary - Season 5 (Patrick Troughton)
 
 Finally, some complete Patrick Troughton episodes! Let's be honest, you probably didn't slog through the previous almost-entirely-missing season, so this season is probably your introduction to the man, the myth, the legend. He's firmly established in the character by now, with a wonderful rapport with his definitive companion, 18th Century highlander, Jamie McCrimmon. A great season, introducing a handful of new monsters, though it ends with a clunker.
 
@@ -364,7 +364,7 @@ Story 43; 6 episodes - The Wheel in Space
 
 # Season 6 (Patrick Troughton)
 
----
+## Summary - Season 6 (Patrick Troughton)
 
 Troughton's final season is a mixed bag, but when it's great, it's incredible. Iconic moments abound and the season pushes the show's mythology towards truly incredible heights.
 
@@ -426,7 +426,7 @@ Story 50; 10 episodes - The War Games
 
 # Season 7 (Jon Pertwee)
 
----
+## Summary - Season 7 (Jon Pertwee)
 
 The Third Doctor's first season brings Doctor Who into the marvelous world of color. Jon Pertwee was primarily a comic actor, so it came as a surprise to everyone (including him, a bit) when he played the role " as himself," drawing on his background as a Naval Intelligence operative during the war. He's supported by a marvelous cast, including Nicholas Courtenay as Brigadier Alistair Gordon Lethbridge-Stewart (if you liked Kate Stewart in New Who, this is her dad.) While I love the gentler side he shows in later seasons, Pertwee may be at his best in his first outing, still showing the immaturity and unpredictability which characterized his predecessor's "trickster" persona.
 
@@ -466,7 +466,7 @@ Story 54; 7 episodes - Inferno
 
 # Season 8 (Jon Pertwee)
 
----
+## Summary - Season 8 (Jon Pertwee)
 
 The Third Doctor's second season isn't quite as experimental, swapping out the daring Liz Shaw for the more traditional (if adorable) Jo Grant, but it does introduce the Third Doctor's definitive villain, and there are some solid stories here.
 
@@ -512,7 +512,7 @@ Story 59; 5 episodes - The Daemons
 
 # Season 9 (Jon Pertwee)
 
----
+## Summary - Season 9 (Jon Pertwee)
 
 A weaker season, though Pertwee is always charming. 
 
@@ -552,7 +552,7 @@ Story 64; 6 episodes - The Time Monster
 
 # Season 10 (Jon Pertwee)
 
----
+## Summary - Season 10 (Jon Pertwee)
 
 The show arrives at its tenth anniversary, with a season more inventive than the previous one. We get our first multi-Doctor story and the show starts to gravitate back towards a more traditional travel-oriented premise. Still, the show is beginning to a feel a little comfortable with itself - the Tom Baker shot in the arm that it needs is still a season away.
 
@@ -598,7 +598,7 @@ Story 69; 6 episodes - The Green Death
 
 # Season 11 (Jon Pertwee)
 
----
+## Summary - Season 11 (Jon Pertwee)
 
 A new companion! Pertwee and Elizabeth Sladen have some great moments in this season (The Time Warrior is one for the ages), but it's clear the UNIT years have run out of steam. Behind the scenes, Pertwee had decided that he didn't want to go on without Delgado or Katy Manning, so this season feels a bit like it's treading water before an inevitable exit.
 
@@ -645,7 +645,7 @@ Story 74; 6 episodes - Planet of the Spiders
 
 # Season 12 (Tom Baker)
 
----
+## Summary - Season 12 (Tom Baker)
 
 Tom Baker arrives in a blaze of glory. He has great companions, great writing, an incredible wardrobe, charisma out the wazoo - Baker really had all the luck. It's for those reasons that I often suggest starting with Baker, because this was the golden moment when the show was firing on all cylinders (much as I love other eras).
 
@@ -691,7 +691,7 @@ Story 79; 4 episodes - Revenge of the Cybermen
 
 # Season 13 (Tom Baker)
 
----
+## Summary - Season 13 (Tom Baker)
 
 Tom Baker and Sarah Jane return for a second season. Harry Sullivan, alas, doesn't make it beyond episode one, as they'd realized that with a young Doctor they didn't need an athletic male companion to do the derring do anymore (I think Harry should have been kept for other reasons, but anyway.)
 
@@ -745,7 +745,7 @@ Story 85; 6 episodes - The Seeds of Doom
 
 # Season 14 (Tom Baker)
 
----
+## Summary - Season 14 (Tom Baker)
 
 While this season starts off weakly, it goes on to be one of the strongest the show ever did. Experimental, confident, intense, and funny, the show wasn't missing a beat.
 
@@ -799,7 +799,7 @@ Story 91; 6 episodes - The Talons of Weng Chiang
 
 # Season 15 (Tom Baker)
 
----
+## Summary - Season 15 (Tom Baker)
 
 Producer Philip Hinchcliffe leaves (alas), and with his departure the show starts to transition to a more PG approach. Not everybody likes the robot dog (Tom Baker certainly didn't!) but there's still a lot of good to be found in this era.
 
@@ -853,7 +853,7 @@ Story 97; 6 episodes - The Invasion of Time
 
 # Season 16 (Tom Baker)
 
----
+## Summary - Season 16 (Tom Baker)
 
 With Leela departed, it's time for yet another companion - and the first season to try serialization, as Romana and the Doctor search for the "key of time." As an experiment, it's just okay, but while it's not up to the earlier heights of the Tom Baker era, this is a solid collection of episodes. 
 
@@ -907,7 +907,7 @@ Story 103; 4 episodes - The Armageddon Factor
 
 # Season 17 (Tom Baker)
 
----
+## Summary - Season 17 (Tom Baker)
 
 A...sort of new...companion. Unfortunately a pretty uneven season with one classic.
 
@@ -961,7 +961,7 @@ Story 109; 0 episodes - Shada
 
 # Season 18 (Tom Baker) 
 
----
+## Summary - Season 18 (Tom Baker) 
 
 Tom Baker's final season regains a sense of purpose and weight as the dread of his regeneration grows. No more of that "oh, by the way, it's a regeneration episode" randomness of previous Doctors. Everybody knew what was coming here.
 
@@ -1015,7 +1015,7 @@ Story 115; 4 episodes - The Keeper of Traken/Logopolis
 
 # Season 19 (Peter Davison)
 
----
+## Summary - Season 19 (Peter Davison)
 
 Peter Davison had the unenviable task of following the wildly popular Tom Baker. He does so admirably, with a fey and amiable lightness of touch dramatically at odds with Baker's vain showboating. Unfortunately, the writers don't always know what to do with Davison's new approach, but when the episode gives him the opportunity, he can be great.
 
@@ -1077,7 +1077,7 @@ Story 123; 4 episodes - Time Flight
 
 # Season 20 (Peter Davison)
 
----
+## Summary - Season 20 (Peter Davison)
 
 An odd season, but one which features a fantastic arc with new companion, Turlough. There's fan service, but it's understated, and it's not afraid to push the limits of what's possible. 
 
@@ -1139,7 +1139,7 @@ Story 130; 1 episodes - The Five Doctors
 
 # Season 21 (Peter Davison)
 
----
+## Summary - Season 21 (Peter Davison)
 
  Peter Davison's final season grows stronger as it goes, though it's off to a rough start.
 
@@ -1201,7 +1201,7 @@ Story 137; 4 episodes - The Twin Dilemma
 
 # Season 22 (Colin Baker)
 
----
+## Summary - Season 22 (Colin Baker)
 
 All right, we need to talk about the Sixth Doctor. He's flamboyant and arrogant and unlike any other Doctor and I love him. His tenure on the show featured a dreadful run of episodes, and he starts off with the worst companion of all time, bumbling "American" Peri Brown. But he manages to thoroughly redeem himself in the audio world of Big Finish. I'll return to that at the end of this section.
 
@@ -1267,7 +1267,7 @@ Story 143; 2 episodes - Revelation of the Daleks
 
 # Season 24 (Sylvester McCoy)
 
----
+## Summary - Season 24 (Sylvester McCoy)
 
 Sylvester McCoy starts off with an absolute dump of a season. You can probably skip to the next season safely, but check out the final scene of Dragonfire, below.
 
@@ -1305,7 +1305,7 @@ Story 151; 3 episodes - Dragonfire
 
 # Season 25 (Sylvester McCoy)
 
----
+## Summary - Season 25 (Sylvester McCoy)
 
 Finally! The downward trend begins to reverse itself. The Seventh Doctor has a great new companion and a show which seems to remember its history and its dignity. No more panto. Mostly. 
 
@@ -1343,7 +1343,7 @@ Story 155; 4 episodes - The Greatest Show in the Galaxy
 
 # Season 26 (Sylvester McCoy)
 
----
+## Summary - Season 26 (Sylvester McCoy)
 
 The final season of the series has its ups and downs, but continues the trend of pushing the story in interesting directions. You can definitely see concepts that will be picked up again in the revived show, over a decade later.
 

@@ -57,8 +57,7 @@ def main():
                 last_info = EndLast(last_info, fw)
                 season = "<sub>" + line[2:].strip() + "</sub>"
                 print(line, file=fw)
-                print('', file=fw)
-                print('---', file=fw)
+                print(line.replace("# ", "\n## Summary - "), file=fw)
                 continue
             # ...
             if line.startswith("## "):
