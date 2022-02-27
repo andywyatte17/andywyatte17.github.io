@@ -2,6 +2,7 @@
 
 import io
 import json
+import sys
 from pprint import pprint
 import Levenshtein # py -3 -m pip install --user "python-Levenshtein"
 
@@ -22,19 +23,33 @@ def ClosestMatch(episode, JS):
     total = [(Levenshtein.distance(episode, x), y) for x, y in total]
     total = sorted(total, key=lambda x: x[0])
     x = total[0][1]
-    if total[0][0] > 5: print(episode, total[0])
-    return "Story {}; {} episodes".format(x["Story"], x["Episodes"])
+    #if total[0][0] > 1: print(episode, total[0])
+    return "Story {}; {} episodes - {}".format(x["Story"], x["Episodes"], x["Title"])
 
 def main():
     from update_md import ANDYS_WATCHES    
+
     with open(MD + ".base", "rb") as f:
         lines = f.read().decode('utf-8').splitlines()
+
+    def EndLast(last_info, fw):
+        print(last_info, file=fw)
+        print('', file=fw)
+        return None
+
+    last_info = None
+
     with io.open(MD, "w", encoding='utf-8', newline='\n') as fw:
         season = "???"
         for line in lines:
             if line.startswith("# Season"):
+                last_info = EndLast(last_info, fw)
                 season = "<sub>" + line[2:].strip() + "</sub>"
+                print(line, file=fw)
+                continue
+            # ...
             if line.startswith("## "):
+                last_info = EndLast(last_info, fw)
                 line_stripped = line[3:]
                 line_stripped = line_stripped \
                     .replace(" - Maybe", "") \
@@ -43,12 +58,15 @@ def main():
                     .replace(" - Skip", "")
                 if check_in_andys_list(line, ANDYS_WATCHES):
                     line += " - AW"
-                print(ClosestMatch(line_stripped, JS) + "\n", file=fw)
+                last_info = ClosestMatch(line_stripped, JS)
                 print(line, file=fw)
                 print('', file=fw)
                 print(season, file=fw)
                 continue
+            # ...
             print(line, file=fw)
+        # ...
+        last_info = EndLast(last_info, fw)
 
 if __name__=='__main__':
     main()
