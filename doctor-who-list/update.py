@@ -39,7 +39,7 @@ def main():
 
     with open(MD + ".base", "rb") as f:
         #lines = f.read().decode('cp1252', errors='backslashreplace').splitlines()
-        lines = f.read().decode('cp1252').splitlines()
+        lines = f.read().decode('utf-8').splitlines()
 
     def EndLast(last_info, fw):
         if last_info==None:

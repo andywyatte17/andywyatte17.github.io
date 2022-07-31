@@ -502,7 +502,7 @@ A dull story which picks up just a bit near the end. This scene is the best part
 
 Story 58; 6 episodes - Colony in Space
 
-## The DÃ¦mons - Watch
+## The Dæmons - Watch
 
 <sub>Season 8 (Jon Pertwee)</sub>
 
@@ -606,7 +606,7 @@ A new companion! Pertwee and Elizabeth Sladen have some great moments in this se
 
 <sub>Season 11 (Jon Pertwee)</sub>
 
-Introduction of Everybody's Favorite Companionâ„¢ Sarah Jane Smith and a near-perfect adventure story, combining an iconic new monster with a fun historical setting and sizzling dialogue. My platonic ideal for a Doctor Who episode.
+Introduction of Everybody's Favorite Companion™ Sarah Jane Smith and a near-perfect adventure story, combining an iconic new monster with a fun historical setting and sizzling dialogue. My platonic ideal for a Doctor Who episode.
 
 Story 70; 4 episodes - The Time Warrior
 
@@ -1241,7 +1241,7 @@ Story 141; 3 episodes - The Two Doctors
 
 <sub>Season 22 (Colin Baker)</sub>
 
-Widely considered the worst Who story of all timeâ€¦ an opinion with which I disagree, (I tend to prefer bad to boring) but it is, of course, absolutely dreadful.
+Widely considered the worst Who story of all time… an opinion with which I disagree, (I tend to prefer bad to boring) but it is, of course, absolutely dreadful.
 
 Story 142; 2 episodes - Timelash
 
@@ -1249,9 +1249,13 @@ Story 142; 2 episodes - Timelash
 
 <sub>Season 22 (Colin Baker)</sub>
 
-I almost went with "maybe" for this one. The plot is not that great, but it looks fantastic. Classic Who's best director, Graeme Harper, returns with moving cameras and pleasing color and mise en scÃ¨ne. But the first episode sidelines the Doctor and Peri for so long that the story seems like it takes forever to get anywhere. Colin Baker's Doctor is gentler here. Still, is it worth it? Probably not. 
+I almost went with "maybe" for this one. The plot is not that great, but it looks fantastic. Classic Who's best director, Graeme Harper, returns with moving cameras and pleasing color and mise en scène. But the first episode sidelines the Doctor and Peri for so long that the story seems like it takes forever to get anywhere. Colin Baker's Doctor is gentler here. Still, is it worth it? Probably not. 
 
-Season 23 (Colin Baker)
+Story 143; 2 episodes - Revelation of the Daleks
+
+# Season 23 (Colin Baker)
+
+## Summary - Season 23 (Colin Baker)
 
 For Colin Baker's second season, the writers decided to try for an extremely experimental approach: one massive story framed by a trial. The Doctor is on trial before the Time Lords, accused of genocide - the first three episode are retrospective pieces of evidence presented by the prosecution. All in all, the four episodes are known as Trial of a Timelord: 
 
@@ -1262,8 +1266,6 @@ Skip, Watch, or Maybe? This is tough. It's a weird and high concept series that 
 Here's where I'm going to stop you and explain why I love the Sixth Doctor so much. After the show was cancelled, a group of fans formed Big Finish, a company which produced audio dramas set in the world of Doctor Who. They turned in some of the most wonderful story-telling the show's world has received, and much of it influenced (and is still referenced in) the revived show (remember the Eighth Doctor listing his companions? That was Big Finish.) I recommend you head over to Spotify now and start with The Marian Conspiracy, a wonderful introduction to his most wonderful of companions, elderly history teacher Evelyn Smythe. 
 
 Colin's final story is The Last Adventure, in which he battles the Valeyard. On the original show, Colin was fired and so Sylvester McCoy regenerated with an obscured face and a blond wig. But The Last Adventure ends with a re-written regeneration, segueing smoothly into the opening of the next episode. Many fans have made animated versions of that scene from the audio drama, but this deepfake one is the best, giving Colin, finally, a decent send-off. (If you want something a bit funnier, try this.)
-
-Story 143; 2 episodes - Revelation of the Daleks
 
 # Season 24 (Sylvester McCoy)
 
