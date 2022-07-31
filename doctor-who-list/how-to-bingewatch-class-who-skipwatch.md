@@ -1257,27 +1257,59 @@ Story 143; 2 episodes - Revelation of the Daleks
 
 ## Summary - Season 23 (Colin Baker)
 
-## Season 23
-
-<sub>Season 23 (Colin Baker)</sub>
-
 For Colin Baker's second season, the writers decided to try for an extremely experimental approach: one massive story framed by a trial. The Doctor is on trial before the Time Lords, accused of genocide - the first three episode are retrospective pieces of evidence presented by the prosecution. All in all, the four episodes are known as Trial of a Timelord: 
 
 The Mysterious Planet, Mindwarp, Terror of the Vervoids, and The Ultimate Foe.
 
-Skip, Watch, or Maybe? This is tough. It's a weird and high concept series that still has some but not all of the problems of the previous season. The Doctor is kinder. It's an interesting, twisty plot - but it does still have a lot of the same pitfalls, and I don't point to any part of it as definitively great. I'm gonna go with Maybe.
-
-Story 109; 0 episodes - Shada
-
-## Season 23 (continued)
+## The Mysterious Planet
 
 <sub>Season 23 (Colin Baker)</sub>
 
-Here's where I'm going to stop you and explain why I love the Sixth Doctor so much. After the show was cancelled, a group of fans formed Big Finish, a company which produced audio dramas set in the world of Doctor Who. They turned in some of the most wonderful story-telling the show's world has received, and much of it influenced (and is still referenced in) the revived show (remember the Eighth Doctor listing his companions? That was Big Finish.) I recommend you head over to Spotify now and start with The Marian Conspiracy, a wonderful introduction to his most wonderful of companions, elderly history teacher Evelyn Smythe. 
+Skip, Watch, or Maybe? This is tough. It's a weird and high concept series that still has some but not
+ all of the problems of the previous season. The Doctor is kinder. It's an interesting, twisty plot -
+ but it does still have a lot of the same pitfalls, and I don't point to any part of it as definitively great.
+ I'm gonna go with Maybe.
 
-Colin's final story is The Last Adventure, in which he battles the Valeyard. On the original show, Colin was fired and so Sylvester McCoy regenerated with an obscured face and a blond wig. But The Last Adventure ends with a re-written regeneration, segueing smoothly into the opening of the next episode. Many fans have made animated versions of that scene from the audio drama, but this deepfake one is the best, giving Colin, finally, a decent send-off. (If you want something a bit funnier, try this.)
+Here's where I'm going to stop you and explain why I love the Sixth Doctor so much. After the show was cancelled,
+ a group of fans formed Big Finish, a company which produced audio dramas set in the world of Doctor Who. They
+  turned in some of the most wonderful story-telling the show's world has received, and much of it influenced
+  (and is still referenced in) the revived show (remember the Eighth Doctor listing his companions? That was
+  Big Finish.) I recommend you head over to Spotify now and start with The Marian Conspiracy, a wonderful
+  introduction to his most wonderful of companions, elderly history teacher Evelyn Smythe. 
 
-Story 151; 3 episodes - Dragonfire
+...
+
+Story 144; 4 episodes - The Mysterious Planet
+
+## Mindwarp
+
+<sub>Season 23 (Colin Baker)</sub>
+
+...
+
+Story 145; 4 episodes - Mindwarp
+
+## Terror of the Vervoids
+
+<sub>Season 23 (Colin Baker)</sub>
+
+...
+
+Story 146; 4 episodes - Terror of the Vervoids
+
+## The Ultimate Foe
+
+<sub>Season 23 (Colin Baker)</sub>
+
+...
+
+Colin's final story is The Last Adventure, in which he battles the Valeyard. On the original show, Colin
+ was fired and so Sylvester McCoy regenerated with an obscured face and a blond wig. But The Last
+ Adventure ends with a re-written regeneration, segueing smoothly into the opening of the next episode.
+ Many fans have made animated versions of that scene from the audio drama, but this deepfake one is the
+ best, giving Colin, finally, a decent send-off. (If you want something a bit funnier, try this.)
+
+Story 147; 2 episodes - The Ultimate Foe
 
 # Season 24 (Sylvester McCoy)
 
