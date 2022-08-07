@@ -516,7 +516,13 @@ Story 59; 5 episodes - The Daemons
 
 A weaker season, though Pertwee is always charming. 
 
-Day of the Daleks - Maybe  - What could have been a middling story is bumped up a bit by a startling third act twist. Pertwee has a grand old time wining and dining. It's not a classic, but it's entertaining. 
+## Day of the Daleks - Maybe
+
+<sub>Season 9 (Jon Pertwee)</sub>
+
+What could have been a middling story is bumped up a bit by a startling third act twist. Pertwee has a grand old time wining and dining. It's not a classic, but it's entertaining. 
+
+Story 60; 4 episodes - Day of the Daleks
 
 ## The Curse of Peladon - Skip
 
@@ -1399,11 +1405,23 @@ The final season of the series has its ups and downs, but continues the trend of
 
 Cons: It's got a cheesy plot and villain. Pros: It's the return of the Brig. Do you need another pro? 
 
-Ghost Light - Watch  - A strange, incomprehensible Victorian tale which reveals important details about Ace's past and clearly foreshadows a more New Who-style companion arc. I'm probably not selling it well, but it's entertaining!
-
-The Curse of Fenric - Watch  - Zombies and Vikings and paradoxes, oh my! This is a startling, dark story which continues the thread begun in Ghost Light. Some excellent acting from McCoy, and Ace gets to show some range.
-
 Story 156; 4 episodes - Battlefield
+
+## Ghost Light - Watch
+
+<sub>Season 26 (Sylvester McCoy)</sub>
+
+A strange, incomprehensible Victorian tale which reveals important details about Ace's past and clearly foreshadows a more New Who-style companion arc. I'm probably not selling it well, but it's entertaining!
+
+Story 157; 3 episodes - Ghost Light
+
+## The Curse of Fenric - Watch
+
+<sub>Season 26 (Sylvester McCoy)</sub>
+
+Zombies and Vikings and paradoxes, oh my! This is a startling, dark story which continues the thread begun in Ghost Light. Some excellent acting from McCoy, and Ace gets to show some range.
+
+Story 158; 4 episodes - The Curse of Fenric
 
 ## Survival - Maybe
 
