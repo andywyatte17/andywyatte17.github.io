@@ -1667,13 +1667,17 @@ have made animated versions of that scene from the audio drama, but this
 deepfake one is the best, giving Colin, finally, a decent send-off. (If you want
 something a bit funnier, try this.)
 
+# Season 24 (Sylvester McCoy)
+
+## Summary - Season 24 (Sylvester McCoy)
+
 Sylvester McCoy starts off with an absolute dump of a season. You can probably
 skip to the next season safely, but check out the final scene of Dragonfire,
 below.
 
 ## Time and the Rani - Skip
 
-<sub>Season 23 (Colin Baker)</sub>
+<sub>Season 24 (Sylvester McCoy)</sub>
 
 An embarrassment of an introductory episode. The best part is Sylvester McCoy
 playing spoons, if that tells you anything.
@@ -1682,7 +1686,7 @@ Story 144; 4 episodes - Time and the Rani
 
 ## Paradise Towers - Skip
 
-<sub>Season 23 (Colin Baker)</sub>
+<sub>Season 24 (Sylvester McCoy)</sub>
 
 I like parts of this. There are weird friendly cannibal ladies. And a Tom
 Hiddleston lookalike. Oddly enough, it was based on a story which was later
@@ -1693,7 +1697,7 @@ Story 145; 4 episodes - Paradise Towers
 
 ## Delta and the Bannermen - Maybe
 
-<sub>Season 23 (Colin Baker)</sub>
+<sub>Season 24 (Sylvester McCoy)</sub>
 
 Soooo this one is really weird and probably an episode most people dislike, but
 I think it's fun. The Doctor and Mel think they're going to 1950s Disneyland,
@@ -1706,7 +1710,7 @@ Story 146; 3 episodes - Delta and the Bannermen
 
 ## Dragonfire - Skip
 
-<sub>Season 23 (Colin Baker)</sub>
+<sub>Season 24 (Sylvester McCoy)</sub>
 
 The main reason to watch this is that it's the exit for Mel and the entry point
 for the first really good companion we've had for ages: Ace McShane. The
