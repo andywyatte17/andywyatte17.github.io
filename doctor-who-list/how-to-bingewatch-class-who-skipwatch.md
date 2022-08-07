@@ -1265,7 +1265,7 @@ Story 108; 4 episodes - The Horns of Nimon
 It's unfinished, but I liked this one. Probably not worth forging through, but
 some excellent moments and concepts - a shame it was never completed.
 
-Story 109; 0 episodes - Shada
+Story 108.5; 0 episodes - Shada
 
 # Season 18 (Tom Baker) 
 
@@ -1281,7 +1281,7 @@ episode" randomness of previous Doctors. Everybody knew what was coming here.
 
 Pretty cheesy, though it does have Tom Baker in old age makeup, which is fun.
 
-Story 110; 4 episodes - The Leisure Hive
+Story 109; 4 episodes - The Leisure Hive
 
 ## Meglos - Maybe
 
@@ -1289,7 +1289,7 @@ Story 110; 4 episodes - The Leisure Hive
 
 A kind of fun Doctor doppelganger story.
 
-Story 111; 4 episodes - Meglos
+Story 110; 4 episodes - Meglos
 
 ## Full Circle - Maybe
 
@@ -1298,7 +1298,7 @@ Story 111; 4 episodes - Meglos
 Introduction of new companion, Adric. Not a great episode, but it explains why
 Adric is always going on about getting back to "e space." 
 
-Story 112; 4 episodes - Full Circle
+Story 111; 4 episodes - Full Circle
 
 ## State of Decay - Skip
 
@@ -1306,7 +1306,7 @@ Story 112; 4 episodes - Full Circle
 
 Evil vampires. Adric being an idiot.
 
-Story 113; 4 episodes - State of Decay
+Story 112; 4 episodes - State of Decay
 
 ## Warriors' Gate - Watch
 
@@ -1314,7 +1314,7 @@ Story 113; 4 episodes - State of Decay
 
 A great episode, and the exit for Romana. 
 
-Story 114; 4 episodes - Warriors' Gate
+Story 113; 4 episodes - Warriors' Gate
 
 ## The Keeper of Traken/Logopolis - Essential
 
@@ -1322,7 +1322,7 @@ Story 114; 4 episodes - Warriors' Gate
 
 Tom Baker's final bow, and the introduction of two new companions. 
 
-Story 115; 4 episodes - The Keeper of Traken/Logopolis
+Story 114; 4 episodes - The Keeper of Traken
 
 # Season 19 (Peter Davison)
 
@@ -1341,7 +1341,7 @@ opportunity, he can be great.
 Essential, a new type of regeneration story. It's easy to see the influence in
 New Who. I love the high concept set design, and the throwbacks are nice. 
 
-Story 117; 4 episodes - Castrovalva
+Story 116; 4 episodes - Castrovalva
 
 ## Four to Doomsday - Skip
 
@@ -1349,7 +1349,7 @@ Story 117; 4 episodes - Castrovalva
 
 Nothing happens in this one.
 
-Story 118; 4 episodes - Four to Doomsday
+Story 117; 4 episodes - Four to Doomsday
 
 ## Kinda - Maybe
 
@@ -1358,7 +1358,7 @@ Story 118; 4 episodes - Four to Doomsday
 A weird hallucinogenic adventure. Pretty well-regarded, but I wasn't crazy about
 it.
 
-Story 119; 4 episodes - Kinda
+Story 118; 4 episodes - Kinda
 
 ## The Visitation - Watch
 
@@ -1367,7 +1367,7 @@ Story 119; 4 episodes - Kinda
 A solid historical with some great Davison Doctor moments. I know this one isn't
 widely loved but I enjoyed it. 
 
-Story 120; 4 episodes - The Visitation
+Story 119; 4 episodes - The Visitation
 
 ## Black Orchid - Maybe
 
@@ -1375,7 +1375,7 @@ Story 120; 4 episodes - The Visitation
 
 It's lightweight, but fun. The Doctor and co. visit the 1920s.
 
-Story 121; 2 episodes - Black Orchid
+Story 120; 2 episodes - Black Orchid
 
 ## Earthshock - Essential
 
@@ -1385,7 +1385,7 @@ You'll see why when you've finished. A really serious twist makes the show's
 stakes really matter again. And Adric is even kind of...likable in this? Davison
 gets some great moments too.
 
-Story 122; 4 episodes - Earthshock
+Story 121; 4 episodes - Earthshock
 
 ## Time-Flight - Skip
 
@@ -1394,7 +1394,7 @@ Story 122; 4 episodes - Earthshock
 Deathly dull. Read the summary to figure out the one important plot development,
 but only if you're planning to watch the next episode.
 
-Story 123; 4 episodes - Time Flight
+Story 122; 4 episodes - Time Flight
 
 # Season 20 (Peter Davison)
 
@@ -1413,7 +1413,7 @@ They're on location in Amsterdam, which is neat, and a plot point from
 Time-Flight is undone, but if neither of those things is all that important to
 you, skip it.
 
-Story 124; 4 episodes - Arc of Infinity
+Story 123; 4 episodes - Arc of Infinity
 
 ## Snakedance - Maybe
 
@@ -1421,7 +1421,7 @@ Story 124; 4 episodes - Arc of Infinity
 
 Very weird, in the same way as Kinda. 
 
-Story 125; 4 episodes - Snakedance
+Story 124; 4 episodes - Snakedance
 
 ## Mawdryn Undead - Watch
 
@@ -1431,7 +1431,7 @@ It's a bit slow, but it features the return of the Brigadier, so it's
 unmissable. It begins the Black Guardian trilogy, which focuses on new
 companion, Turlough.
 
-Story 126; 4 episodes - Mawdryn Undead
+Story 125; 4 episodes - Mawdryn Undead
 
 ## Terminus - Skip
 
@@ -1440,7 +1440,7 @@ Story 126; 4 episodes - Mawdryn Undead
 A dull middle episode in the Black Guardian trilogy. Though one important thing
 happens.
 
-Story 127; 4 episodes - Terminus
+Story 126; 4 episodes - Terminus
 
 ## Enlightenment - Watch
 
@@ -1449,7 +1449,7 @@ Story 127; 4 episodes - Terminus
 A really terrific conclusion to the trilogy. Strikingly realized art direction
 and good pacing make this one of the Fifth Doctor's best episodes.
 
-Story 128; 4 episodes - Enlightenment
+Story 127; 4 episodes - Enlightenment
 
 ## The King's Demons - Skip
 
@@ -1458,7 +1458,7 @@ Story 128; 4 episodes - Enlightenment
 A rather mediocre historical featuring The Mastahhhh. It explains the origin of
 Kamelion, but do you really need to know that? Nope. 
 
-Story 129; 2 episodes - The King's Demons
+Story 128; 2 episodes - The King's Demons
 
 ## The Five Doctors - Maybe
 
@@ -1467,7 +1467,7 @@ Story 129; 2 episodes - The King's Demons
 It's the return of some familiar faces, but it's really uneventful and not as
 good as The Three Doctors.
 
-Story 130; 1 episodes - The Five Doctors
+Story 129; 1 episodes - The Five Doctors
 
 # Season 21 (Peter Davison)
 
@@ -1482,7 +1482,7 @@ Story 130; 1 episodes - The Five Doctors
 
 A famously awful monster and a mess of a plot. Solid ending scene though.
 
-Story 131; 4 episodes - Warriors of the Deep
+Story 130; 4 episodes - Warriors of the Deep
 
 ## The Awakening - Skip
 
@@ -1490,7 +1490,7 @@ Story 131; 4 episodes - Warriors of the Deep
 
 I remember nothing about this one.
 
-Story 132; 2 episodes - The Awakening
+Story 131; 2 episodes - The Awakening
 
 ## Frontios - Maybe
 
@@ -1501,7 +1501,7 @@ onto survival. The plot is nothing to write home about, but some of the Fifth
 Doctor's best lines appear here. "Tell them I came and went like a summer
 cloud."
 
-Story 133; 4 episodes - Frontios
+Story 132; 4 episodes - Frontios
 
 ## Resurrection of the Daleks - Maybe
 
@@ -1512,7 +1512,7 @@ amount to much except a lot of death. It's so violent, in fact, that it results
 in this final scene, which you should watch. As companion exits go, it's not
 bad. 
 
-Story 134; 2 episodes - Resurrection of the Daleks
+Story 133; 2 episodes - Resurrection of the Daleks
 
 ## Planet of Fire - Watch
 
@@ -1521,7 +1521,7 @@ Story 134; 2 episodes - Resurrection of the Daleks
 The end of Turlough's story, the intro of a new companion, and a pretty good
 episode.
 
-Story 135; 4 episodes - Planet of Fire
+Story 134; 4 episodes - Planet of Fire
 
 ## The Caves of Androzani - Essential
 
@@ -1533,7 +1533,7 @@ Davison's tenure in the TARDIS. There are parts of it that don't work for me
 literally any other companion accompany the Fifth Doctor to his doom), but the
 iconography of the ending is extraordinary.
 
-Story 136; 4 episodes - The Caves of Androzani
+Story 135; 4 episodes - The Caves of Androzani
 
 ## Twin Dilemma - Skip
 
@@ -1545,7 +1545,7 @@ Doctor, but the episode itself is painful. Be kind to yourself and skip. Maybe
 watch his first scene, though, just because Colin is clearly having a lot of fun
 with it.
 
-Story 137; 4 episodes - The Twin Dilemma
+Story 136; 4 episodes - The Twin Dilemma
 
 # Season 22 (Colin Baker)
 
@@ -1566,7 +1566,7 @@ Less painful than some Baker stories, but not terribly inventive. A ton of
 throwbacks, which are kind of random but fun. There is an intensity here that
 might make it worth watching, and the Doctor fixes the chameleon circuit! 
 
-Story 138; 2 episodes - Attack of the Cybermen
+Story 137; 2 episodes - Attack of the Cybermen
 
 ## Vengeance on Varos - Maybe
 
@@ -1578,7 +1578,7 @@ the era's style. Doctor Who does The Hunger Games, sorta? But even grimmer. I
 enjoyed the story, even if I think its sensibilities are not really Doctor
 Who-ish. 
 
-Story 139; 2 episodes - Vengeance on Varos
+Story 138; 2 episodes - Vengeance on Varos
 
 ## The Mark of the Rani - Skip
 
@@ -1588,7 +1588,7 @@ This has nice bits - it has some good locations and gets Colin out of the
 rainbow suit, which is nice. It brings back the Master and introduces a new
 female villain: the Rani. But it's mostly forgettable.
 
-Story 140; 2 episodes - The Mark of the Rani
+Story 139; 2 episodes - The Mark of the Rani
 
 ## The Two Doctors - Skip
 
@@ -1599,7 +1599,7 @@ Troughton forced into the grimdark circus that is the Colin Baker years, but at
 the same time, it's Patrick Troughton. He's back! With Jamie! Which is
 delightful! But what a waste!
 
-Story 141; 3 episodes - The Two Doctors
+Story 140; 3 episodes - The Two Doctors
 
 ## Timelash - Skip
 
@@ -1609,7 +1609,7 @@ Widely considered the worst Who story of all time… an opinion with which I
 disagree, (I tend to prefer bad to boring) but it is, of course, absolutely
 dreadful.
 
-Story 142; 2 episodes - Timelash
+Story 141; 2 episodes - Timelash
 
 ## Revelation of the Daleks - Skip
 
@@ -1622,7 +1622,7 @@ the Doctor and Peri for so long that the story seems like it takes forever to
 get anywhere. Colin Baker's Doctor is gentler here. Still, is it worth it?
 Probably not. 
 
-Story 143; 2 episodes - Revelation of the Daleks
+Story 142; 2 episodes - Revelation of the Daleks
 
 # Season 23 (Colin Baker)
 
@@ -1678,7 +1678,7 @@ below.
 An embarrassment of an introductory episode. The best part is Sylvester McCoy
 playing spoons, if that tells you anything.
 
-Story 148; 4 episodes - Time and the Rani
+Story 144; 4 episodes - Time and the Rani
 
 ## Paradise Towers - Skip
 
@@ -1689,7 +1689,7 @@ Hiddleston lookalike. Oddly enough, it was based on a story which was later
 remade as a film starring...Tom Hiddleston. The premise is okay. But it's all
 drenched in that terrible 80's Who dreck and over-acting.
 
-Story 149; 4 episodes - Paradise Towers
+Story 145; 4 episodes - Paradise Towers
 
 ## Delta and the Bannermen - Maybe
 
@@ -1702,7 +1702,7 @@ several extraterrestrial visitors. It's possible that I liked it was because the
 rest of this season is dreadful, but it's the best of the early McCoy panto
 period for sure. 
 
-Story 150; 3 episodes - Delta and the Bannermen
+Story 146; 3 episodes - Delta and the Bannermen
 
 ## Dragonfire - Skip
 
@@ -1713,7 +1713,7 @@ for the first really good companion we've had for ages: Ace McShane. The
 episode's not great, but Mel's goodbye is very good. McCoy delivers a touching
 speech. Watch the goodbye and the speech here.
 
-Story 151; 3 episodes - Dragonfire
+Story 147; 3 episodes - Dragonfire
 
 # Season 25 (Sylvester McCoy)
 
@@ -1733,7 +1733,7 @@ Sylvester McCoy said at a convention I attended that he based this shift in
 portrayal on his grandmother who lived to over 100 - that "weariness" and age is
 something he tries to convey - and succeeds beautifully.
 
-Story 152; 4 episodes - Remembrance of the Daleks
+Story 148; 4 episodes - Remembrance of the Daleks
 
 ## The Happiness Patrol - Watch
 
@@ -1748,7 +1748,7 @@ ways of killing people, an unexpected success as a villain. So is Helen A. - the
 society's dictator (based on Margaret Thatcher, but that wasn't obvious to me as
 a modern American viewer) played by a mustache-twirly Sheila Hancock.
 
-Story 153; 3 episodes - The Happiness Patrol
+Story 149; 3 episodes - The Happiness Patrol
 
 ## Silver Nemesis - Maybe
 
@@ -1757,7 +1757,7 @@ Story 153; 3 episodes - The Happiness Patrol
 Corny, uneven, heavily incorporating elements of Arthurian legend which will be
 important to the Seventh Doctor's mythos. 
 
-Story 154; 3 episodes - Silver Nemesis
+Story 150; 3 episodes - Silver Nemesis
 
 ## The Greatest Show in the Galaxy - Watch
 
@@ -1767,7 +1767,7 @@ Most of this is really good, though some late Sylvester clowning nearly sinks
 the whole affair. Creepy clowns galore! And a definite Mad Max vibe to the waste
 land in which the Doctor and Ace find themselves.
 
-Story 155; 4 episodes - The Greatest Show in the Galaxy
+Story 151; 4 episodes - The Greatest Show in the Galaxy
 
 # Season 26 (Sylvester McCoy)
 
@@ -1784,7 +1784,7 @@ that will be picked up again in the revived show, over a decade later.
 Cons: It's got a cheesy plot and villain. Pros: It's the return of the Brig. Do
 you need another pro? 
 
-Story 156; 4 episodes - Battlefield
+Story 152; 4 episodes - Battlefield
 
 ## Ghost Light - Watch
 
@@ -1794,7 +1794,7 @@ A strange, incomprehensible Victorian tale which reveals important details about
 Ace's past and clearly foreshadows a more New Who-style companion arc. I'm
 probably not selling it well, but it's entertaining!
 
-Story 157; 3 episodes - Ghost Light
+Story 153; 3 episodes - Ghost Light
 
 ## The Curse of Fenric - Watch
 
@@ -1804,7 +1804,7 @@ Zombies and Vikings and paradoxes, oh my! This is a startling, dark story which
 continues the thread begun in Ghost Light. Some excellent acting from McCoy, and
 Ace gets to show some range.
 
-Story 158; 4 episodes - The Curse of Fenric
+Story 154; 4 episodes - The Curse of Fenric
 
 ## Survival - Maybe
 
@@ -1814,5 +1814,5 @@ The final episode of the show is nothing special. Something about mutant animals
 and ancient instincts and blah, blah, blah - but it does have a beautiful ending
 scene.
 
-Story 159; 3 episodes - Survival
+Story 155; 3 episodes - Survival
 
