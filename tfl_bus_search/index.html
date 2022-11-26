@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tfl Bus Search</title>
+</head>
+
+<body>
+    <!-- ... -->
+    <script>
+        function changeUrl() {
+            document.getElementById("go").setAttribute(
+                "href",
+                "https://www.google.com/search?hl=en-GB&as_q=Bus%20" +
+                "75555" + // document.getElementById("buscode").textContent +
+                "&as_sitesearch=Tfl.gov.uk"
+            );
+        }        
+    </script>
+    <!-- ... -->
+    <p>Quickly search for a bus stop corresponding to the Tfl Bus Stop Code.</p>
+    <!-- ... -->
+    <p>
+    <form>
+        <label for="buscode">Bus Stop Code:</label>
+        <input type="text" id="buscode" name="buscode" onchange="changeUrl();">
+    </form>
+    </p>
+    <a href="#" id="go" style="background-color: gray; color: white; padding: 15px 25px">Go!</a>
+    <p id="demo"></p>
+    <!-- ... -->
+</body>
+
+</html>
