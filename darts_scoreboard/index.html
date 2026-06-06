@@ -46,6 +46,7 @@
     </div>
     <div id="scores_area">
     </div>
+    <p id="voice_status" style="color: #888; font-style: italic; min-height: 1.4em;"></p>
 
     <script type="application/javascript">
         var player1 = {
@@ -169,9 +170,9 @@
             for (var i = 1; i <= 20; i += 1) {
                 var button = document.createElement("button");
                 button.innerText = i.toString();
-                button.onclick = function() {
-                    score(n.toString());
-                };
+                button.onclick = (function(i) {
+                    return function() { score([1, i, i.toString()]); };
+                })(i);
                 numbers.append(button);
             }
         }
@@ -193,6 +194,7 @@
 
             var MakeScoreFunction = function(s) {
                 return function() {
+                    document.getElementById('voice_status').innerText = 'Heard: ' + s[2];
                     score(s);
                 };
             };
@@ -223,7 +225,7 @@
                         alternatives = ["25", "outer bull"];
                     if (s === "double 25")
                         alternatives = ["bull", "bulls-eye"];
-                    if (s === "triple 25")
+                    if (s === "treble 25")
                         alternatives = [];
                     for (let z = 0; z < alternatives.length; z += 1) {
                         var s2 = y.toString();
@@ -250,7 +252,13 @@
             annyang.addCommands(commands);
 
             // Start listening. You can call this here, or attach this call to an event, button, etc.
-            annyang.start();
+            annyang.addCallback('soundstart', function() {
+                document.getElementById('voice_status').innerText = 'Listening...';
+            });
+            annyang.addCallback('resultNoMatch', function(phrases) {
+                document.getElementById('voice_status').innerText = 'No match: "' + phrases[0] + '"';
+            });
+            annyang.start({ autoRestart: true, continuous: false });
         }
     </script>
 </body>
