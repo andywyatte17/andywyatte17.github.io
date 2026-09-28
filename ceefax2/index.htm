@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="ASCII">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- width is 40, height = 23 -->
+  <div id="page" style="white-space: pre;">
+1-RE....aaaa    ccccddddeeeeffffgggghhhh
+&#1;2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+  </div>
+
+  <div class="mycontainer">
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const pageDiv = document.getElementById('page');
+      const mc = document.querySelector('.mycontainer');
+
+      const F = (line, index) =>
+      {
+        var res = '<p>';
+        var inSpan = false;
+        for(const ch of line)
+        {
+          if(ch.charCodeAt(0)==128 || ch.charCodeAt(0)==1)
+          {
+            if(inSpan==true)
+            {
+              inSpan = false;
+              res += "</span>";
+            }
+            res += " <span class='red'>&nbsp;";
+            inSpan = true;
+          }
+          else if(ch.charCodeAt(0)==32)
+          {
+            res += "&nbsp;";
+          }
+          else
+          {
+            res += ch;
+          }
+        }
+        if(inSpan===true)
+        {
+          inSpan = false;
+          res += "</span>";
+        }
+        res += '</p>';
+        return res;
+      };
+
+      const lines = pageDiv.innerText.split('\n');
+      const paragraphs = lines.map((line, index) => F(line, index)).join('');
+      mc.innerHTML = paragraphs;
+    });
+  </script>
+</body>
+
+</html>
