@@ -16,20 +16,22 @@
 
   /* LIVE TEST DATA FROM NEWS FEED */
   // Use BetaSignal to grab some test data:
-  $.getJSON('http://betasignal.com/api/1.0/json/clusters_callback.js?callback=?', {});
+  //$.getJSON('http://betasignal.com/api/1.0/json/clusters_callback.js?callback=?', {});
 
+  /*
   var betasignal_clusters = function( jsonData ) {
     $.each(jsonData, function(i, article) {
       Ceefax.Pages.push(new CeefaxPage(i, article.source, article.title, article.summary));
     });
   }
+  */
 
-  /*cheaply skirt the allow-origin issue
-  $.getJSON('dropbox.com/s/g49mib36rqbpv2v/testdata.json', function( data ) {
+  // Load the data from JSON, for our personalised BBC News feed:
+  $.getJSON('testdata.json', function( data ) {
     $.each(data, function(i, a) {
       Ceefax.Pages.push(new CeefaxPage(a.page, a.category, a.headline, a.article));
     });
-  });*/
+  });
 
   Ceefax.run("myCanvas", 1000/30, 100);
   </script>
