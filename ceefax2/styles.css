@@ -1,6 +1,6 @@
 :root {
   --border-large: 0.5;
-  --ceefax-h: 80.3;
+  --ceefax-h: 88;
   --ceefax-w: 88;
   --tv-h: 123.3;
   --tv-w: 172;
@@ -25,31 +25,6 @@ body {
   margin: 0;
   padding: 0;
   background: black;
-}
-
-#clock {
-  position: absolute;
-  left: 67.75vmin;
-  top: .4vmin;
-  margin-block-start: 0;
-  margin-block-end: 0;
-  font-size: 2.8vmin;
-  overflow: hidden;
-  inline-size: 100%;
-
-  color: yellow;
-  width: 20vmin;
-  height: 5.8vmin;
-  float: left;
-}
-
-.bbc {
-  position: relative;
-  left: 2.2%;
-  width: 100%;
-  height: 9vmin;
-
-  background-size: cover;
 }
 
 .yellow {
@@ -100,8 +75,6 @@ body {
     opacity: 1;
   }
 }
-
-
 
 .mycontainer {
   font-family: 'modesevenregular';
